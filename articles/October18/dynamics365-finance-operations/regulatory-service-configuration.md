@@ -1,0 +1,39 @@
+---
+title: "Microsoft Dynamics 365 for Finance and Operations - Services de réglementation, service de configuration"
+description: "Cette rubrique décrit le Service de configuration publié dans le cadre de Microsoft Dynamics 365 for Finance and Operations - Services de réglementation."
+author: JaneA07
+manager: sshvedov
+ms.date: 07/22/2018
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: janeaug
+audience: Admin
+ms.translationtype: HT
+ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
+ms.openlocfilehash: e56816ca696ce846b0a629daf670c9b04b14ca70
+ms.contentlocale: fr-fr
+ms.lasthandoff: 07/18/2018
+
+---
+#  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a><span data-ttu-id="8bc85-103">Microsoft Dynamics 365 for Finance and Operations - Services de réglementation, service de configuration</span><span class="sxs-lookup"><span data-stu-id="8bc85-103">Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service</span></span> 
+
+
+[!include[banner](../../includes/banner.md)]
+
+<span data-ttu-id="8bc85-104">Le Service de configuration de Microsoft Dynamics 365 for Finance and Operations - Services de réglementation est une évolution de l'outil de configuration réglementaire (également connu sous le nom d'États électroniques).</span><span class="sxs-lookup"><span data-stu-id="8bc85-104">The Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service is the evolution of the regulatory configuration tool (also known as Electronic Reporting).</span></span> <span data-ttu-id="8bc85-105">Le Service de configuration permet aux partenaires et aux clients utilisant plusieurs versions de Microsoft Dynamics 365 for Finance and Operations et des versions antérieures de Microsoft Dynamics AX (par exemple AX 2012 et AX 2009, pour l'Inde uniquement) de n'avoir à configurer les fonctionnalités de réglementation qu'une seule fois à l'aide d'un service commun.</span><span class="sxs-lookup"><span data-stu-id="8bc85-105">The Configuration service allows partners and customers using multiple versions of Microsoft Dynamics 365 for Finance and Operations and earlier Microsoft Dynamics AX versions (such as AX 2012 and AX 2009 for India only) to configure regulatory features only once using a common service.</span></span> <span data-ttu-id="8bc85-106">Le Service de configuration cible une approche de programmation sans code, qui permettrait aux utilisateurs de configurer des obligations légales qui changent fréquemment pour les états de réglementation, les factures électroniques, les formats de paiement, et les règles de taxe plutôt que d'écrire du code dans des applications multiples.</span><span class="sxs-lookup"><span data-stu-id="8bc85-106">The Configuration service targets a no-code programming approach, allowing power users to configure frequently changed legal requirements for regulatory reports, e-invoices, payment formats and tax rules, rather than writing code in multiple applications.</span></span> 
+
+<span data-ttu-id="8bc85-107">Le Service de configuration est le premier composant des Services de réglementation à être publié.</span><span class="sxs-lookup"><span data-stu-id="8bc85-107">The Configuration service is the first component of Regulatory Services to be released.</span></span> <span data-ttu-id="8bc85-108">Les Services de réglementation fourniront des fonctionnalités pouvant être intégrées à n'importe quelle application de gestion.</span><span class="sxs-lookup"><span data-stu-id="8bc85-108">Regulatory Services will provide functionality that can be integrated with any business application.</span></span> <span data-ttu-id="8bc85-109">Ce service permet aux développeurs de créer des applications afin de se concentrer sur leurs fonctionnalités principales plutôt que de se préoccuper d'avoir à respecter le nombre croissant d'exigences juridiques dans le monde entier.</span><span class="sxs-lookup"><span data-stu-id="8bc85-109">This service allows developers building applications to focus on their core functionality rather than worrying about meeting the increasing number of legal requirements around the globe.</span></span> 
+
+<span data-ttu-id="8bc85-110">Le Service de configuration fournit les fonctionnalités suivantes :</span><span class="sxs-lookup"><span data-stu-id="8bc85-110">The Configuration service provides the following capabilities:</span></span>
+
+-   <span data-ttu-id="8bc85-111">Accès aux concepteurs visuels pour configurer des états de réglementation, des factures, des formats de paiement, les règles de taxe, et d'autres fonctionnalités de réglementation.</span><span class="sxs-lookup"><span data-stu-id="8bc85-111">Access to visual designers to configure regulatory reports, e-invoices, payment formats, tax rules, and other regulatory features.</span></span> 
+-   <span data-ttu-id="8bc85-112">Métadonnées qui fournissent la possibilité d'importer une description des artefacts de l'application cible, telles que des tables de données, une énumération et des classes, ou qui utilisent des applications connectées pour accéder aux métadonnées.</span><span class="sxs-lookup"><span data-stu-id="8bc85-112">Metadata that provides the ability to either import a description of the target application’s artifacts, such as data tables, enumeration, and classes, or use connected applications for accessing metadata.</span></span> <span data-ttu-id="8bc85-113">Les métadonnées sont utilisées au moment de la conception pour définir les sources de données d'une version de mappage de modèles de données.</span><span class="sxs-lookup"><span data-stu-id="8bc85-113">Metadata is used at design time to define data sources of a data model mapping version.</span></span> 
+-   <span data-ttu-id="8bc85-114">Prise en charge des déploiements régionaux pour permettre aux utilisateurs de sélectionner dans quelle région leurs données seront conservées.</span><span class="sxs-lookup"><span data-stu-id="8bc85-114">Support for regional deployments to enable users to select what region their data is held in.</span></span> <span data-ttu-id="8bc85-115">La version initiale de DG comportera un nombre de pays limité, mais d'autres pays seront ajoutés dans les versions ultérieures.</span><span class="sxs-lookup"><span data-stu-id="8bc85-115">There will be a limited set of countries available with the initial GA release, but these will be added to over later releases.</span></span>    
+
+## <a name="regional-availability"></a><span data-ttu-id="8bc85-116">Disponibilité régionale</span><span class="sxs-lookup"><span data-stu-id="8bc85-116">Regional availability</span></span>
+<span data-ttu-id="8bc85-117">Lorsque le Service de configuration a une disponibilité générale, il est disponible dans toutes les régions dans lesquelles Finance and Operations est disponible.</span><span class="sxs-lookup"><span data-stu-id="8bc85-117">When the Configuration service is generally available, it will be available in all regions in which Finance and Operations is available.</span></span> <span data-ttu-id="8bc85-118">Toutefois, les données seront hébergées initialement uniquement dans un centre d'hébergement aux États-Unis.</span><span class="sxs-lookup"><span data-stu-id="8bc85-118">However, data will be initially hosted only in a US datacenter.</span></span>
+
+<span data-ttu-id="8bc85-119">Pour une liste complète des régions, consultez le [Guide de disponibilité internationale de Dynamics 365](https://aka.ms/dynamics_365_international_availability_deck).</span><span class="sxs-lookup"><span data-stu-id="8bc85-119">For a complete list of regions, see the [Dynamics 365 International Availability Guide](https://aka.ms/dynamics_365_international_availability_deck).</span></span>
+

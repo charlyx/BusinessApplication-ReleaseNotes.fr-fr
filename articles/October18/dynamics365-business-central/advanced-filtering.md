@@ -1,0 +1,69 @@
+---
+title: "Filtrage avancé"
+description: "Optimisez votre productivité sur votre bureau avec des fonctionnalités de filtrage puissantes."
+author: mikebcMSFT
+manager: edupont04
+ms.date: 07/22/2018
+ms.assetid: 011c924e-f156-4cd7-a034-99a13b5a7869
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: mikebc
+audience: end user
+ms.translationtype: HT
+ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
+ms.openlocfilehash: f1d1fccfc70da49d1ca0bb2fe1beeee32095f4dc
+ms.contentlocale: fr-fr
+ms.lasthandoff: 07/27/2018
+
+---
+# <a name="advanced-filtering"></a><span data-ttu-id="88582-103">Filtrage avancé</span><span class="sxs-lookup"><span data-stu-id="88582-103">Advanced filtering</span></span>
+
+[!include[banner](../../includes/banner.md)]
+
+[!include[banner](Includes/disclaimer.md)]
+
+
+<span data-ttu-id="88582-104">Travaillez efficacement avec vos listes dans Dynamics 365 Business Central en orientant les calculs et en appliquant des filtres à plusieurs champs.</span><span class="sxs-lookup"><span data-stu-id="88582-104">Work efficiently in lists in Dynamics 365 Business Central by influencing calculations and applying filters to multiple fields.</span></span>
+
+<span data-ttu-id="88582-105">Les utilisateurs des informations du back-office consacrent énormément de temps aux listes : saisie et modification des données, analyse des tendances et des écarts, ou simplement recherche d'enregistrements spécifiques.</span><span class="sxs-lookup"><span data-stu-id="88582-105">Back-office information workers spend significant time working with lists: entering or modifying data, analyzing trends and anomalies, or simply looking for specific records.</span></span> <span data-ttu-id="88582-106">Bien qu'une recherche rapide puisse réduire la liste en identifiant les correspondances les plus proches parmi toutes les colonnes, les utilisateurs ont souvent besoin d'un niveau de contrôle supérieur à mesure que la base de données de l'entreprise se développe.</span><span class="sxs-lookup"><span data-stu-id="88582-106">While a quick search can reduce the list by finding the closest matches across all columns, users often need a higher degree of control as the size of the business database grows.</span></span> <span data-ttu-id="88582-107">Les puissantes fonctionnalités de filtrage de Business Central permettent d'accélérer les tâches liées aux listes grâce à un contrôle absolu du filtrage au moyen d'une expérience moderne et intuitive.</span><span class="sxs-lookup"><span data-stu-id="88582-107">The powerful filtering capabilities in Business Central accelerate list-related tasks by providing absolute control over filtering in a modern and intuitive experience.</span></span>
+
+## <a name="filtering-lists"></a><span data-ttu-id="88582-108">Filtrage des listes</span><span class="sxs-lookup"><span data-stu-id="88582-108">Filtering lists</span></span>
+<span data-ttu-id="88582-109">Ancré à droite de vos listes, le nouveau volet de filtre dispose d'une conception conviviale facile à découvrir et efficace à utiliser.</span><span class="sxs-lookup"><span data-stu-id="88582-109">Anchored to the side of your lists, the new filter pane has a familiar design that is easy to learn and efficient to work with.</span></span> <span data-ttu-id="88582-110">Basculez entre les vues filtrées prédéfinies de votre liste, ajustez une vue en ajoutant vos propres filtres, ou simplement commencez à partir de zéro.</span><span class="sxs-lookup"><span data-stu-id="88582-110">Switch between predefined filtered views of your list, adjust a view by adding your own filters, or simply start from scratch.</span></span>
+
+> [!div class="mx-imgBorder"]
+> <span data-ttu-id="88582-111">![alt text](media/list-page-with-advanced-filter.png "Concept de disposition anticipé pour un volet de filtre ancré en regard d'une liste.")</span><span class="sxs-lookup"><span data-stu-id="88582-111">![alt text](media/list-page-with-advanced-filter.png "Early design concept for a filter pane anchored alongside a list.")</span></span>
+
+<span data-ttu-id="88582-112">Le volet de filtre vous permet :</span><span class="sxs-lookup"><span data-stu-id="88582-112">The filter pane allows you to:</span></span>
+
+-   <span data-ttu-id="88582-113">D'obtenir une vue d'ensemble des filtres appliqués actuellement, et de voir s'ils ont été définis par vous, à l'aide d'une vue filtrée ou par l'application elle-même.</span><span class="sxs-lookup"><span data-stu-id="88582-113">Get an overview of the currently applied filters, and see if they were set by you, by a filtered view, or by the application itself.</span></span>
+-   <span data-ttu-id="88582-114">D'ajouter autant de colonnes filtrées que vous le souhaitez en les saisissant pour rechercher rapidement plus de champs dans la table source.</span><span class="sxs-lookup"><span data-stu-id="88582-114">Add as many filtered columns as you like by typing to quickly search for more fields on the source table.</span></span>
+-   <span data-ttu-id="88582-115">D'obtenir de l'aide pour spécifier des valeurs de filtre à l'aide des recherches ou du type de données du champ.</span><span class="sxs-lookup"><span data-stu-id="88582-115">Get assistance with specifying filter values using lookups or the field's data type.</span></span>
+-   <span data-ttu-id="88582-116">De créer des filtres complexes à l'aide d'opérateurs, de plages, de variables et de raccourcis.</span><span class="sxs-lookup"><span data-stu-id="88582-116">Create complex filters using operators, ranges, variables, and shorthand.</span></span>
+-   <span data-ttu-id="88582-117">Filtrez sur la valeur de la cellule actuelle dans la liste.</span><span class="sxs-lookup"><span data-stu-id="88582-117">Filter to the current cell value in the list.</span></span>
+
+<span data-ttu-id="88582-118">Business Central se souvient des filtres que vous avez appliqués tout au long de la session à mesure que vous naviguez entre les pages.</span><span class="sxs-lookup"><span data-stu-id="88582-118">Business Central remembers the filters you applied throughout the session as you navigate back and forth across pages.</span></span> <span data-ttu-id="88582-119">La possibilité d'enregistrer définitivement vos modifications en tant que vue filtrée sera disponible ultérieurement.</span><span class="sxs-lookup"><span data-stu-id="88582-119">The ability to permanently save your changes as a filtered view will be available at a later date.</span></span>
+
+<span data-ttu-id="88582-120">Le volet de filtre est disponible sur toutes les pages affichant des listes, y compris les feuilles de calcul, les lignes de document et des éléments de liste.</span><span class="sxs-lookup"><span data-stu-id="88582-120">The filter pane is available on all pages that display lists, including worksheets, document lines, and list parts.</span></span>
+<span data-ttu-id="88582-121">Cette fonctionnalité remplace la fenêtre de filtre précédente accessible depuis chaque en-tête de colonne, et complète d'autres fonctionnalités vous permettant de rechercher les lignes spécifiques ou d'analyser vos données, comme la recherche et le tri.</span><span class="sxs-lookup"><span data-stu-id="88582-121">This feature replaces the previous filter window reachable from each column header, and it complements other features that help you find specific rows or analyze your data, such as searching and sorting.</span></span>
+
+## <a name="limit-totals"></a><span data-ttu-id="88582-122">Limiter les totaux</span><span class="sxs-lookup"><span data-stu-id="88582-122">Limit totals</span></span>
+<span data-ttu-id="88582-123">L'une des fonctionnalités les plus populaires de Dynamics NAV fait son entrée dans Business Central.</span><span class="sxs-lookup"><span data-stu-id="88582-123">One of the most popular features of Dynamics NAV now makes its way to Business Central.</span></span> <span data-ttu-id="88582-124">Les listes affichent souvent des valeurs regroupées ou calculées, telles que des montants totaux en devises.</span><span class="sxs-lookup"><span data-stu-id="88582-124">Lists often display aggregated or computed values, such as currency amount totals.</span></span> <span data-ttu-id="88582-125">Avec cette version, Business Central vous fournit un tout nouveau niveau de contrôle vous permettant d'appliquer des filtres à une ou plusieurs dimensions ayant une influence sur les valeurs calculées.</span><span class="sxs-lookup"><span data-stu-id="88582-125">With this release, Business Central gives you a whole new level of control through which you can apply filters to one or more dimensions that influence computed values.</span></span> <span data-ttu-id="88582-126">Utilisez cette fonctionnalité en combinaison avec des filtres, triez, puis effectuez des recherches pour parcourir et analyser vos données.</span><span class="sxs-lookup"><span data-stu-id="88582-126">Use this in combination with filters, sort, and search to explore and analyze your data.</span></span>
+
+## <a name="keyboard-shortcuts"></a><span data-ttu-id="88582-127">Raccourcis clavier</span><span class="sxs-lookup"><span data-stu-id="88582-127">Keyboard shortcuts</span></span>
+<span data-ttu-id="88582-128">Bien que le volet de filtre soit accessible en un seul clic, vous disposez également d'une expérience sans souris avec une variété de combinaisons de raccourcis clavier, notamment le raccourci Alt+F3 pour filtrer sur la valeur actuelle.</span><span class="sxs-lookup"><span data-stu-id="88582-128">Although the filter pane is just a click away, you can also have a mouse-free experience with a variety of keyboard shortcut combinations, including the Alt+F3 shortcut to filter to the current value.</span></span> <span data-ttu-id="88582-129">Vous pouvez désormais créer des filtres composés à la volée sans jamais quitter la liste, grâce à des raccourcis permettant de parcourir les cellules puis de filtrer sur la valeur cible actuelle ou pour effacer le filtre sur la colonne actuelle.</span><span class="sxs-lookup"><span data-stu-id="88582-129">You can now create compound filters on the fly without ever leaving the list, using shortcuts to navigate across cells and then filter to the currently focused value or clear the filter on the current column.</span></span>
+
+<!--
+### Who uses these features
+These features are available to all desktop users without additional setup, in the browser or Windows 10 companion app.
+## Status
+### Availability
+Cloud, on-premises, hybrid
+### Regional availability
+No regional restrictions. Available in all Dynamics 365 Business Central supported markets.
+-->
+
+## <a name="tell-us-what-you-think"></a><span data-ttu-id="88582-130">Donnez-nous votre avis</span><span class="sxs-lookup"><span data-stu-id="88582-130">Tell us what you think</span></span>
+<span data-ttu-id="88582-131">Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires.</span><span class="sxs-lookup"><span data-stu-id="88582-131">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="88582-132">Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.</span><span class="sxs-lookup"><span data-stu-id="88582-132">Use the Business Central forum at https://aka.ms/businesscentralfeedback.</span></span>
+
