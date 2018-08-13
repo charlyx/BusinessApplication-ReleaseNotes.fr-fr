@@ -22,8 +22,6 @@ ms.lasthandoff: 07/18/2018
 
 [!include[banner](../../includes/banner.md)]
 
-[!include[banner](Includes/disclaimer.md)]
-
 Dans la version d'octobre 2018, Microsoft Dynamics 365 Business Central bénéficie d'une expérience de bureau actualisée. Business Central permet d'accélérer la productivité grâce à de nouvelles fonctionnalités puissantes d'utilisation des listes et de recherche des pages et d'états.
 
 ## <a name="refreshed-desktop-experience"></a>Expérience de bureau actualisée
