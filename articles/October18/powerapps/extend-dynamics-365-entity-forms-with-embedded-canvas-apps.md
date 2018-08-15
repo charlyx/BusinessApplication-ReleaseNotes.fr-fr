@@ -11,16 +11,18 @@ ms.technology:
 ms.author: aneesa
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ba625f2dd1fc236d5d6d767b5001ed338070c1cd
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ef2442149e6cfaf664854f42050377f970bcd832
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps"></a><span data-ttu-id="84896-103">Étendre les formulaires d'entité Dynamics 365 avec des applications de canevas incorporées</span><span class="sxs-lookup"><span data-stu-id="84896-103">Extend Dynamics 365 entity forms with embedded canvas apps</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="84896-104">Les applications de canevas permettent aux créateurs d'application de fournir une expérience utilisateur riche, au pixel près via des fonctionnalités de personnalisation low-code.</span><span class="sxs-lookup"><span data-stu-id="84896-104">Canvas apps enable app makers to deliver a rich, pixel-perfect user experience via low-code customization capabilities.</span></span> <span data-ttu-id="84896-105">Elles prennent également en charge la connexion à plus de 200 sources de données, y compris une gamme de services cloud (comme Office 365 et SharePoint), ainsi que des sources de données sur site (via une passerelle).</span><span class="sxs-lookup"><span data-stu-id="84896-105">They also support connecting to more than 200 data sources including a range of cloud services (such as Office 365 and SharePoint) as well as on-premises data sources (via a gateway).</span></span> <span data-ttu-id="84896-106">Les créateurs d'applications peuvent désormais importer ces fonctionnalités dans leurs applications basées sur des modèles en intégrant des applications de canevas dans leurs formulaires basés sur des modèles.</span><span class="sxs-lookup"><span data-stu-id="84896-106">Now app makers can bring these capabilities directly into their model-driven apps by embedding canvas apps in their model-driven forms.</span></span> 
  

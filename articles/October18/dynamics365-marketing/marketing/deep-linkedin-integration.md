@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ea14ae3f1a283c2b25cf4740c077c7732e57cdc8
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c711569bed901b06d7b60d3af6c440f4ebbf647c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="deep-linkedin-integration"></a><span data-ttu-id="957a3-103">Intégration LinkedIn approfondie</span><span class="sxs-lookup"><span data-stu-id="957a3-103">Deep LinkedIn Integration</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="957a3-104">Dynamics 365 for Marketing fournit une intégration LinkedIn approfondie pour générer des prospects à partir des relations et des réseaux professionnels.</span><span class="sxs-lookup"><span data-stu-id="957a3-104">Dynamics 365 for Marketing provides deep LinkedIn integration for generating leads from professional networks and relationships.</span></span> <span data-ttu-id="957a3-105">Les nouvelles fonctionnalités d'intégration permettent d'exécuter des parcours en spécifiant de cibler LinkedIn et d'exploiter les interactions qui en résultent pour l'orchestration, la notation et la segmentation.</span><span class="sxs-lookup"><span data-stu-id="957a3-105">New integration features let you run journeys specifying targeting on LinkedIn and  leverage resulting interactions for orchestration, scoring and segmentation.</span></span>
 

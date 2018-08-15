@@ -12,16 +12,18 @@ ms.technology:
 ms.author: v-erherz
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: 1f0b7227d826bc7927f7a805846c7c16d1d1e07c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bdfc4953e4615c4f967be52281fd3dac57673b0c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="azure-integration-public-preview"></a><span data-ttu-id="1b63e-103">Intégration à Azure (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="1b63e-103">Azure integration (Public Preview)</span></span> 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="1b63e-104">Azure Data Lake Storage Gen2 est inclus dans chaque abonnement à Power BI payé (10 GB par utilisateur, 100 TB par nœud P1).</span><span class="sxs-lookup"><span data-stu-id="1b63e-104">Azure Data Lake Storage Gen2 is included with every paid Power BI subscription (10GB per user, 100TB per P1 node).</span></span> <span data-ttu-id="1b63e-105">Par conséquent, vous pouvez facilement commencer la préparation des données en libre-service sur Azure Data Lake.</span><span class="sxs-lookup"><span data-stu-id="1b63e-105">So, you can easily get started with self-service data prep on Azure Data Lake.</span></span>  
 

@@ -11,17 +11,19 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 81ad17652fd766974f12467260b6151493746453
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 299388a45dcfdb7eb336bda4476e598a9e105431
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="corehr-checklist-integration"></a><span data-ttu-id="b56e5-103">Intégration de liste de contrôle CoreHR</span><span class="sxs-lookup"><span data-stu-id="b56e5-103">CoreHR checklist integration</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 <span data-ttu-id="b56e5-104">Les professionnels des RH peuvent désormais s'assurer que les documents administratifs de la liste de contrôle dans CoreHR sont automatiquement inclus dans le guide d'intégration de chaque nouvel employé.</span><span class="sxs-lookup"><span data-stu-id="b56e5-104">HR professionals can now ensure that administrative checklist items in CoreHR are automatically included in every new hire’s onboarding guide.</span></span>
 

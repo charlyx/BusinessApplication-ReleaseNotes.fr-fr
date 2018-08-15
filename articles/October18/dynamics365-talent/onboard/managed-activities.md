@@ -12,15 +12,17 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d80da31069ec2382c56deda086fa90ae400bbe1e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 16c1f0dcce4341892246edaf46e62172b44bda19
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="managed-activities"></a><span data-ttu-id="e1153-103">Activités gérées</span><span class="sxs-lookup"><span data-stu-id="e1153-103">Managed activities</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 <span data-ttu-id="e1153-104">Les chefs de service peuvent être mettre à jour de manière dynamique les modèles qu'ils ont distribué à leurs responsables pour s'assurer que le contenu et la stratégie les plus récents figurent dans guide d'intégration de chaque employé.</span><span class="sxs-lookup"><span data-stu-id="e1153-104">Department leaders can dynamically update templates that they have distributed to their managers to ensure the latest content and policy are part of every employee’s onboarding guide.</span></span> <span data-ttu-id="e1153-105">Une expérience d'intégration cohérente pour chaque nouvel employé est indispensable pour le succès de celui-ci.</span><span class="sxs-lookup"><span data-stu-id="e1153-105">Creating a consistent onboarding experience for every new employee is critical for new hire success.</span></span> <span data-ttu-id="e1153-106">En permettant aux chefs de service de gérer le contenu de façon centralisée, ils peuvent s'assurer d'un niveau de cohérence minimal pour chaque nouvel employé.</span><span class="sxs-lookup"><span data-stu-id="e1153-106">By allowing department leaders to manage content centrally, they can ensure a baseline level of consistency for every new hire.</span></span> 
 

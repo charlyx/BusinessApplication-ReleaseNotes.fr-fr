@@ -12,16 +12,18 @@ ms.technology:
 ms.author: anjlic
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: f858f614e5d6ed4f608605b8703b7aefdef27b9c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: dc01350517d026c312edccdeea4ec173dc1ce818
 ms.contentlocale: fr-fr
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a><span data-ttu-id="eb94d-103">Expérience d'aide et de support intégrée au concepteur de flux</span><span class="sxs-lookup"><span data-stu-id="eb94d-103">Integrated help and support experience in Flow designer</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="eb94d-104">Il sera beaucoup plus facile pour un utilisateur de rechercher de l'aide et du support dans un produit (sur un site web et mobile) plutôt que d'être redirigé vers support.microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="eb94d-104">A user will have a much easier time seeking help and support from within the product (both website and mobile) instead of being redirected to support.microsoft.com.</span></span> <span data-ttu-id="eb94d-105">L'utilisateur pourra affiner sa recherche du problème grâce à un ensemble logique de questions et en fournissant des précisions sur leur demande, des questions sur les procédures jusqu'à une défaillance d'exécution de flux pour un flux dont il est le créateur.</span><span class="sxs-lookup"><span data-stu-id="eb94d-105">The user will be able to narrow down into the problem that they are facing by walking through a logical set of questions and by providing the particulars of their ask - right from how-to questions to selecting a specific flow run failure for a flow that they are an author on.</span></span> 
 

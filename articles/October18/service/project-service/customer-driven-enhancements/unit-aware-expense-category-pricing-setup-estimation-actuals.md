@@ -11,16 +11,18 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9eef14478ecabd97bbc41b9fdacfa43fd342d9e7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 39f5ce5cd6ea1175da11c76bb4269546dbad7eeb
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a><span data-ttu-id="31b6c-103">Catégorie de tarification des dépenses basées sur les unités pour l'installation, l'estimation et les chiffres réels</span><span class="sxs-lookup"><span data-stu-id="31b6c-103">Unit-aware expense category pricing for setup, estimation, and actuals</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="31b6c-104">Avec cette fonctionnalité, Project Service prend en charge un mode de tarification basé sur les unités pour chaque catégorie de dépenses.</span><span class="sxs-lookup"><span data-stu-id="31b6c-104">With this feature, Project Service will support a unit–based pricing method for expense categories.</span></span> <span data-ttu-id="31b6c-105">Cela autorise des scénarios comme ce qui suit :</span><span class="sxs-lookup"><span data-stu-id="31b6c-105">This will enable scenarios such as the following:</span></span>
 

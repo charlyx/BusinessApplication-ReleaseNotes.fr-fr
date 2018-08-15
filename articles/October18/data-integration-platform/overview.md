@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dbec90b9631284e434a1c13a6b4b88f83b6f7163
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 469835da000a3541e50afc45718535f640c236ea
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-data-integration-platform-october-18-release"></a><span data-ttu-id="40f92-103">Présentation de la version d'octobre 2018 de la plateforme d'intégration de données</span><span class="sxs-lookup"><span data-stu-id="40f92-103">Overview of Data Integration Platform October '18 release</span></span>
+
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
 <span data-ttu-id="40f92-104">L'intégration de données fournit les connecteurs et les passerelles grâce auxquels il est possible d'entrer toutes les données externes dans le Common Data Service (CDS) et de stocker des données dans le formulaire Common Data Model (CDM).</span><span class="sxs-lookup"><span data-stu-id="40f92-104">Data Integration provides the connectors and gateways that make it possible to bring any external data into the Common Data Service (CDS) and store the data in Common Data Model (CDM) form.</span></span> <span data-ttu-id="40f92-105">Les clients peuvent intégrer plus facilement leurs données dans un seul endroit pour les applications de gestion et les analyses.</span><span class="sxs-lookup"><span data-stu-id="40f92-105">This makes it easier for customers to integrate their data in a single place for business applications and analytics.</span></span> <span data-ttu-id="40f92-106">L'intégration de données est basé sur Power Query, la même technologie que des millions de personnes utilisent quotidiennement dans Power BI et Excel.</span><span class="sxs-lookup"><span data-stu-id="40f92-106">Data Integration is based on Power Query, the same technology that millions of people use daily in Power BI and Excel.</span></span>
 

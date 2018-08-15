@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ba5beb7b355f04116081598680e6809f0677e24d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c9c98c20f526a71ef55f7616ece583ff8045ead1
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="integration-with-dynamics-365-for-finance-and-operations"></a><span data-ttu-id="7d543-103">Intégration à Dynamics 365 for Finance and Operations</span><span class="sxs-lookup"><span data-stu-id="7d543-103">Integration with Dynamics 365 for Finance and Operations</span></span>
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="7d543-104">Cette intégration permet de transférer des données principales (compte, produit, et tarif) et des données d'ordre de travail vers des commandes client lorsque des ordres de travail sont marqués comme fermés.</span><span class="sxs-lookup"><span data-stu-id="7d543-104">This integration allows for master data (account, product, and pricelist) and work order data to be pushed to sales orders when work orders are marked as closed.</span></span> <span data-ttu-id="7d543-105">Elle permet également d'intégrer des factures, des bons de commande et des entrepôts.</span><span class="sxs-lookup"><span data-stu-id="7d543-105">It also offers warehouse, purchase order, and invoice integration.</span></span>
 

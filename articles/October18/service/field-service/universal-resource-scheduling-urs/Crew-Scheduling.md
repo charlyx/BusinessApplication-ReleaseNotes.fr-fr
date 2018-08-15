@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 626089b6b67b8f0945c5d8c8599c4b921676df49
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4cd135e93869bf65361c9bf94b9761b199b661fb
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="predefined-crews"></a><span data-ttu-id="f333e-103">Équipes prédéfinies</span><span class="sxs-lookup"><span data-stu-id="f333e-103">Predefined crews</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 <span data-ttu-id="f333e-104">Il est possible de composer au préalable des groupes de ressources qui sont toujours ensemble pour la planification intrajournalière.</span><span class="sxs-lookup"><span data-stu-id="f333e-104">Preassemble groups of resources that are always together for intraday scheduling.</span></span> <span data-ttu-id="f333e-105">La planification des équipes vous permet de définir un groupe de ressources prévu pour le même travail au cours d'une période.</span><span class="sxs-lookup"><span data-stu-id="f333e-105">Crew scheduling allows you to define a group of resources who are scheduled for the same work during a period of time.</span></span> <span data-ttu-id="f333e-106">En général, une équipe se réunit le matin, partage un véhicule, et reste ensemble toute la journée pour accomplir les différentes tâches.</span><span class="sxs-lookup"><span data-stu-id="f333e-106">Typically, a crew meets at a location in the morning, shares a vehicle, and is together all day from job to job.</span></span> <span data-ttu-id="f333e-107">Les sociétés de services qui requièrent généralement des équipes de ressources pour réaliser des tâches doivent souvent composer une équipe, un ensemble de ressources qui reste ensemble toute la journée.</span><span class="sxs-lookup"><span data-stu-id="f333e-107">Companies focused on services that generally require teams of resources to accomplish jobs will often predefine a crew, a set of resources that stick together all day.</span></span>
 

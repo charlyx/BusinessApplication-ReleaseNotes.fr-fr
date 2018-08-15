@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 858186ea47cd2226d5859e40ab82d6d744225480
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c12c595760f4634e5ade6fff13c91554e57e4a3b
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="unified-routing-and-work-distribution"></a><span data-ttu-id="cdc1f-103">Répartition du travail et routage unifié</span><span class="sxs-lookup"><span data-stu-id="cdc1f-103">Unified routing and work distribution</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 <span data-ttu-id="cdc1f-104">Les organisations peuvent tirer parti des fonctionnalités de routage unifié et de répartition du travail pour acheminer les éléments de travail provenant des canaux de conversation instantanée, de messagerie et de portail web vers différentes équipes de support du service clientèle au sein de l'organisation.</span><span class="sxs-lookup"><span data-stu-id="cdc1f-104">Organizations can leverage the unified routing and work distribution capabilities to route work items originating from chat, messaging, and web portal channels to different customer service support teams within the organization.</span></span> <span data-ttu-id="cdc1f-105">Grâce aux interfaces de configuration, les organisations peuvent définir précisément le profil de travail que leurs agents doivent gérer.</span><span class="sxs-lookup"><span data-stu-id="cdc1f-105">Through the configuration interfaces, organizations can tightly define the work profile that their agents are supposed to handle.</span></span> <span data-ttu-id="cdc1f-106">Pendant l'exécution, le système automatise le flux de travail vers différents agents en fonction de leurs capacités et de leur disponibilité.</span><span class="sxs-lookup"><span data-stu-id="cdc1f-106">During runtime, the system will automate the flow of work to various agents based on their capacity and availability.</span></span>
 

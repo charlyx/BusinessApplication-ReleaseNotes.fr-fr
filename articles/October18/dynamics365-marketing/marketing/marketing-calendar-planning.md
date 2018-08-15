@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: eed4ed38af1d0a6eb2ebd04c24f6ef9f0dd52666
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 03f450c2f9b0a6d3e69001ac518bf0bae340a50f
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="marketing-calendar-for-planning"></a><span data-ttu-id="6223f-103">Calendrier marketing pour la planification</span><span class="sxs-lookup"><span data-stu-id="6223f-103">Marketing calendar for planning</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="6223f-104">Le contrôle du calendrier marketing permet aux responsables marketing de visualiser un large éventail d'activités marketing avec une date de début et une date de fin.</span><span class="sxs-lookup"><span data-stu-id="6223f-104">The marketing calendar control lets marketers visualize a variety of marketing activities that have a start and end date.</span></span> <span data-ttu-id="6223f-105">En effet, les responsables marketing peuvent afficher de nombreux éléments d'une campagne (tels que des événements) sur le même calendrier, ce qui offre une vue d'ensemble simplifiée.</span><span class="sxs-lookup"><span data-stu-id="6223f-105">Effectively, marketers can view many elements of a campaign (such as events) on the same calendar, providing an easy overview.</span></span>
 

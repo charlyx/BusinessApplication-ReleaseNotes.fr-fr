@@ -12,16 +12,18 @@ ms.technology:
 ms.author: sunayv
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: 91620c92f1f2e025e3653b1a56638f0d62ec2ffb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: fd5732d9f38f3a6b0b75a9903616a9d252428cf1
 ms.contentlocale: fr-fr
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-checker"></a><span data-ttu-id="bb778-104">Vérificateur de flux</span><span class="sxs-lookup"><span data-stu-id="bb778-104">Flow checker</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="bb778-105">La fonctionnalité **Vérificateur de flux** vous aidera pendant la définition de vos flux.</span><span class="sxs-lookup"><span data-stu-id="bb778-105">The **Flow checker** feature will help you while you build your flows.</span></span> <span data-ttu-id="bb778-106">Elle permettra de vérifier les erreurs lors de la conception et recherchera les erreurs qui se sont déjà produites lors d'exécutions précédentes.</span><span class="sxs-lookup"><span data-stu-id="bb778-106">It will check for errors at design time and will also look for errors that may have occurred on past runs.</span></span> 
 

@@ -11,16 +11,18 @@ ms.author: mhart
 manager: AnnBe
 topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6ead7a2ba994360aea83b40c5e9cb9d5955d3b08
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0e2c029bae724e854d68d657d0ad8dd87ee3eacf
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a><span data-ttu-id="7c406-103">Présentation de la version d'octobre 2018 de Microsoft Social Engagement</span><span class="sxs-lookup"><span data-stu-id="7c406-103">Overview of Microsoft Social Engagement October '18 release</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 <span data-ttu-id="7c406-104">Microsoft Social Engagement vous aide à profiter de la puissance du Web (réseaux sociaux, recherche et navigation) afin d'obtenir des résultats professionnels.</span><span class="sxs-lookup"><span data-stu-id="7c406-104">Microsoft Social Engagement helps you harness the power of the web (social, search, and browse) to achieve business results.</span></span> <span data-ttu-id="7c406-105">Avec l'intelligence du Web à portée de main au sein de l'organisation, des équipes de vente, des agents du service client, des professionnels marketing de la marque, les employés peuvent recueillir des analyses, rencontrer des clients et des prospects sur le canal de leur choix et se forger une présence sociale de confiance.</span><span class="sxs-lookup"><span data-stu-id="7c406-105">By putting intelligence from the web at the fingertips of sales teams, customer service agents, brand marketers, and across your organization, your employees can gather insights, meet customers and prospects on the channel of their choice, and build a trusted social presence.</span></span>
 

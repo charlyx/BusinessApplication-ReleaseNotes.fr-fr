@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1bde7c73379409c76c91fb20fc1cb3d29b1d8fd6
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 9875fcc829e3605ee9e4e9ee604c763ede628984
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="fulfillment-preferences"></a><span data-ttu-id="adf57-103">Préférences d'exécution</span><span class="sxs-lookup"><span data-stu-id="adf57-103">Fulfillment preferences</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 <span data-ttu-id="adf57-104">Simplifiez l'expérience de vos développeurs et clients tout en réduisant le délai de réservation des rendez-vous.</span><span class="sxs-lookup"><span data-stu-id="adf57-104">Simplify the experience for your schedulers and customers while decreasing the amount of time it takes to book appointments.</span></span>
 

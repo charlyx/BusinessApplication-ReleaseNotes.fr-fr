@@ -11,16 +11,18 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 335fc3cd615e57056b7b57d589913c366571186b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a78f8926b115d79a50047e04d981b6166df6b0ac
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a><span data-ttu-id="160e4-103">Présentation de la version d'octobre 2018 de Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="160e4-103">Overview of Microsoft PowerApps October '18 release</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="160e4-104">PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage.</span><span class="sxs-lookup"><span data-stu-id="160e4-104">PowerApps is a service that lets you build business apps that run in a browser or on a phone or tablet, and no coding experience is required.</span></span> <span data-ttu-id="160e4-105">Reportez-vous à la [documentation](https://docs.microsoft.com/powerapps/) de PowerApps pour obtenir des informations et des réponses éclairées à vos questions, quelle que soit la façon dont vous utilisez PowerApps.</span><span class="sxs-lookup"><span data-stu-id="160e4-105">Use PowerApps [documentation](https://docs.microsoft.com/powerapps/) to get expert information and answers to address your needs, regardless of how you use PowerApps.</span></span>

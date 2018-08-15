@@ -11,16 +11,16 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 23d0b63cd65289e5ecd8fb33da9fd6d13f956266
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3a6f9828d324cfece5943795dae7af903ac03385
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-portal"></a><span data-ttu-id="4e3fd-103">Résumé des nouveautés dans le portail Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="4e3fd-103">Summary of what's new in Dynamics 365 Portal</span></span>
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | <span data-ttu-id="4e3fd-104">Fonctionnalité</span><span class="sxs-lookup"><span data-stu-id="4e3fd-104">Feature</span></span>                                                                           | <span data-ttu-id="4e3fd-105">Type de version</span><span class="sxs-lookup"><span data-stu-id="4e3fd-105">Release type</span></span>   | <span data-ttu-id="4e3fd-106">Mois de la version cible</span><span class="sxs-lookup"><span data-stu-id="4e3fd-106">Target release month</span></span> |
 |-----------------------------------------------------------------------------------|----------------|----------------------|

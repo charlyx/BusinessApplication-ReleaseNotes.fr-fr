@@ -12,16 +12,18 @@ ms.technology:
 ms.author: sunayv
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: 27e4b0976f054d9310e13b80fb02c92fefbbf160
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0391a5d44e64b617287f8b1f7ce0759bcdfca179
 ms.contentlocale: fr-fr
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-designer-enhancements"></a><span data-ttu-id="834d4-103">Améliorations du concepteur de flux</span><span class="sxs-lookup"><span data-stu-id="834d4-103">Flow designer enhancements</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="834d4-104">Un nouvel éditeur de texte basé sur le HTML vous aide à rédiger des courriers électroniques basés sur le HTML, du contenu HTML pour vos publications Yammer, vos tweets, etc.</span><span class="sxs-lookup"><span data-stu-id="834d4-104">A new, rich HTML-based text editor will help you write HTML-based emails, HTML content for your Yammer posts, tweets, and more.</span></span>
 

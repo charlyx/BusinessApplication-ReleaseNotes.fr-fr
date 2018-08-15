@@ -12,15 +12,17 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8259579ac1b19d93a71a9bc7db8ae07fb3c6a5cb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6e8406073dd7c7d202d8152877222da082d27bd6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="restrict-portal-access-by-ip-address"></a><span data-ttu-id="40bc6-103">Restreindre l'accès au portail selon l'adresse IP</span><span class="sxs-lookup"><span data-stu-id="40bc6-103">Restrict portal access by IP address</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="40bc6-104">La sécurité est l'une des préoccupations principales pour les applications et devient primordiale pour une application externe comme le portail Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="40bc6-104">Security is a key concern for applications and it becomes more paramount for an external-facing application like Dynamics 365 Portal.</span></span> <span data-ttu-id="40bc6-105">Dans le cadre de cette version, nous allons ajouter des fonctionnalités permettant aux clients de limiter l'accès à leurs portails à certaines adresses IP.</span><span class="sxs-lookup"><span data-stu-id="40bc6-105">As part of this release, we will add capabilities for customers to be able to restrict access to their portals from certain IP addresses.</span></span> <span data-ttu-id="40bc6-106">Cela aidera les organisations souhaitant restreindre leurs portails à des emplacements fixes tels que les réseaux internes de l'entreprise.</span><span class="sxs-lookup"><span data-stu-id="40bc6-106">This will help organizations that are looking to restrict their portals from fixed locations like internal company networks.</span></span> <span data-ttu-id="40bc6-107">En outre, ceci permettra aux clients en phase de développement et souhaitant s'assurer que leurs données ne sont pas divulguées en raison d'une configuration incorrecte.</span><span class="sxs-lookup"><span data-stu-id="40bc6-107">Also, this will help customers who are in a development phase and want to make sure their data doesn't get leaked because of a bad configuration.</span></span>

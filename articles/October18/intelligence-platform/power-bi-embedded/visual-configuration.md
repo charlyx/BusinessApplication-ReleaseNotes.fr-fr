@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: db1c5099ada156b4cb110d3f72a528dd762d2335
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bd2a89297bc0451a382ea798b4284551406e6cad
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="visual-configuration-for-power-bi-embedded"></a><span data-ttu-id="fdee8-103">Configuration visuelle pour Power BI Embedded</span><span class="sxs-lookup"><span data-stu-id="fdee8-103">Visual configuration for Power BI Embedded</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="fdee8-104">Le visuel est une partie intégrante de l'application.</span><span class="sxs-lookup"><span data-stu-id="fdee8-104">The visual is an integrated part of the application.</span></span> <span data-ttu-id="fdee8-105">À ce titre, nous activons actuellement l'application pour contrôler quelles fonctionnalités et expériences visuelles seront accessibles l'utilisateur final.</span><span class="sxs-lookup"><span data-stu-id="fdee8-105">As such, we are enabling the application to control which visual functionality and experiences the end user will be exposed to.</span></span> <span data-ttu-id="fdee8-106">Le comportement par défaut consiste à exposer les fonctionnalités toutes Power BI :</span><span class="sxs-lookup"><span data-stu-id="fdee8-106">The default behavior is to expose all the Power BI capabilities:</span></span>
 

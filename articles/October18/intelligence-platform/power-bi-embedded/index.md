@@ -12,15 +12,17 @@ ms.technology:
 ms.author: haydnr
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 99d04605dba1dfbf1486e7f3973f99fef7f6fa76
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c95375d5175eec81548ddb92f9ed19c19c5c337a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-embedded"></a><span data-ttu-id="7db2e-103">Power BI Embedded</span><span class="sxs-lookup"><span data-stu-id="7db2e-103">Power BI Embedded</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="7db2e-104">Power BI Embedded permet aux développeurs d'applications SaaS (Software as a service) d'ajouter facilement des analyses Power BI dans les applications qu'ils développent.</span><span class="sxs-lookup"><span data-stu-id="7db2e-104">Power BI Embedded enables software as a service (SaaS) application developers to seamlessly add Power BI analytics within the applications they develop.</span></span>
 

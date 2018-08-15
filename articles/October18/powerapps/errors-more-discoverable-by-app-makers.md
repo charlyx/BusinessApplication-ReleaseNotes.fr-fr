@@ -11,16 +11,18 @@ ms.technology:
 ms.author: lanced
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bea15e349f756f66101a6f431475b6f73d0a5e1e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 396e3043b4a941de78ac4eb6001de01c4f47d49b
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="errors-more-discoverable-by-app-makers"></a><span data-ttu-id="53377-103">Erreurs plus faciles à détecter par les créateurs d'applications</span><span class="sxs-lookup"><span data-stu-id="53377-103">Errors more discoverable by app makers</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="53377-104">L'outil de contrôle d'erreur guide les créateurs d'applications dans le débogage de leurs applications en fournissant une liste des problèmes détectés pour l'application entière dans un seul emplacement.</span><span class="sxs-lookup"><span data-stu-id="53377-104">The Error checker tool guides makers in debugging their apps by providing a list of detected issues for the entire application in a single place.</span></span> <span data-ttu-id="53377-105">Ils peuvent accéder directement à la liste d'erreurs à l'écran et contrôler directement l'erreur.</span><span class="sxs-lookup"><span data-stu-id="53377-105">App makers can navigate directly from the error list to the screen and control where the error exists.</span></span> <span data-ttu-id="53377-106">La liste d'erreurs fournit des informations détaillées sur l'erreur et comment la résoudre, ainsi que des liens vers des ressources supplémentaires.</span><span class="sxs-lookup"><span data-stu-id="53377-106">The error list provides detailed information about the error and how to fix it and links to extra resources.</span></span>
 

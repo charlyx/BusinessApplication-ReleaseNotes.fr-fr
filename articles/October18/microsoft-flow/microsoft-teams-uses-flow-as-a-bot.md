@@ -12,16 +12,18 @@ ms.technology:
 ms.author: mhade
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: e3d4bd04fb9f94858ecd0292e0289c9a6add39b9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 9b2856a76cec549cd1c941667860bdafe543e12c
 ms.contentlocale: fr-fr
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="microsoft-teams-uses-flow-as-a-bot"></a><span data-ttu-id="df779-103">Microsoft Teams utilise Flow en tant que bot</span><span class="sxs-lookup"><span data-stu-id="df779-103">Microsoft Teams uses Flow as a bot</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="df779-104">Les utilisateurs peuvent appeler les [flux de bouton](https://docs.microsoft.com/flow/introduction-to-button-flows) de manière intégrée dans Teams.</span><span class="sxs-lookup"><span data-stu-id="df779-104">Users will be able to invoke [button flows](https://docs.microsoft.com/flow/introduction-to-button-flows) using an embedded experience in Teams.</span></span> <span data-ttu-id="df779-105">Pour démarrer un flux, appelez-le avec le bot en indiquant « répertorier les flux », suivi de « sélectionner le flux 1 ».</span><span class="sxs-lookup"><span data-stu-id="df779-105">To start a flow, call it with the bot by saying "list flows," followed by "select flow 1."</span></span>
 

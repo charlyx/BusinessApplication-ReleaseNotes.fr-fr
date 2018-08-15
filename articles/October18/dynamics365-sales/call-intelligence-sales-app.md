@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 50966aceffa0bd1614235b7f3a88b5aeb3844b7d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 66dbe72e21762bb880fa2ec16781951fd213e146
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="transform-inside-sales-using-ai-in-the-call-center"></a><span data-ttu-id="f93c1-103">Transformer les ventes en interne à l'aide de l'IA dans le centre d'appels</span><span class="sxs-lookup"><span data-stu-id="f93c1-103">Transform inside sales using AI in the call center</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="f93c1-104">L'offre de Call Intelligence de Microsoft permet de bénéficier d'un meilleur accompagnement afin de dynamiser les taux de conversion des ventes.</span><span class="sxs-lookup"><span data-stu-id="f93c1-104">The Microsoft call intelligence offering enables smarter coaching to boost sales conversion rates.</span></span> <span data-ttu-id="f93c1-105">En connectant des systèmes d'enregistrement de téléphonie du centre d'appels à l'application, les responsables du centre d'appels peuvent générer des informations issues des conversations qui exploitent la valeur des actifs existants de l'organisation.</span><span class="sxs-lookup"><span data-stu-id="f93c1-105">By connecting call center telephony recording systems to the app, call center managers can generate conversation insights that bring value from the organization’s existing assets.</span></span>

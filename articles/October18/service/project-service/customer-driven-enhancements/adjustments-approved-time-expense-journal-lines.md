@@ -11,16 +11,18 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d793966c7933c8cf5ad1ce177161631d3b1eef3c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b766eaf6f4e412501b8756ca6f070ce21fcec6cb
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a><span data-ttu-id="08b3c-103">Modifications des lignes de journal, des dépenses et des périodes approuvées</span><span class="sxs-lookup"><span data-stu-id="08b3c-103">Adjustments to approved time, expense, and journal lines</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="08b3c-104">Cette fonctionnalité offre aux administrateurs de projet la possibilité très demandée de modifier les saisies d'heure et de dépense approuvées.</span><span class="sxs-lookup"><span data-stu-id="08b3c-104">This feature will give the much-needed ability for project administrators to make changes to approved time and expense entries.</span></span> <span data-ttu-id="08b3c-105">La plupart des entreprises basées sur des projets configurent des codes temporaires pour les projets, les tâches et d'autres attributs comme des catégories de travail et demandent aux consultants e consigner les heures par rapport à ces références intermédiaires jusqu'à ce que les codes permanents soient définis dans le système.</span><span class="sxs-lookup"><span data-stu-id="08b3c-105">Most project-based companies set up temporary codes for projects, tasks, and other attributes like work categories and have consultants log time against these interim references until the permanent codes are set up in the system.</span></span> 
 

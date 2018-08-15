@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1344f8072ddc0842a6e0abead09478b68db6b6fe
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 557a26f9185f09b2ab5f5e207b7c5c3c95ae1991
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="ability-to-make-copies-of-price-lists-by-adding-a-markup-percentage"></a><span data-ttu-id="99da0-103">Possibilité de faire des copies des tarifs en ajoutant un pourcentage de majoration</span><span class="sxs-lookup"><span data-stu-id="99da0-103">Ability to make copies of price lists by adding a markup percentage</span></span>
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="99da0-104">Project Service permet de faire des copies des tarifs pour faciliter la création et la maintenance des données.</span><span class="sxs-lookup"><span data-stu-id="99da0-104">Project Service allows you to make copies of price lists for ease of data creation and maintenance.</span></span> <span data-ttu-id="99da0-105">Il est actuellement possible de faire des copies des tarifs dans la même devise et dans la même unité de temps, ou de convertir un tarif dans une autre devise et une autre unité de temps en faisant une copie.</span><span class="sxs-lookup"><span data-stu-id="99da0-105">You're currently able to make copies of price lists in the same currency and time unit, or convert a price list in one currency and time unit to another by making a copy, using a different currency or time unit.</span></span> 
 

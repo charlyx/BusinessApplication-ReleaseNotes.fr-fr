@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 843cdb90d7e0b1dd1a91d7311357652661780899
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1ea7623590b40cea585799f1091c2cb910956f8a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="social-listening-for-your-campaigns"></a><span data-ttu-id="b416f-103">Outils de veille pour vos campagnes</span><span class="sxs-lookup"><span data-stu-id="b416f-103">Social listening for your campaigns</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="b416f-104">Le marketing moderne repose sur des signaux des réseaux sociaux permettant de fidéliser les clients.</span><span class="sxs-lookup"><span data-stu-id="b416f-104">Modern marketing relies on signals from social media to help keep customers engaged.</span></span> <span data-ttu-id="b416f-105">Les outils de veille de Dynamics 365 for Marketing permettent aux responsables d'ajouter des indicateurs sociaux appropriés aux parcours des clients, aux événements et à d'autres entités, afin de pouvoir suivre en direct sur les médias sociaux la réponse à leurs initiatives de marketing parallèlement à d'autres informations marketing.</span><span class="sxs-lookup"><span data-stu-id="b416f-105">Social listening in Dynamics 365 for Marketing lets marketers add relevant social tags to customer journeys, events, and other entities, so they can view the social media response to their marketing initiatives right alongside other marketing insights.</span></span>
 

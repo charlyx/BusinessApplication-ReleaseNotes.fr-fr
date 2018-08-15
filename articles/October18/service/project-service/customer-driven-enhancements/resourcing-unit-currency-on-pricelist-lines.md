@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a40e2adff4c8ca26094dddb8bcc9bd6f8fadaacb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3991215e52ecc9eb1cf741e880bc0c04bfec71e8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="resourcing-unit-currency-on-role-price-lines-for-cost"></a><span data-ttu-id="4dcba-103">Devise de l'unité d'allocation des ressources sur les lignes de prix du rôle pour le coût</span><span class="sxs-lookup"><span data-stu-id="4dcba-103">Resourcing unit currency on role price lines for cost</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="4dcba-104">Project Service permet uniquement une devise par tarifs, qui est spécifiée dans l'en-tête des tarifs.</span><span class="sxs-lookup"><span data-stu-id="4dcba-104">Project Service allows only one currency per price list, which is specified on the price list header.</span></span> <span data-ttu-id="4dcba-105">La ligne de tarifs de la tarification de la ressource dispose de la même devise spécifiée dans l'en-tête des tarifs.</span><span class="sxs-lookup"><span data-stu-id="4dcba-105">The price list line for resource pricing has the same currency specified on the price list header.</span></span> <span data-ttu-id="4dcba-106">Toutefois, pour les sociétés de service de projet internationales ayant une tarification centralisée pour toutes leurs divisions réparties dans différents pays, cela peut nécessiter la configuration de nombreuses données pour lesquelles elles devront définir séparément des tarifs dans chaque devise dans laquelle elles vendent ou engagent des coûts.</span><span class="sxs-lookup"><span data-stu-id="4dcba-106">However, for globally operating project service companies that have centralized pricing across all of their divisions across countries, this can necessitate a data-intensive setup where they'll need to set up a price list for each distinct currency that they sell or incur costs in.</span></span> 
 

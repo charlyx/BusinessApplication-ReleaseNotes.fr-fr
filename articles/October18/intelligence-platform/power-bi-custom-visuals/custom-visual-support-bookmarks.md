@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9ab979c5a1193b9275275e535d88cea2577af0bf
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 148bd8445d1912fc7671281b54cb85895e422d81
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="custom-visual-support-for-bookmarks"></a><span data-ttu-id="5365f-103">Prise en charge de visuels personnalisés pour les signets</span><span class="sxs-lookup"><span data-stu-id="5365f-103">Custom visual support for bookmarks</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="5365f-104">Les visuels personnalisés prendront en charge la fonctionnalité [signet](https://docs.microsoft.com/power-bi/desktop-bookmarks) de Power BI.</span><span class="sxs-lookup"><span data-stu-id="5365f-104">Custom visuals will support the [bookmark](https://docs.microsoft.com/power-bi/desktop-bookmarks) feature of Power BI.</span></span> <span data-ttu-id="5365f-105">Les développeurs peuvent ajouter un code dans les visuels personnalisés pour gérer la création et la récupération des signets.</span><span class="sxs-lookup"><span data-stu-id="5365f-105">Developers can add code in the custom visuals to handle the creation and retrieval of bookmarks.</span></span>
 

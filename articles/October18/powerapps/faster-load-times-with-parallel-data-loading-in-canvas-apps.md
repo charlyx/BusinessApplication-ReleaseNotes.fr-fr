@@ -11,16 +11,18 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 587d76f50fead1766f5dc810e2f9b0bf34bd760a
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 41ca7431301c5af53be78b728ab95ce7101aa7e0
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a><span data-ttu-id="cfcde-103">Temps de chargement plus rapides avec le chargement des données en parallèle dans les applications de canevas</span><span class="sxs-lookup"><span data-stu-id="cfcde-103">Faster load times with parallel data loading in canvas apps</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="cfcde-104">Pour des performances optimisées, de nombreux créateurs d'application de canevas préchargeront plusieurs tables et plusieurs entités au démarrage de leur application.</span><span class="sxs-lookup"><span data-stu-id="cfcde-104">For better performance, many canvas-app makers will preload multiple tables and entities when their app starts.</span></span> <span data-ttu-id="cfcde-105">Aujourd'hui, cette opération s'effectue en séquence, un chargement après l'autre, souvent dans la formule **OnStart** de l'application.</span><span class="sxs-lookup"><span data-stu-id="cfcde-105">Today, this is done serially, one load after another, often in the **OnStart** formula of the app.</span></span> 
 

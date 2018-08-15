@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 25e88afe31f492f72f29e3fde9ce38530ecc1291
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3d9c093dc2928be990b3737ca3d94d61a485c9a9
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="configure-a-unit-of-time-for-estimating-work-on-project-tasks"></a><span data-ttu-id="c62a3-103">Configurer une unité de temps pour estimer les efforts sur des tâches de projet</span><span class="sxs-lookup"><span data-stu-id="c62a3-103">Configure a unit of time for estimating work on project tasks</span></span>
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="c62a3-104">Project Service utilise l'*heure* comme seule unité de temps pour estimer les efforts sur des tâches de projet.</span><span class="sxs-lookup"><span data-stu-id="c62a3-104">Project Service uses *hour* as the only time unit for estimating work effort on a project task.</span></span> <span data-ttu-id="c62a3-105">Dans de nombreux pays, l'estimation est effectuée en « jours de travail ». Chaque pays définit le nombre d'heures dans une journée de travail typique.</span><span class="sxs-lookup"><span data-stu-id="c62a3-105">In many regions across the world, estimation is done in “work days,” with each country or region having its own definition of how many hours are in a typical work day.</span></span> <span data-ttu-id="c62a3-106">Par conséquent, selon la division qui est responsable de la livraison du projet, l'unité d'estimation du projet doit être définie par défaut sur le nombre d'heures d'une journée de travail de cette division.</span><span class="sxs-lookup"><span data-stu-id="c62a3-106">Therefore, depending on which division owns the delivery of the project, the unit of estimation on the project must default to that division's definition of work day.</span></span> 
 

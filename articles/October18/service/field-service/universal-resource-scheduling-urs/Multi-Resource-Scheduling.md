@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 67dbc8cbbde88daff175f64d648406b467bc9ceb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 920cb18641f6be8f38d8c0c42b63d19aba884dca
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="multi-resource-scheduling"></a><span data-ttu-id="87c24-103">Planification multiressource</span><span class="sxs-lookup"><span data-stu-id="87c24-103">Multi-resource scheduling</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 <span data-ttu-id="87c24-104">Assemblez dynamiquement un groupe de ressources pour les faire converger simultanément lors de la planification intrajournalière.</span><span class="sxs-lookup"><span data-stu-id="87c24-104">Dynamically assemble a group of resources to converge at the same time for intraday scheduling.</span></span> <span data-ttu-id="87c24-105">Les ressources peuvent être regroupées en équipe pour se rencontrer sur le site d'un client, collaborer à distance ou participer à des rendez-vous dans des installations.</span><span class="sxs-lookup"><span data-stu-id="87c24-105">Resources can be teamed together to meet onsite at a customer location, work together remotely, or fulfill appointments at facilities.</span></span>
 

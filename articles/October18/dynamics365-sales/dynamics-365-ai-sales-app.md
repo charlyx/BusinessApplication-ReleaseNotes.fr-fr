@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 05561650099897aaff1627f8160884824acd4ed0
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c88dd71a5a654638be727feba392054dc2cef9e5
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a><span data-ttu-id="dacb9-103">Améliorer les performances commerciales et la planification grâce à l'application Dynamics 365 AI for Sales.</span><span class="sxs-lookup"><span data-stu-id="dacb9-103">Enhance sales performance and planning with the Dynamics 365 AI for Sales app</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="dacb9-104">La nouvelle application Dynamics 365 AI for Sales facilite l'analyse des performances commerciales en fournissant de manière proactive et normative des informations utiles à partir des données de ventes.</span><span class="sxs-lookup"><span data-stu-id="dacb9-104">The new Dynamics 365 AI for Sales app takes the hassle out of sales performance analysis by proactively and prescriptively providing useful insights from sales data.</span></span> <span data-ttu-id="dacb9-105">Cette application aide les directeurs commerciaux à évaluer et à améliorer les performances de leurs équipes de vente sur Dynamics 365 et d'autres applications de vente.</span><span class="sxs-lookup"><span data-stu-id="dacb9-105">The app helps sales managers evaluate and improve the performance of their sales teams on Dynamics 365 and other sales applications.</span></span> <span data-ttu-id="dacb9-106">Avec les taux d'attrition et les prévisions de pipeline utilisant les scores sur la qualité des relations, les responsables des ventes peuvent mieux optimiser leurs stratégies de vente.</span><span class="sxs-lookup"><span data-stu-id="dacb9-106">With churn measurement and pipeline forecasting using relationship health scores, sales leaders can better optimize their sales strategies.</span></span>

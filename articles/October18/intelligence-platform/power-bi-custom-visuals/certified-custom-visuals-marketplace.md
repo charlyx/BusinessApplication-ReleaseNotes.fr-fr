@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7b4306b502f9b2db26e77376961ace28fc7022f5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2d065085c4aea2a7fe2f98bd89bce991287e3226
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a><span data-ttu-id="60a8a-103">Visuels personnalisés certifiés dans le site Marketplace</span><span class="sxs-lookup"><span data-stu-id="60a8a-103">Certified custom visuals in the marketplace</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="60a8a-104">Les développeurs de visuels personnalisés dans le site Marketplace peuvent choisir de passer par un processus de certification supplémentaire pour bénéficier d'une sécurité et d'une qualité renforcées et obtenir une certification de la part de l'équipe Power BI. Ainsi le visuel sera pris en charge lors de l'exportation vers PowerPoint et dans les abonnements aux courriers électroniques.</span><span class="sxs-lookup"><span data-stu-id="60a8a-104">Developers of custom visuals in the marketplace can choose to go through an additional certification process for enhanced security and quality to get a certification from the Power BI team, which will enable the visual to be supported in export to PowerPoint and email subscriptions.</span></span> <span data-ttu-id="60a8a-105">En outre, la certification garantit aux utilisateurs qu'ils peuvent utiliser les visuels en tout sécurité avec leurs données.</span><span class="sxs-lookup"><span data-stu-id="60a8a-105">In addition, the certification provides reassurance to users that the visuals are safe to use with their data.</span></span>
 

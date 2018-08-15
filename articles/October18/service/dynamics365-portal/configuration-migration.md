@@ -12,15 +12,17 @@ ms.technology:
 ms.author: sandhan
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2f1b97389e79909e67c1f60ab00862dbb805ccf3
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 337b55b8f25273b3934a03e9821648590d55098c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="configuration-migration"></a><span data-ttu-id="4152c-103">Migration de la configuration</span><span class="sxs-lookup"><span data-stu-id="4152c-103">Configuration migration</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="4152c-104">Plusieurs configurations et personnalisations sont nécessaires pour développer un portail, et ce pour que les utilisateurs finaux puissent bénéficier de l'expérience souhaitée.</span><span class="sxs-lookup"><span data-stu-id="4152c-104">Portal development involves several configurations and customizations to achieve a desired experience for portal end users.</span></span> <span data-ttu-id="4152c-105">Pour réduire le temps et les efforts nécessaires pour gérer la configuration du portail dans les environnements, nous avons publié un schéma de migration. Il fonctionne avec l'[Outil SDK de migration de la configuration](https://technet.microsoft.com/library/dn647421.aspx).</span><span class="sxs-lookup"><span data-stu-id="4152c-105">To reduce the time and effort required to manage portal configuration across environments, we are publishing schema for configuration migration that works with the [Configuration Migration SDK tool](https://technet.microsoft.com/library/dn647421.aspx).</span></span>

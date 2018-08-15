@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fc405e58c694d404cd524bc6714d8dd5ce4850c4
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a3ec91a1a8b1d5c9a4a81ba345c285e2ae5dcf94
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="power-bi-embedded-integration-with-azure-service-health"></a><span data-ttu-id="ce2d3-103">Intégration de Power BI Embedded avec Azure Service Health</span><span class="sxs-lookup"><span data-stu-id="ce2d3-103">Power BI Embedded integration with Azure Service Health</span></span> 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ce2d3-104">Nous ajoutons actuellement la possibilité d'utiliser Azure Service Health pour effectuer le suivi de la disponibilité des ressources Power BI Embedded.</span><span class="sxs-lookup"><span data-stu-id="ce2d3-104">We are adding the ability to use Azure Service Health to track the availability of Power BI Embedded resources.</span></span> <span data-ttu-id="ce2d3-105">Lorsque des problèmes dans les services Azure affectent les ressources indispensables à l'entreprise, Azure Service Health vous avertit, ainsi que vos équipes.</span><span class="sxs-lookup"><span data-stu-id="ce2d3-105">When issues in Azure services affect your business-critical resources, Azure Service Health notifies you and your teams.</span></span> <span data-ttu-id="ce2d3-106">Cela vous permet de comprendre l'impact du problème, et vous tient informé à mesure que le problème est résolu.</span><span class="sxs-lookup"><span data-stu-id="ce2d3-106">It helps you understand the impact of the issue, and keeps you updated as the issue is resolved.</span></span> <span data-ttu-id="ce2d3-107">Cela vous permet également de vous préparer à une maintenance planifiée et à des modifications susceptibles d'affecter la disponibilité de vos ressources.</span><span class="sxs-lookup"><span data-stu-id="ce2d3-107">It also helps you prepare for planned maintenance and changes that could affect the availability of your resources.</span></span> 
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f258c915683b0a7393d3d963dfcd72c2494411bf
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6854d6a0ca5d97ae26bf8a522e2249a11a82716c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="customer-service-admin-settings"></a><span data-ttu-id="3c6df-103">Paramètres d'administration de Customer Service</span><span class="sxs-lookup"><span data-stu-id="3c6df-103">Customer Service admin settings</span></span> 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="3c6df-104">L'un des objectifs principaux des clients de Dynamics 365 est de déployer rapidement leurs processus d'entreprise.</span><span class="sxs-lookup"><span data-stu-id="3c6df-104">One of the key goals for Dynamics 365 customers is quick deployment of their business processes.</span></span> <span data-ttu-id="3c6df-105">Le module Gestionnaire de services aide les responsables du service clientèle à automatiser différents processus, à améliorer le temps de réponse des agents et à optimiser la satisfaction des clients.</span><span class="sxs-lookup"><span data-stu-id="3c6df-105">The Service Management module helps customer service managers automate various customer service processes, improve agent turn-around time, and lead toward optimum customer satisfaction.</span></span> <span data-ttu-id="3c6df-106">Le Gestionnaire de services permet de configurer et de gérer des tâches de service clientèle (comme configurer des files d'attente publiques ou privées, définir des paramètres d'incidents parent-enfant, configurer des règles d'acheminement, configurer des règles de mise à jour et de création d'enregistrements automatiques et configurer des accords de niveau de service (SLA), etc).</span><span class="sxs-lookup"><span data-stu-id="3c6df-106">Service Management provides an admin the ability to configure and manage customer service tasks such as configuring public or private queues, setting up parent-child case settings, configuring routing rules, configuring automatic record creation and update rules, and setting up service level agreements (SLAs), among other capabilities.</span></span>
 

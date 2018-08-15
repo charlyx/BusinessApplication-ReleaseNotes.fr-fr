@@ -11,16 +11,18 @@ ms.technology:
 ms.author: willthom
 audience: end user, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: eca055d1b918d7ef967a82557c136575e4baadb3
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d3c4231f8bfc85900ee190052095d96746e94d86
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="ad-hoc-exploration-public-preview"></a><span data-ttu-id="8a927-103">Exploration ad hoc (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="8a927-103">Ad-hoc exploration (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="8a927-104">De nombreux consommateurs de rapports et de tableau de bord ont des questions de suivi concernant les visuels qui s'affichent.</span><span class="sxs-lookup"><span data-stu-id="8a927-104">Many report or dashboard consumers find themselves with follow-up questions for the visuals they see.</span></span> <span data-ttu-id="8a927-105">Ils doivent consulter rapidement un graphique sur un axe différent, dans un autre format ou avec un nouveau filtre appliqué.</span><span class="sxs-lookup"><span data-stu-id="8a927-105">They need to quickly look at a chart along a different axis, in a different format, or with a new filter applied.</span></span> <span data-ttu-id="8a927-106">La surface d'exploration ad hoc offre à ces utilisateurs la flexibilité nécessaire pour répondre à ces questions sans les accabler avec une expérience de création de rapport circonstancié, et sans avoir à modifier les autorisations d'accès au rapport.</span><span class="sxs-lookup"><span data-stu-id="8a927-106">The ad-hoc exploration surface gives this user the flexibility to answer these questions without overwhelming them with the full report authoring experience, and without the need to have edit permissions to the report.</span></span> 
 

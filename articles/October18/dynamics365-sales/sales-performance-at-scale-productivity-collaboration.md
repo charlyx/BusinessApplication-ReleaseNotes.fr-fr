@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 68c6dc412bdc882b75b03baf57c9acbd940076b3
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 5ba6f411e365b001b79d325b950f1641fd2f3bda
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="overview-of-dynamics-365-for-sales-october-18-release"></a><span data-ttu-id="ccde6-103">Présentation de la version d'octobre 2018 de Dynamics 365 for Sales</span><span class="sxs-lookup"><span data-stu-id="ccde6-103">Overview of Dynamics 365 for Sales October '18 release</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ccde6-104">Microsoft Dynamics 365 for Sales permet la transformation numérique en offrant une productivité adaptée et des analyses basées sur l'IA, et en modernisant la collaboration de l'équipe de vente par une intégration collaborative dans l'écosystème Microsoft.</span><span class="sxs-lookup"><span data-stu-id="ccde6-104">Microsoft Dynamics 365 for Sales enables digital transformation by delivering productivity at scale and AI-driven analytics, and by modernizing the sales team collaboration through better-together integration across the Microsoft ecosystem.</span></span>
 

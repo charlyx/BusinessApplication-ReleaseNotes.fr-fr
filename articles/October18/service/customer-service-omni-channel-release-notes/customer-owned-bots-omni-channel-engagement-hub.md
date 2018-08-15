@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6e6b3ed58d98ee51df4d37d60a601a4c2fc94121
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: db4684ba4b28ae3b5084c7909ac4f0d5e502c2c8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="enable-customers-to-bring-their-bots"></a><span data-ttu-id="43a03-103">Permettre aux clients d'apporter leurs bots</span><span class="sxs-lookup"><span data-stu-id="43a03-103">Enable customers to bring their bots</span></span>
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="43a03-104">Aujourd'hui, les consommateurs exigent de plus en plus que les sociétés répondent à leurs besoins efficacement, rapidement et correctement.</span><span class="sxs-lookup"><span data-stu-id="43a03-104">Today, consumers are increasingly demanding that companies serve their needs and meet their requirements quickly, efficiently, and accurately.</span></span> <span data-ttu-id="43a03-105">Un virage stratégique est également en train de s'opérer avec l'utilisation des options en libre-service. Les clients cherchent désormais à répondre eux-mêmes à leurs besoins en matière de produit ou de service.</span><span class="sxs-lookup"><span data-stu-id="43a03-105">At the same time, there is a strategic shift toward use of self-service channels, with customers looking to solve product or service issues themselves.</span></span> 
 

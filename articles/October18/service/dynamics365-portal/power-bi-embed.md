@@ -12,15 +12,17 @@ ms.technology:
 ms.author: nenandw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 73431db3abd70fa8360ba3553ea96a2b60f3784e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b9cfe89ab82c7a65c815af3958df4377b38af0ad
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="embed-power-bi-visualizations"></a><span data-ttu-id="a7758-103">Intégrer les visualisations Power BI</span><span class="sxs-lookup"><span data-stu-id="a7758-103">Embed Power BI visualizations</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="a7758-104">[Power BI](https://powerbi.microsoft.com) est l'un des meilleurs outils pour fournir des aperçus en une visualisation simple et interactive.</span><span class="sxs-lookup"><span data-stu-id="a7758-104">[Power BI](https://powerbi.microsoft.com) is one of the best tool to deliver insights with simple and interactive visualization.</span></span> <span data-ttu-id="a7758-105">Avec les fonctionnalités et cas d'utilisation proposés aux utilisateurs, Power BI demeure l'une des idées les plus plébiscitées.</span><span class="sxs-lookup"><span data-stu-id="a7758-105">Considering Power BI features and the use cases it enables for portal users, this feature remains one of the top-voted ideas.</span></span> <span data-ttu-id="a7758-106">Actuellement, il n'existe aucun moyen simple d'intégrer des états Power BI dans un portail, et avec cette fonctionnalité nous allons rationaliser le portail Dynamics 365 et l'intégration de Power BI.</span><span class="sxs-lookup"><span data-stu-id="a7758-106">Currently, there is no easy way to embed secure Power BI reports in a portal, and with this feature we will be streamlining Dynamics 365 Portal and Power BI integration.</span></span>

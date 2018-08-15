@@ -11,16 +11,16 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: be1e1d2ac41c9d65bba6eedd7edd3b566a9d80fe
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f326f8d0ee21ab68b50dd2866638a3dda6c21b11
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-project-service"></a><span data-ttu-id="55da0-103">Résumé des nouveautés dans Dynamics 365 for Project Service</span><span class="sxs-lookup"><span data-stu-id="55da0-103">Summary of what's new in Dynamics 365 for Project Service</span></span>
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | <span data-ttu-id="55da0-104">Fonctionnalité</span><span class="sxs-lookup"><span data-stu-id="55da0-104">Feature</span></span>                                                                                                                                                                                                 | <span data-ttu-id="55da0-105">Type de version</span><span class="sxs-lookup"><span data-stu-id="55da0-105">Release type</span></span> | <span data-ttu-id="55da0-106">Mois de la version cible</span><span class="sxs-lookup"><span data-stu-id="55da0-106">Target release month</span></span> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------|

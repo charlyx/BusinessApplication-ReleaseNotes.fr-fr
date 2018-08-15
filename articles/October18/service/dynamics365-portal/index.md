@@ -12,15 +12,17 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4b3491a9a2ca933fa762d0ce93033075e695d440
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3e89dc06b429a791355165b9176355b8cd8e37c5
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-portal-october-18-release"></a><span data-ttu-id="13076-103">Présentation de la version d'octobre 2018 du portail Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="13076-103">Overview of Dynamics 365 Portal October '18 release</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 <span data-ttu-id="13076-104">Le portail Dynamics 365 permet aux organisations d'étendre facilement plusieurs entités, fonctionnalités et fonctions de Dynamics 365 vers des personnes externes comme des clients et des partenaires, etc.</span><span class="sxs-lookup"><span data-stu-id="13076-104">Dynamics 365 Portal enables organizations to easily extend entities, features, and functions of Dynamics 365 to external audiences like customers and partners.</span></span> 
 

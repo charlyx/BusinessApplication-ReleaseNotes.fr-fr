@@ -11,16 +11,18 @@ ms.technology:
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2d62402092c80c1f2e0d953d379a8385f2e86947
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: fd8da15419baba41f82062b19edb29c92d0d1328
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a><span data-ttu-id="830aa-103">Présentation de la version d'octobre 2018 de Dynamics 365 for Talent</span><span class="sxs-lookup"><span data-stu-id="830aa-103">Overview of Dynamics 365 for Talent October '18 release</span></span>
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="830aa-104">La mise à jour d'octobre 2018 de Dynamics 365 for Talent comprend des fonctionnalités de solution de gestion des candidatures, une prise en charge de l'intégration dans les services et de nouvelles fonctionnalités de gestion de l'organisation, du personnel et des avantages.</span><span class="sxs-lookup"><span data-stu-id="830aa-104">The Dynamics 365 for Talent update for October ’18 includes applicant tracking system (ATS) capabilities, departmental onboarding support, and new benefits, workforce, and organization management capabilities.</span></span> <span data-ttu-id="830aa-105">Cette toute dernière version permet aux partenaires de Dynamics d'exploiter le composant Talent et d'apporter des fonctionnalités supplémentaires au Common Data Service (CDS) pour les applications.</span><span class="sxs-lookup"><span data-stu-id="830aa-105">This latest release opens the door for Dynamics partners to extend Talent and bring additional capabilities to the Common Data Service (CDS) for Apps.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: keweare
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: c96153d8ed2e23d669c43a1730dd274c45cebbef
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ad2b6a7cd5c7527f45b2b9159695db4f6890217a
 ms.contentlocale: fr-fr
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a><span data-ttu-id="22d03-103">Connecteur, kit de développement logiciel et API de gestion des flux</span><span class="sxs-lookup"><span data-stu-id="22d03-103">Flow management connector, SDK, and APIs</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="22d03-104">Nos clients sont de plus en plus nombreux à rechercher de créateurs et des administrateurs pour automatiser les tâches d'Application Lifecycle Management, ainsi que pour automatiser les autorisations et la gouvernance des flux au sein d'un client.</span><span class="sxs-lookup"><span data-stu-id="22d03-104">We are seeing greater demand from customers looking for makers and administrators to automate application lifecycle management tasks and automate the permissions and governance of flows within a tenant.</span></span> <span data-ttu-id="22d03-105">Dans le cadre de cette fonctionnalité, nous documenterons les API et les kits de développement logiciel permettant aux organisations de générer des outils supplémentaires pour rationaliser leurs processus.</span><span class="sxs-lookup"><span data-stu-id="22d03-105">As part of this feature, we will be documenting APIs and SDKs that allow organizations to build additional tooling to streamline their processes.</span></span>  <span data-ttu-id="22d03-106">Nous allons également développer notre connecteur de gestion Flow existant, ce qui permettra aux organisations d'automatiser leurs opérations informatiques via Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="22d03-106">We will also be expanding upon our existing Flow management connector, allowing organizations to automate their IT operations through Microsoft Flow.</span></span>
 

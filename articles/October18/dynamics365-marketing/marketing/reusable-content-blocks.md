@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a675b4da0f9652091ec05b7498c1037a2538c0a2
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 61517b3de4368d78b7792cc6268f94eb5ec04e07
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="reusable-content-blocks"></a><span data-ttu-id="c4b01-103">Blocs de contenu réutilisables</span><span class="sxs-lookup"><span data-stu-id="c4b01-103">Reusable content blocks</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="c4b01-104">Les blocs de contenu réutilisables permettent aux utilisateurs de Marketing de définir et de stocker les blocs de contenu réutilisables pouvant être facilement ajoutés à des courriers électroniques et à des conceptions de page.</span><span class="sxs-lookup"><span data-stu-id="c4b01-104">Reusable content blocks enable Marketing users to define and store reusable blocks of content that are easy to add to email and page designs.</span></span> <span data-ttu-id="c4b01-105">Par exemple, si vous avez créé un bel en-tête pour une page marketing, vous pouvez en faire un élément de conception standard en l'enregistrant comme bloc réutilisable.</span><span class="sxs-lookup"><span data-stu-id="c4b01-105">For example, if you've created a beautiful header for a marketing page, you can make it a standard design element by saving it as a reusable block.</span></span> <span data-ttu-id="c4b01-106">Vous pouvez également protéger une partie ou tout le contenu ou la conception d'un bloc pour empêcher d'autres utilisateurs de les modifier.</span><span class="sxs-lookup"><span data-stu-id="c4b01-106">You can also protect some or all of a block's content or design to restrict other users' ability to edit them.</span></span> 
 

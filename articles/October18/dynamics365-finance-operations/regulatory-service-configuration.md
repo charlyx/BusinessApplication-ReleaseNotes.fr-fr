@@ -11,16 +11,18 @@ ms.technology:
 ms.author: janeaug
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e56816ca696ce846b0a629daf670c9b04b14ca70
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1603957267bec07c2323edf292da204bc2f31aea
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a><span data-ttu-id="8bc85-103">Microsoft Dynamics 365 for Finance and Operations - Services de réglementation, service de configuration</span><span class="sxs-lookup"><span data-stu-id="8bc85-103">Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service</span></span> 
 
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="8bc85-104">Le Service de configuration de Microsoft Dynamics 365 for Finance and Operations - Services de réglementation est une évolution de l'outil de configuration réglementaire (également connu sous le nom d'États électroniques).</span><span class="sxs-lookup"><span data-stu-id="8bc85-104">The Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service is the evolution of the regulatory configuration tool (also known as Electronic Reporting).</span></span> <span data-ttu-id="8bc85-105">Le Service de configuration permet aux partenaires et aux clients utilisant plusieurs versions de Microsoft Dynamics 365 for Finance and Operations et des versions antérieures de Microsoft Dynamics AX (par exemple AX 2012 et AX 2009, pour l'Inde uniquement) de n'avoir à configurer les fonctionnalités de réglementation qu'une seule fois à l'aide d'un service commun.</span><span class="sxs-lookup"><span data-stu-id="8bc85-105">The Configuration service allows partners and customers using multiple versions of Microsoft Dynamics 365 for Finance and Operations and earlier Microsoft Dynamics AX versions (such as AX 2012 and AX 2009 for India only) to configure regulatory features only once using a common service.</span></span> <span data-ttu-id="8bc85-106">Le Service de configuration cible une approche de programmation sans code, qui permettrait aux utilisateurs de configurer des obligations légales qui changent fréquemment pour les états de réglementation, les factures électroniques, les formats de paiement, et les règles de taxe plutôt que d'écrire du code dans des applications multiples.</span><span class="sxs-lookup"><span data-stu-id="8bc85-106">The Configuration service targets a no-code programming approach, allowing power users to configure frequently changed legal requirements for regulatory reports, e-invoices, payment formats and tax rules, rather than writing code in multiple applications.</span></span> 
 

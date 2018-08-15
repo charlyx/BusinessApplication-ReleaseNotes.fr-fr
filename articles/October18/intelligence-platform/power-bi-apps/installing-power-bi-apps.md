@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 33a629c48b3818b807f0ffb25af7d437f6275016
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6c0598fc9fe266d10920012c0e7b2e6d2bdd3469
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="installing-power-bi-apps-for-dataflows"></a><span data-ttu-id="c9d8e-103">Installation des applications Power BI pour les flux de données</span><span class="sxs-lookup"><span data-stu-id="c9d8e-103">Installing Power BI apps for dataflows</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="c9d8e-104">Les utilisateurs Power BI peuvent lancer leurs solutions en installant des applications Power BI prêtes à l'emploi fournies par Microsoft et ses partenaires.</span><span class="sxs-lookup"><span data-stu-id="c9d8e-104">Power BI users can jumpstart their solutions by installing out-of-the-box Power BI applications provided by Microsoft and partners.</span></span> <span data-ttu-id="c9d8e-105">Les applications Power BI sont développées à l'aide de différents artefacts Power BI provenant des connecteur de données utilisés pour renseigner un flux de données dans les rapports qui visualisent les données pour les utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="c9d8e-105">Power BI apps are developed using various Power BI artifacts from the data connectors used to populate a dataflow to the reports that visualize data for the users.</span></span> 
 

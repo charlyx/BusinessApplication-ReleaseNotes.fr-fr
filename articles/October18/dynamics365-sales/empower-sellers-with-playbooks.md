@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 29cd44d4886f0728b3a472c26d7fb43a4c4c1966
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: aaecba514d586b5580700c20e7f158c78fea6b10
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a><span data-ttu-id="be565-103">Fournir aux vendeurs des Playbooks guidés par des activités commerciales liées à des événements</span><span class="sxs-lookup"><span data-stu-id="be565-103">Empower sellers with Playbooks guided by event-driven sales activities</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="be565-104">Dynamics 365 for Sales dispose désormais de **Playbooks**. Il s'agit d'une nouvelle fonctionnalité capable d'aider les organisations à automatiser des activités commerciales renouvelables et de réagir à des événements externes.</span><span class="sxs-lookup"><span data-stu-id="be565-104">Dynamics 365 for Sales is introducing **Playbooks**, a new capability to help organizations automate repeatable sales activities and respond to external events.</span></span>

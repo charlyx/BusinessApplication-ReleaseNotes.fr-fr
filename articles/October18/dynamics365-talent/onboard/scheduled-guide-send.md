@@ -11,16 +11,18 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 462bc49381f27da321a49d364ec5bfe83ee8f3b7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8234e98ebd468828d3a91b30f0beaa9d5c521758
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="scheduled-guide-send"></a><span data-ttu-id="20f34-103">Envoi d'un guide planifié</span><span class="sxs-lookup"><span data-stu-id="20f34-103">Scheduled guide send</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 <span data-ttu-id="20f34-104">Envoyez automatiquement et en un seul clic des guides aux nouveaux employés avant, pendant ou après leur date de début.</span><span class="sxs-lookup"><span data-stu-id="20f34-104">Automatically send guides to new hires before, on, or after their start date with just a click.</span></span> <span data-ttu-id="20f34-105">Réduisez les contraintes des responsables et assurez-vous que chaque guide est envoyé.</span><span class="sxs-lookup"><span data-stu-id="20f34-105">Reduce friction for managers and ensure that every guide is sent.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: e0253d623cf59054e51069ada55a05732e6b5c5f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2ceb2263e9fb343cb8feb050198f8a16050c2e5f
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="self-service-data-prep-with-dataflows"></a><span data-ttu-id="e4dac-103">Préparation de données en libre-service avec des flux de données</span><span class="sxs-lookup"><span data-stu-id="e4dac-103">Self-service data prep with dataflows</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="e4dac-104">Power BI présente des flux de données permettant aux organisations d'unifier les données issues de sources disparates et de les préparer à des fins de modélisation.</span><span class="sxs-lookup"><span data-stu-id="e4dac-104">Power BI introduces dataflows to help organizations unify data from disparate sources and prepare it for modeling.</span></span> <span data-ttu-id="e4dac-105">Les analystes peuvent créer facilement des flux de données à l'aide d'outils conviviaux en libre-service.</span><span class="sxs-lookup"><span data-stu-id="e4dac-105">Analysts can easily create dataflows, using familiar, self-service tools.</span></span> <span data-ttu-id="e4dac-106">Les flux de données permettent d'ingérer, de transformer, d'intégrer et d'enrichir le big data en définissant des connexions de source de données, une logique d'ETL, des planifications d'actualisation, etc.</span><span class="sxs-lookup"><span data-stu-id="e4dac-106">Dataflows are used to ingest, transform, integrate, and enrich big data by defining data source connections, ETL logic, refresh schedules, and more.</span></span> <span data-ttu-id="e4dac-107">Les données sont stockées en tant qu'entités dans des dossiers compatibles Common Data Model dans Azure Data Lake Storage Gen2.</span><span class="sxs-lookup"><span data-stu-id="e4dac-107">Data is stored as entities in Common Data Model compliant folders in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="e4dac-108">Les flux de données sont créés et gérés dans des espaces de travail d'applications utilisant le service Power BI.</span><span class="sxs-lookup"><span data-stu-id="e4dac-108">Dataflows are created and managed in app workspaces by using the Power BI service.</span></span>   
 

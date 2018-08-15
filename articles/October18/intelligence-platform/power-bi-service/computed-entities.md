@@ -12,15 +12,17 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: 4c21f69a2dccb270f1c59693dfe418be87ab9f1e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1cf4c587631512b432a437794c2825f40863f43f
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="computed-entities-public-preview"></a><span data-ttu-id="856a8-103">Entités calculées (Version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="856a8-103">Computed entities (Public Preview)</span></span>  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="856a8-104">Les entités de flux de données sont enregistrées dans des dossiers compatibles Common Data Model (dossiers CDM), dans Azure Data Lake Storage Gen2.</span><span class="sxs-lookup"><span data-stu-id="856a8-104">Dataflow entities are stored in Common Data Model compliant folders (CDM folders), in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="856a8-105">Une fois les entités chargées dans les dossiers CDM, vous pouvez générer de nouvelles informations en transformant, en modifiant, et en enrichissant des entités, et en regroupant des données à grande échelle.</span><span class="sxs-lookup"><span data-stu-id="856a8-105">After your entities have been loaded to CDM folders, you can generate new insights by transforming, modifying, and enriching entities, and aggregating large-scale data.</span></span> <span data-ttu-id="856a8-106">Ces entités nouvellement créées sont également stockées dans des dossiers CDM.</span><span class="sxs-lookup"><span data-stu-id="856a8-106">These newly created entities are also stored in CDM folders.</span></span> <span data-ttu-id="856a8-107">L'analyse statique des expressions Power Query M permet d'identifier automatiquement les dépendances entre les entités. Ainsi, elles sont toujours mises à jour dans l'ordre optimal, sans intervention manuelle.</span><span class="sxs-lookup"><span data-stu-id="856a8-107">Static analysis of Power Query M expressions makes it possible to identify dependencies between entities automatically, so they’ll always be updated in the optimal order, with no need for manual orchestration.</span></span> 
 

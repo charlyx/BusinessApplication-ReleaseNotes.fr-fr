@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 09eec76a1bbaa99fe34019de06affc542dc8f69c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 46b050bc9c158f5d740f37581b99f31e30be0dd9
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="power-bi-custom-visuals"></a><span data-ttu-id="c40b1-103">Visuels personnalisés Power BI</span><span class="sxs-lookup"><span data-stu-id="c40b1-103">Power BI custom visuals</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="c40b1-104">Les visuels Power BI permettent de développer des visuels uniques pouvant être utilisés comme n'importe quel autre visuel Power BI natif.</span><span class="sxs-lookup"><span data-stu-id="c40b1-104">Power BI visuals enable development of unique visuals that can be used like any other native Power BI visual.</span></span>
 

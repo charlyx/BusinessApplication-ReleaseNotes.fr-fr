@@ -12,16 +12,18 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2b4191e90a64ce9ec33a9450d4bcab570f3ae849
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3110bc00cc5b926c877c9be3158d92fa669a16cc
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="additional-languages"></a><span data-ttu-id="c7e99-103">Langues supplémentaires</span><span class="sxs-lookup"><span data-stu-id="c7e99-103">Additional languages</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 <span data-ttu-id="c7e99-104">Microsoft Social Engagement développe des fonctionnalités de veille sur de nouveaux marchés en ajoutant des langues supplémentaires pour l'achat de données, l'analyse des sentiments et les indicateurs personnalisés :</span><span class="sxs-lookup"><span data-stu-id="c7e99-104">Microsoft Social Engagement is expanding with listening capabilities into new markets by adding more languages for data acquisition, sentiment analysis, and custom tags:</span></span> 
 

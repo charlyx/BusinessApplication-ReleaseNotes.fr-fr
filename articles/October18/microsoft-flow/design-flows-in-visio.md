@@ -12,16 +12,18 @@ ms.technology:
 ms.author: stepsic
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: bd1911e20cb3baa2204e5bd0ef23c7490b76d747
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 663cdd3f54042289552983436e70c40c52127f58
 ms.contentlocale: fr-fr
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="design-flows-in-visio"></a><span data-ttu-id="89cf0-103">Concevoir des flux dans Visio</span><span class="sxs-lookup"><span data-stu-id="89cf0-103">Design flows in Visio</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="89cf0-104">Microsoft Visio permet aux entreprises de capturer leurs processus d'entreprise avec ses fonctionnalités de modélisation riches.</span><span class="sxs-lookup"><span data-stu-id="89cf0-104">Microsoft Visio enables enterprises to capture their business processes using its rich modeling capabilities.</span></span> <span data-ttu-id="89cf0-105">Toute personne qui crée des organigrammes ou des workflows SharePoint peut maintenant utiliser Visio pour concevoir des workflows Microsoft Flow.</span><span class="sxs-lookup"><span data-stu-id="89cf0-105">Anyone who creates flowcharts or SharePoint workflows can now use Visio to design Microsoft Flow workflows.</span></span> <span data-ttu-id="89cf0-106">Vous pouvez utiliser les fonctionnalités de commentaires et de partage de Visio pour collaborer avec plusieurs parties prenantes et obtenir un workflow complet en peu de temps.</span><span class="sxs-lookup"><span data-stu-id="89cf0-106">You can use Visio's sharing and commenting capabilities to collaborate with multiple stakeholders and arrive at a complete workflow in little time.</span></span> <span data-ttu-id="89cf0-107">Comme demandé [ici](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269), vous pouvez publier le workflow dans Microsoft Flow, puis fournir des paramètres pour l'activer.</span><span class="sxs-lookup"><span data-stu-id="89cf0-107">As requested [here](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269), you can publish the workflow to Microsoft Flow, then supply parameters to activate it.</span></span>
 

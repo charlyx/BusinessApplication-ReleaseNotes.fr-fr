@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: e563163c42c593c6d43ec283ec0cb823fad6f1aa
-ms.openlocfilehash: fc691ccd4ab81dd6933356d27eb081158e67ab96
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f4af53021253d0e491d19fa6e782cb638751efe6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/08/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="videos-in-marketing-content"></a><span data-ttu-id="8a75f-103">Vidéos dans du contenu marketing</span><span class="sxs-lookup"><span data-stu-id="8a75f-103">Videos in marketing content</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="8a75f-104">La préférences grandissante du public pour du contenu audio/visuel à la placé du contenu écrit a poussé les responsables marketing à commencer à intégrer des vidéos dans leurs stratégies de campagne et de rayonnement.</span><span class="sxs-lookup"><span data-stu-id="8a75f-104">Growing audience preference for audio/visual over written content has pushed marketers to start integrating video into their campaign and outreach strategies.</span></span> <span data-ttu-id="8a75f-105">Dynamics 365 for Marketing ouvre la voie pour que du contenu vidéo soit ajouté aux pages et aux courriers électroniques marketing.</span><span class="sxs-lookup"><span data-stu-id="8a75f-105">Dynamics 365 for Marketing paves the way for video content to be added to marketing pages and emails.</span></span>
 

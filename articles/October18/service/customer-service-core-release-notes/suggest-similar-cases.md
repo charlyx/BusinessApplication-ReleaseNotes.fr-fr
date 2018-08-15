@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 74ec87c7c15b7e4ab4068914dfa73ba56fad2857
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 561ba799ab102a5169f83e84879a5e9c86db4ef3
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="suggest-similar-cases"></a><span data-ttu-id="5e438-103">Suggérer des incidents similaires</span><span class="sxs-lookup"><span data-stu-id="5e438-103">Suggest similar cases</span></span>  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 <span data-ttu-id="5e438-104">La résolution d'un problème de service clientèle au cours du premier contact et dans un délai minimal aide les organisations à obtenir une meilleure satisfaction client (CSAT) et des coûts d'opérations réduits.</span><span class="sxs-lookup"><span data-stu-id="5e438-104">Resolving a customer service issue during the first contact and within minimal time helps organizations with increased customer satisfaction (CSAT) and reduced operations cost.</span></span>  <span data-ttu-id="5e438-105">Généralement, dans une organisation de service clientèle, les agents du service clientèle expérimentés ou les experts spécialisés résolvent les problèmes plus rapidement en fonction des connaissances ou de l'expérience acquise pendant une période de résolution de problèmes similaires.</span><span class="sxs-lookup"><span data-stu-id="5e438-105">Typically, in a customer service organization, experienced customer service agents or subject matter experts (SMEs) resolve issues faster based on knowledge or experience gained over a period of resolving similar issues.</span></span> <span data-ttu-id="5e438-106">Si des agents traitent un incident étranger à leurs domaines de compétences, le transfert de l'incident à un agent spécialisé ou la consultation d'un expert spécialisé améliore l'effort client et le délai de traitement des appels, ce qui se traduit par une meilleure CSAT.</span><span class="sxs-lookup"><span data-stu-id="5e438-106">If agents get a case outside their areas of expertise, transferring the case to an expert agent or consulting an SME leads to increased customer effort and call handling time, resulting in reduced CSAT.</span></span>  
 

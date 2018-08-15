@@ -12,15 +12,17 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1905676af1cf71daec3bb0eb1f8fc0a5371311c9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f3db7db9b5315245dcec2184cb33f440f4166cc4
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="assignee-placeholders"></a><span data-ttu-id="5f53f-103">Espaces réservés aux destinataires</span><span class="sxs-lookup"><span data-stu-id="5f53f-103">Assignee placeholders</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 <span data-ttu-id="5f53f-104">Les modèles de niveau de service sont aussi génériques que possible pour permettre une réutilisation optimale.</span><span class="sxs-lookup"><span data-stu-id="5f53f-104">Templates at the department level are made as general as possible to allow for maximum reuse.</span></span> <span data-ttu-id="5f53f-105">Par exemple, les dates d'échéance sont défini en fonction de la date de début du nouvel employé (par exemple, deux semaines après date de début).</span><span class="sxs-lookup"><span data-stu-id="5f53f-105">For example, due dates are set relative from the new hire’s start date (for example, two weeks after start date).</span></span> <span data-ttu-id="5f53f-106">Les destinataires peuvent également être généralisés de la même façon en permettant que les tâches soient attribuées à un espace réservé à mapper au moment de l'exécution.</span><span class="sxs-lookup"><span data-stu-id="5f53f-106">Assignees can also be generalized in the same fashion by allowing tasks to be assigned to a placeholder to be mapped at runtime.</span></span>
 

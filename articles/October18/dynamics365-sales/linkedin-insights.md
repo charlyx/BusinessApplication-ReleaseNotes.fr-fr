@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ef85db29ff72420f87f1d3533a48ad63fda65665
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 5cba376a5907365a499667a8e4dda640d91f3d41
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="build-intelligent-sales-applications-and-business-processes-powered-by-linkedin-insights"></a><span data-ttu-id="24bf2-103">Créer des applications de vente et des processus d'entreprise intelligents optimisés par des informations de LinkedIn</span><span class="sxs-lookup"><span data-stu-id="24bf2-103">Build intelligent sales applications and business processes powered by LinkedIn insights</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="24bf2-104">Les applications Dynamics 365 optimisées par des informations de LinkedIn passent au niveau supérieur en combinant les **Contrôles de LinkedIn Sales Navigator**, modulaires et personnalisables, avec la puissance et la polyvalence des **Flux des processus d'entreprise Dynamics 365**.</span><span class="sxs-lookup"><span data-stu-id="24bf2-104">Dynamics 365 applications powered by LinkedIn insights are taken to the next level by combining the modular and customizable **LinkedIn Sales Navigator controls** with the power and flexibility of **Dynamics 365 Business Process Flows**.</span></span> <span data-ttu-id="24bf2-105">Tous les processus d'entreprise, y compris les scénarios de ventes, peuvent être créés ou améliorés pour proposer des informations de LinkedIn sur les personnes et les entreprises. Cela permet aux employés d'effectuer les procédures avec précision et rapidité, tout en faisant avancer les transactions commerciales et autres processus vers une conclusion réussie.</span><span class="sxs-lookup"><span data-stu-id="24bf2-105">Any business process, including the sales scenarios, can be created or enhanced to feature LinkedIn insights about people and companies, which help information workers complete the stages and steps accurately and quickly, driving the sales deals and other processes forward toward a successful conclusion.</span></span> <span data-ttu-id="24bf2-106">Les informations comprennent :</span><span class="sxs-lookup"><span data-stu-id="24bf2-106">The insights include:</span></span>

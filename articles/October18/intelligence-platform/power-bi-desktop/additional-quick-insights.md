@@ -11,16 +11,18 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4a3ee7a6fe65867612a13d76545882b418af3d1c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c5eed5c7bc8259954fc1403827d0df8a57a72b7c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="additional-quick-insights-public-preview"></a><span data-ttu-id="c06f6-104">Quick Insights supplémentaires (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="c06f6-104">Additional quick insights (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="c06f6-105">Lorsque vous affichez un visuel présentant la répartition d'une valeur dans une catégorie (par exemple, les ventes par type de produit), les utilisateurs peuvent demander à Power BI d'afficher les autres facteurs affectant cette répartition.</span><span class="sxs-lookup"><span data-stu-id="c06f6-105">When viewing a visual showing the distribution of a value across a category (for example, sales by product type), users can ask Power BI to show what other factors affect this distribution.</span></span> <span data-ttu-id="c06f6-106">Cette méthode permet d'identifier l'impact sur une mesure sans devoir ventiler manuellement par facteur pour faire des essais afin de trouver l'impact.</span><span class="sxs-lookup"><span data-stu-id="c06f6-106">This helps identify the impact on a metric without manually having to break down by each factor to experiment and find the impact.</span></span>
 

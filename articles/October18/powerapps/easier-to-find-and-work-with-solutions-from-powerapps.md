@@ -11,16 +11,18 @@ ms.technology:
 ms.author: litran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8165484eed7d7ccc3ff3b6aafd293433b166a683
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f19f0833790bb1226528326c2da55f6f5e44f3ba
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a><span data-ttu-id="a1ad8-103">Simplification de la recherche et de l'utilisation des solutions de PowerApps</span><span class="sxs-lookup"><span data-stu-id="a1ad8-103">Easier to find and work with solutions from PowerApps</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="a1ad8-104">Vous pouvez utiliser les solutions plus facilement en accédant à la liste de solutions dans PowerApps.</span><span class="sxs-lookup"><span data-stu-id="a1ad8-104">You can work with solutions more easily by accessing the solution list in PowerApps.</span></span> <span data-ttu-id="a1ad8-105">Vous pouvez rechercher la solution dont vous avez besoin, l'ouvrir, puis chercher le composant d'une solution dans l'explorateur de solutions.</span><span class="sxs-lookup"><span data-stu-id="a1ad8-105">You can locate the solution that you need, open it, and search for a solution's component in the Solution Explorer.</span></span> <span data-ttu-id="a1ad8-106">Vous n'avez pas besoin d'accéder à l'explorateur de solutions classique pour gérer les composants au sein d'une solution.</span><span class="sxs-lookup"><span data-stu-id="a1ad8-106">You don't need to access the classic Solution Explorer to manage the components within a solution.</span></span>
 

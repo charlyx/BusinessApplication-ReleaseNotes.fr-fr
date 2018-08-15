@@ -11,15 +11,17 @@ ms.technology:
 ms.author: milindav
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 36225f093d48941c59e86c6a6460b4733588a71d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: cd00f281b554bae6ce553082c3afb0d8ce799aa9
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="real-time-power-bi-reports"></a><span data-ttu-id="c179e-103">États Power BI en temps réel</span><span class="sxs-lookup"><span data-stu-id="c179e-103">Real-time Power BI reports</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 <span data-ttu-id="c179e-104">Si vous êtes un client qui exécute actuellement Microsoft Dynamics 365 for Finance and Operations version 7.3, 8.0 ou une version ultérieure, la plupart des espaces de travail analytiques et des états Power BI intégrés dans le produit sont mis à jour en temps réel lorsque vous mettez à jour votre plateforme.</span><span class="sxs-lookup"><span data-stu-id="c179e-104">If you are a customer who is currently running Microsoft Dynamics 365 for Finance and Operations version 7.3 or 8.0 or later, most analytical workspaces and embedded Power BI reports in the product are updated in real-time when you update your platform.</span></span> <span data-ttu-id="c179e-105">Le magasin d'entités est actualisé en mode « mains libres » de sorte que votre administrateur n'ait pas besoin de gérer la planification de l'actualisation du magasin d'entités.</span><span class="sxs-lookup"><span data-stu-id="c179e-105">The entity store is refreshed “hands free,” so your administrator does not need to manage the entity store refresh schedule.</span></span> <span data-ttu-id="c179e-106">Microsoft gère cette actualisation pour vous.</span><span class="sxs-lookup"><span data-stu-id="c179e-106">Microsoft will manage the refresh for you.</span></span> 
  

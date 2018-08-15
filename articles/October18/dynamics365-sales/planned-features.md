@@ -11,10 +11,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6a3589b7fc806a16724781b94f9bdf059c9dafb7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 377c1aecf363fd79dc8fefb4d3425d46042da644
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
@@ -22,7 +22,7 @@ ms.lasthandoff: 07/18/2018
 
 <span data-ttu-id="0336a-104">Cette section répertorie les fonctionnalités qui seront lancées entre octobre 2018 et mars 2019 dans les applications Dynamics 365 for Sales et Dynamics 365 AI for Sales.</span><span class="sxs-lookup"><span data-stu-id="0336a-104">This section lists the features planned for release between October 2018 and March 2019 in the Dynamics 365 for Sales and Dynamics 365 AI for Sales apps.</span></span> 
 
-[!include[banner](../../includes/banner.md)]
+
 
 | <span data-ttu-id="0336a-105">Fonctionnalité</span><span class="sxs-lookup"><span data-stu-id="0336a-105">Feature</span></span>                                                              | <span data-ttu-id="0336a-106">Type de version</span><span class="sxs-lookup"><span data-stu-id="0336a-106">Release type</span></span>   | <span data-ttu-id="0336a-107">Mois de la version cible</span><span class="sxs-lookup"><span data-stu-id="0336a-107">Target release month</span></span> |
 |----------------------------------------------------------------------|----------------|----------------------|

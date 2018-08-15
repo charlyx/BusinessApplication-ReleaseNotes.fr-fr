@@ -11,16 +11,18 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 626bd7380196584d2a772f4c1233c2fb876b2359
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a8908855955edfae9b14c67feaf2d2fdfd7482a6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="create-canvas-apps-with-responsive-layout"></a><span data-ttu-id="e832a-103">Créer des applications de canevas avec une disposition dynamique</span><span class="sxs-lookup"><span data-stu-id="e832a-103">Create canvas apps with responsive layout</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="e832a-104">Normalement les écrans d'une application de canevas sont mis à l'échelle en fonction de l'espace fourni par l'hôte de l'application.</span><span class="sxs-lookup"><span data-stu-id="e832a-104">Normally the screens of a canvas app are scaled to fit the space provided by the app host.</span></span>  <span data-ttu-id="e832a-105">Cela facilite la création d'une application et garantit qu'elle s'affichera correctement sur n'importe quel écran où elle est utilisée.</span><span class="sxs-lookup"><span data-stu-id="e832a-105">This makes it easy to create an app and know that it will look proportionally correct on any screen in which it's used.</span></span>  <span data-ttu-id="e832a-106">Mais comme les écrans sont de plus en plus grands, les applications ne peuvent pas s'adapter pour profiter de l'espace supplémentaire.</span><span class="sxs-lookup"><span data-stu-id="e832a-106">But it comes at a price - as screens get bigger, the app can't adapt to take advantage of the additional real estate.</span></span>  <span data-ttu-id="e832a-107">De nombreux sites Web ont aujourd'hui un design « réactif » : ils s'ajustent à la taille de l'écran sur lequel ils sont affichés, et s'adaptent aux petits écrans de téléphone comme aux grandes écrans d'ordinateurs de bureau.</span><span class="sxs-lookup"><span data-stu-id="e832a-107">Many websites today are "responsive" - they adjust depending on the size of the screen they are shown on, adapting from small screens on phones to large screens on desktops.</span></span>  
 

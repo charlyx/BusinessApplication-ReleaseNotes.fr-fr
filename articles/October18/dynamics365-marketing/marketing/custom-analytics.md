@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3598821023216b31609317ff1a210c142e5c9a9b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4e01608807aa950392d23c191a45aa0fb421a698
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="custom-analytics"></a><span data-ttu-id="a6ad7-103">Analyses personnalisées</span><span class="sxs-lookup"><span data-stu-id="a6ad7-103">Custom analytics</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="a6ad7-104">Dynamics 365 for Marketing collecte une grande variété d'informations détaillées sur la façon dont les contacts interagissent avec vos initiatives marketing.</span><span class="sxs-lookup"><span data-stu-id="a6ad7-104">Dynamics 365 for Marketing collects wide-ranging and detailed information about how contacts interact with your marketing initiatives.</span></span> <span data-ttu-id="a6ad7-105">Utilisez les analyses personnalisées pour organiser et présenter ces données dans l'application Marketing.</span><span class="sxs-lookup"><span data-stu-id="a6ad7-105">Use custom analytics to organize and present this data within the Marketing app.</span></span>
 

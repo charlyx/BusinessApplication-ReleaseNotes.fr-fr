@@ -11,16 +11,18 @@ ms.technology:
 ms.author: clwesene
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8d4c2be4047e3a4afc22cec1c42bd663cae3c13e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f660e62b7065956faf5c3dd36968173e66057a45
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a><span data-ttu-id="73c50-103">Sélection et liaison des galeries, formulaires et champs de tables de données simplifiées</span><span class="sxs-lookup"><span data-stu-id="73c50-103">Simplified gallery, form, and data table field selection and binding</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="73c50-104">La liste des champs bénéficiera d'améliorations de la facilité d'utilisation pour simplifier l'utilisation des données dans les galeries, les formulaires et les tables de données.</span><span class="sxs-lookup"><span data-stu-id="73c50-104">The fields list will have usability enhancements to make working with data in galleries, forms, and data tables easier.</span></span> 
 

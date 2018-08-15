@@ -11,16 +11,18 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 16d699236ff13024f375e298e6667ceb358f5a75
-ms.openlocfilehash: 2a085b9404b5f3de724c7b695143f67afd38a413
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1890ab7cfa230908b57d704bdd0fea95945f6167
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/13/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="high-productivity-with-an-all-refreshed-desktop-experience"></a><span data-ttu-id="e8214-103">Productivité élevée avec une expérience de bureau entièrement actualisée</span><span class="sxs-lookup"><span data-stu-id="e8214-103">High productivity with an all-refreshed desktop experience</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 <span data-ttu-id="e8214-104">Dans la version d'octobre 2018, Microsoft Dynamics 365 Business Central bénéficie d'une expérience de bureau actualisée.</span><span class="sxs-lookup"><span data-stu-id="e8214-104">In the October '18 release, Microsoft Dynamics 365 Business Central receives a refreshed desktop experience.</span></span> <span data-ttu-id="e8214-105">Business Central permet d'accélérer la productivité grâce à de nouvelles fonctionnalités puissantes d'utilisation des listes et de recherche des pages et d'états.</span><span class="sxs-lookup"><span data-stu-id="e8214-105">Business Central accelerates productivity through powerful new features for working with lists and searching for pages and reports.</span></span>
 

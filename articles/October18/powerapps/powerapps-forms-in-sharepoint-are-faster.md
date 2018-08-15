@@ -11,16 +11,18 @@ ms.technology:
 ms.author: yifwang
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b62ce8fbfa33c9c00dcdb5851641ffd0398eddd2
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bdcd6aa1da12a7597954b321efb122b527fc77b0
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="powerapps-forms-in-sharepoint-are-faster"></a><span data-ttu-id="421b3-103">Les formulaires PowerApps dans SharePoint sont plus rapides</span><span class="sxs-lookup"><span data-stu-id="421b3-103">PowerApps forms in SharePoint are faster</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="421b3-104">Une série d'améliorations des performances sont disponibles dans SharePoint lors de l'utilisation des formulaires PowerApps intégrés, notamment :</span><span class="sxs-lookup"><span data-stu-id="421b3-104">A number of performance improvements are available in SharePoint when using embedded PowerApps forms, including:</span></span>
 

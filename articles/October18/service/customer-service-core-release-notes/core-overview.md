@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c876db3795f892f1b8e030673c86f54850813b9e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 05ed7a345c373799cd73fff3843f763a1fd3bdf9
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a><span data-ttu-id="042cc-103">Présentation de la version d'octobre 2018 de Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="042cc-103">Overview of Dynamics 365 for Customer Service October '18 release</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 
 <span data-ttu-id="042cc-104">Dynamics 365 for Customer Service continue de fournir des fonctionnalités grâce auxquelles les organisations peuvent offrir un service clientèle de qualité à leurs utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="042cc-104">Dynamics 365 for Customer Service continues to deliver capabilities that empower organizations to deliver efficient and effective customer service to their users.</span></span> <span data-ttu-id="042cc-105">Dans la dernière version, nous avons cherché à développer la productivité utilisateur via de nouvelles expériences, en intégrant de l'intelligence exploitable dans les opérations du service client et en améliorant l'efficacité opérationnelle.</span><span class="sxs-lookup"><span data-stu-id="042cc-105">With the latest release, we have focused on enabling user productivity through new experiences, bringing actionable intelligence within customer service operations, and enhancing operational efficiency.</span></span>

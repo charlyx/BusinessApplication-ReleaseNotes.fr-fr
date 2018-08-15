@@ -11,16 +11,18 @@ ms.technology:
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f1fc9283f5dada51a46c3dccb2f16df75738fed5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a7e22e4b83d182a9d898bedf20a049e33b334a7c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a><span data-ttu-id="6755d-103">Présentation de la version d'octobre 2018 de Dynamics 365 for Retail</span><span class="sxs-lookup"><span data-stu-id="6755d-103">Overview of Dynamics 365 for Retail October '18 release</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="6755d-104">La version d'octobre 2018 de Dynamics 365 for Retail comprend ce qui suit :</span><span class="sxs-lookup"><span data-stu-id="6755d-104">The October '18 release of Dynamics 365 for Retail includes the following themes:</span></span> 

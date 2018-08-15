@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 09b3fd65343166b2f423e967bca9c87968839820
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f0911dfcc12bed24d0365655c56efb105b8171d6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="apis-to-manage-and-embed-power-bi-apps"></a><span data-ttu-id="de147-103">API pour gérer et intégrer les applications Power BI</span><span class="sxs-lookup"><span data-stu-id="de147-103">APIs to manage and embed Power BI apps</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="de147-104">Nous allons développer une fonctionnalité permettant de gérer et d'intégrer des applications Power BI à l'aide d'API en plus du service Power BI.</span><span class="sxs-lookup"><span data-stu-id="de147-104">We will be expanding the ability to manage and embed Power BI apps through APIs and not just through the Power BI service.</span></span>
 

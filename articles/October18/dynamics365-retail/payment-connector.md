@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9aded557923aa19af95eafe356d81ced9daf6e2e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6e78e6634e5947175568dcb08346777606556d1e
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="payment-connector"></a><span data-ttu-id="85fc3-103">Connecteur de paiement</span><span class="sxs-lookup"><span data-stu-id="85fc3-103">Payment connector</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="85fc3-104">Un nouveau connecteur de paiement « prêt à l'emploi » omnicanal pour les services de paiement d'Adyen est disponible, offrant le traitement du paiement « carte présente » de crédit/débit (EMV) pour Retail Modern POS et Cloud POS (via la station matérielle), et de traitement du paiement « carte non présente » pour le commerce électronique/centre d'appels.</span><span class="sxs-lookup"><span data-stu-id="85fc3-104">A new omni-channel “out of the box” payment connector to Adyen payment services is available, providing credit/debit (EMV) “card present” payment processing for Retail Modern POS and Cloud POS (through hardware station), and “card not present” payment processing for e-commerce/call center.</span></span> <span data-ttu-id="85fc3-105">Le jeton omnicanal partagé active des flux transparents tels que l'achat en ligne et le retrait ou le retour en magasin.</span><span class="sxs-lookup"><span data-stu-id="85fc3-105">The shared omni-channel token enables seamless flows such as buy online and pick up or return in store.</span></span>
 

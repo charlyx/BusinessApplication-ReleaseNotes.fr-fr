@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d2aca752e4381437a0f7f984e963cfc188f1e9d3
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ec0b4b4fbef8ec0a6ca8c3d59c5ded858615d6c3
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #   <a name="support-for-multiple-time-units-on-a-single-price-list"></a><span data-ttu-id="839ce-103">Prise en charge de plusieurs unités de temps sur un tarif unique</span><span class="sxs-lookup"><span data-stu-id="839ce-103">Support for multiple time units on a single price list</span></span>
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="839ce-104">Project Service prend en charge la tarification de la durée d'une ressource.</span><span class="sxs-lookup"><span data-stu-id="839ce-104">Project Service supports pricing resource time.</span></span> <span data-ttu-id="839ce-105">Les utilisateurs peuvent choisir de configurer des prix à l'heure, à la journée ou toute autre unité de temps.</span><span class="sxs-lookup"><span data-stu-id="839ce-105">Users may choose to set up prices in hours, days, or any other unit of time.</span></span> <span data-ttu-id="839ce-106">Toutefois, l'unité du temps est décidée dans l'en-tête des tarifs et ne peuvent pas être modifiée sur les lignes de paramétrage de prix individuelles de la durée de la ressource.</span><span class="sxs-lookup"><span data-stu-id="839ce-106">One current limitation is that the unit of time is decided on the header of the price list, and can't be changed on individual price setup lines for resource time.</span></span> 
 

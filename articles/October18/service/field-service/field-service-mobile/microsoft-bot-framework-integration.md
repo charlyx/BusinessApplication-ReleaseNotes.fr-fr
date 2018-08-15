@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b0c77f2513805b6a8a88a59d3d0e2f472cfdd5cf
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ba4386dd37a8be6e1159d1f8ae3f37393f829175
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="microsoft-bot-framework-integration"></a><span data-ttu-id="e9d97-103">Intégration de Microsoft Bot Framework</span><span class="sxs-lookup"><span data-stu-id="e9d97-103">Microsoft Bot Framework integration</span></span>
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="e9d97-104">La plupart du travail de service après-vente implique un ensemble d'étapes identiques répétées pour n'importe quelle tâche donnée : mettre à jour le statut d'un ordre de travail sur en déplacement, ouvrir les instructions d'un ordre de travail, afficher les tâches de service d'un ordre de travail, etc.</span><span class="sxs-lookup"><span data-stu-id="e9d97-104">Most field service work involves a set of the same steps that are repeated on any given job: update the status of a work order to traveling, open the directions for a work order, view the service tasks for a work order, and so on.</span></span> <span data-ttu-id="e9d97-105">Ces tâches peuvent être rationnalisées grâce à des expériences de conversations et en mains libres, par opposition à des techniciens devant cliquer sur une application mobile.</span><span class="sxs-lookup"><span data-stu-id="e9d97-105">These tasks can be streamlined through conversational and even hands-free experiences as opposed to requiring technicians to click through a mobile application.</span></span> 
 

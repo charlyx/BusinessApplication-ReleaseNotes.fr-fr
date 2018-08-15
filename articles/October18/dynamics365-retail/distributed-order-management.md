@@ -12,18 +12,20 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b791b78c03befa1bdfbb8d6aa390eefc9c07f8bf
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 93232bdaa449486fb1acb94d0f251ebb26d1e107
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="distributed-order-management"></a><span data-ttu-id="55f30-103">Gestion répartie des commandes</span><span class="sxs-lookup"><span data-stu-id="55f30-103">Distributed order management</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="55f30-104">Les détaillants peuvent désormais tirer parti des algorithmes de Gestion répartie des commandes intelligents pour optimiser le traitement des commandes dans toute l'entreprise.</span><span class="sxs-lookup"><span data-stu-id="55f30-104">Retailers can now take advantage of intelligent Distributed Order Management (DOM) algorithms to optimize their order fulfillment operations across their enterprise.</span></span> <span data-ttu-id="55f30-105">La Gestion répartie des commandes détermine automatiquement le meilleur emplacement de traitement possible entre les entrepôts, les centres de distribution, voire les magasins selon des profils définis par l'utilisateur contenant les règles, l'étendue, et les modes de livraison.</span><span class="sxs-lookup"><span data-stu-id="55f30-105">DOM automatically determines the best possible fulfillment location across warehouses, distribution centers, or even stores based on user-definable profiles containing the rules, scope, and delivery methods.</span></span>
 

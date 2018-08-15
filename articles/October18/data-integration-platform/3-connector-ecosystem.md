@@ -12,16 +12,18 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3b01ce72e354533570465a5953bf12d1412327f5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1a28b60ca0960084042d198483f7b2789415593d
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a><span data-ttu-id="44226-103">Écosystème de développeurs et de connecteurs plus riche et plus unifié</span><span class="sxs-lookup"><span data-stu-id="44226-103">Richer and more unified connector and developer ecosystem</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="44226-104">L'un des aspects essentiels de l'intégration de données et de la suite des produits qu'elle prend en charge est la connectivité aux sources de données externes.</span><span class="sxs-lookup"><span data-stu-id="44226-104">A critical part of Data Integration and the suite of products it supports is connectivity to external data sources.</span></span> <span data-ttu-id="44226-105">Bien que nous continuions à investir dans un ensemble de sources de données de qualité professionnelle, de nombreux utilisateurs dépendent d'un nombre croissant de bases de données et de services autres que ce groupe.</span><span class="sxs-lookup"><span data-stu-id="44226-105">While we continue to invest in a set of enterprise grade data sources, there are a growing number of databases and services many users come to depend on outside of that set.</span></span> <span data-ttu-id="44226-106">Pour nous assurer que nos utilisateurs puissent se connecter aux données dont ils ont besoin, nous continuons à investir dans nos points d'extensibilité dans l'ensemble de la plateforme.</span><span class="sxs-lookup"><span data-stu-id="44226-106">To ensure our users can connect to the data they need, we continue to invest in our extensibility points throughout the platform.</span></span>
 

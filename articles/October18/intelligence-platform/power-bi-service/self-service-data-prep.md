@@ -12,17 +12,19 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: 7dddae26f90783886a369754bbb7c3b5daa4c16c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 7059f8ac945a88d7294ad9d331d1f10ed69a3f0d
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="self-service-data-prep-for-big-data"></a><span data-ttu-id="f77c8-102">Préparation de données en libre-service pour le big data</span><span class="sxs-lookup"><span data-stu-id="f77c8-102">Self-service data prep for big data</span></span>  
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 -   <span data-ttu-id="f77c8-103">**Préparation de données en libre-service pour le big data** : Nous développons la préparation des données en libre-service dans Power BI avec de nouvelles fonctionnalités pour permettre aux analystes d'entreprise d'extraire des informations du big data.</span><span class="sxs-lookup"><span data-stu-id="f77c8-103">**Self-service data prep for big data** – We’re expanding self-service data prep in Power BI with new capabilities to help business analysts extract insights from big data.</span></span> <span data-ttu-id="f77c8-104">À l'aide du Power Query déjà familier à des millions d'utilisateurs de Power BI Desktop et d'Excel, les analystes d'entreprise peuvent ingérer, transformer, intégrer et enrichir le big data avec Power BI, notamment avec des données provenant d'un ensemble de plus en plus important de sources de données, à la fois sur le cloud et en local, comme Dynamics 365, Salesforce, Azure SQL Data Warehouse, Excel et SharePoint.</span><span class="sxs-lookup"><span data-stu-id="f77c8-104">Using the Power Query experience already familiar to millions of Power BI Desktop and Excel users, business analysts can ingest, transform, integrate, and enrich big data with Power BI – including data from a large and growing set of supported on-premises and cloud-based data sources, such as Dynamics 365, Salesforce, Azure SQL Data Warehouse, Excel, and SharePoint.</span></span> <span data-ttu-id="f77c8-105">Les utilisateurs peuvent directement mapper des données aux entités connues, modifier et étendre les entités existantes, ou créer des entités personnalisées, tout cela dans Power BI.</span><span class="sxs-lookup"><span data-stu-id="f77c8-105">Users can directly map data to known entities, modify and extend existing entities, or create custom entities all within Power BI.</span></span>
 

@@ -11,16 +11,18 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dba80ee4f36d3abc761cf46f5ed957c60aa5660c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 14a8565b65d1f3ede761fd6407770434d0ec7693
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="customizable-welcome-emails"></a><span data-ttu-id="a5c7c-103">Courriers électroniques de bienvenue personnalisables</span><span class="sxs-lookup"><span data-stu-id="a5c7c-103">Customizable welcome emails</span></span>
 
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="a5c7c-104">Les responsables peuvent personnaliser les courriers électroniques envoyés aux nouveaux employés au moment de l'intégration.</span><span class="sxs-lookup"><span data-stu-id="a5c7c-104">Managers can personalize the welcome email sent to their new hires when it’s time to onboard.</span></span> <span data-ttu-id="a5c7c-105">Cela donne une touche personnelle et améliore le taux de réponse aux courriers électroniques.</span><span class="sxs-lookup"><span data-stu-id="a5c7c-105">This creates a personal touch and improves email response rate.</span></span>
 

@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1365c33a8b9cb8cf96bfbd9a42b14c01504b08e9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f9ce1b3646bede01362e2e9d1c3a93e8be405cec
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a><span data-ttu-id="6f675-103">Transformer la collaboration au sein de l'équipe de vente via une intégration étroite avec Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="6f675-103">Transform sales team collaboration through tight integration with Microsoft Teams</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="6f675-104">Il y a aujourd'hui deux fois plus de monde dans les équipes de vente qu'il y a cinq ans.</span><span class="sxs-lookup"><span data-stu-id="6f675-104">Today’s salespeople are on twice as many teams compared to five years ago.</span></span> <span data-ttu-id="6f675-105">Il faut en moyenne six décisionnaires et seize collaborateurs pour conclure une affaire.</span><span class="sxs-lookup"><span data-stu-id="6f675-105">They work with an average of six decision makers and 16 colleagues to close a deal.</span></span> <span data-ttu-id="6f675-106">L'environnement commercial moderne nécessite de collaborer plus rapidement, avec plus de monde et plus de données.</span><span class="sxs-lookup"><span data-stu-id="6f675-106">The modern sales environment requires faster collaboration with more people and more data.</span></span> <span data-ttu-id="6f675-107">L'intégration de Microsoft Teams avec Dynamics 365 permet d'obtenir les fonctionnalités dont ont besoin les commerciaux pour mieux collaborer</span><span class="sxs-lookup"><span data-stu-id="6f675-107">The Microsoft Teams integration with Dynamics 365 brings together the capabilities that salespeople need to collaborate more effectively</span></span>
  
