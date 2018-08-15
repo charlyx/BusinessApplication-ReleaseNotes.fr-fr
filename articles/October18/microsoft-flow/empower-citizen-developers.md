@@ -3,7 +3,8 @@ title: "Responsabiliser les développeurs citoyens"
 description: "Les développeurs citoyens ont désormais accès aux fonctionnalités clés nécessaires pour utiliser Microsoft Flow afin de créer des solutions plus fiables et prêtes à l'emploi."
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: aa40ae4f-cf73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0826d531362fc07d62a59160ace82b7d888b3e16
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: 8b485bb77e269fc2ac1c49898eb464b3cfc0f74e
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="empower-citizen-developers"></a><span data-ttu-id="70d08-103">Responsabiliser les développeurs citoyens</span><span class="sxs-lookup"><span data-stu-id="70d08-103">Empower citizen developers</span></span>

@@ -3,7 +3,8 @@ title: "Création de la plateforme"
 description: "Plateforme de niveau professionnel répondant aux exigences de cycle de vie et de conformité des créateurs et des administrateurs."
 author: stepsic-microsoft-com
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 48ab17c8-3973-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9e2663de6290f2c7f0ff89bb217036efdef836ad
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: 41f1266020cba87465a95298cb3e05e77cdad78c
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="building-the-platform"></a><span data-ttu-id="7f5d6-103">Création de la plateforme</span><span class="sxs-lookup"><span data-stu-id="7f5d6-103">Building the platform</span></span>

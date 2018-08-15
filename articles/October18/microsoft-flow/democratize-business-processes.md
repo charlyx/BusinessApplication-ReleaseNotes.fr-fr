@@ -3,7 +3,8 @@ title: "Démocratiser les processus d'entreprise"
 description: "Démocratisez les processus d'entreprise afin que tous les utilisateurs puissent créer et exécuter les processus importants pour leur activité."
 author: KaranSr
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: f19c6917-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: karansr
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 91cc22318cd3d7fa3342987730650f4ca7c10ca9
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: fc948b23d7ae065d0b2f59071295ba559e247b91
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="democratize-business-processes"></a><span data-ttu-id="1e807-103">Démocratiser les processus d'entreprise</span><span class="sxs-lookup"><span data-stu-id="1e807-103">Democratize business processes</span></span>
