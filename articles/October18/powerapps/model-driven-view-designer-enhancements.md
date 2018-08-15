@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-view-designer-enhancements"></a>Améliorations du concepteur de vues basé sur des modèles
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Un concepteur de vues amélioré dans PowerApps permettra aux personnalisateurs d'application d'afficher un aperçu en direct lorsqu'ils appliqueront un filtrage avancé et une logique de tri. De plus, nous ajoutons actuellement un tri simplifié et un tri au moyen des en-têtes de colonne comme dans SharePoint et Excel pour que vous obteniez la vue de votre choix plus rapidement.
 

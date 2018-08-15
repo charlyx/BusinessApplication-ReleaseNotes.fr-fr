@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-flow-launch-panel"></a>Volet de lancement de flux OneDrive Entreprise
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Comme avec le [volet de lancement de flux de SharePoint](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/), les utilisateurs pourront exécuter des flux sur des fichiers sélectionnés dans OneDrive Entreprise. Cela permettra au demandeur d'utiliser ses propres informations d'identification, notamment pour les flux ayant peut-être été créés par le service informatique, et de recevoir des invites pour des entrées d'exécution comme Approbateur ou Message, qui peuvent être de type Texte, Fichier, Courrier électronique, Booléen ou Nombre. 
 

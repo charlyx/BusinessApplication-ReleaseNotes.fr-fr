@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="global-number-sequences"></a>Souche de numéros globale
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Les souches de numéros globales pour les clients et les groupes de clients permettent aux utilisateurs professionnels de copier ces données d'une entité juridique à une autre. Lorsque la fonction de copie est terminée, les mêmes numéro de client et informations client sont partagées entre les deux entités juridiques. Cela améliore la convivialité des scénarios intersociétés. Cette fonctionnalité est également disponible pour les fournisseurs et les groupes de fournisseurs.

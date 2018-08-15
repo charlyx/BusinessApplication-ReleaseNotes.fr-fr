@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="increase-sales-conversions-with-predictive-lead-scoring"></a>Augmentez les conversions de ventes avec la notation prédictive du prospect
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 La notation prédictive du prospect de Dynamics 365 est un mécanisme de notation prédictive basée sur des modèles de Machine Learning qui attribue des points aux prospects sur une échelle de 1 à 100 en fonction de leur probabilité de devenir une opportunité. 

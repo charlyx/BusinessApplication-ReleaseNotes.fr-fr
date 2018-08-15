@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a>Amélioration de la création avec PowerApps pour les créateurs, quelles que soient leurs aptitudes
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les expériences de création en ligne sur PowerApps.com sont conformes aux normes d'accessibilité de Microsoft, afin que davantage d'utilisateurs puissent créer des applications et ce, plus efficacement.
 

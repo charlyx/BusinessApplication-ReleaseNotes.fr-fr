@@ -20,10 +20,12 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="distributed-order-management"></a>Gestion répartie des commandes
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les détaillants peuvent désormais tirer parti des algorithmes de Gestion répartie des commandes intelligents pour optimiser le traitement des commandes dans toute l'entreprise. La Gestion répartie des commandes détermine automatiquement le meilleur emplacement de traitement possible entre les entrepôts, les centres de distribution, voire les magasins selon des profils définis par l'utilisateur contenant les règles, l'étendue, et les modes de livraison.
 

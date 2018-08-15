@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-query-integration"></a>Intégration de Power Query
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Power Query est un outil d'ingestion de données permettant aux utilisateurs avancés de transformer, filtrer, manipuler et importer des données dans des magasins de données populaires comme Power BI et CDS. Nous ajoutons la même capacité à Microsoft Flow afin de permettre aux créateurs de former des mashups de données à partir de SQL Server grâce à une expérience Power Query Online.
 

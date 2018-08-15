@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="computed-entities-public-preview"></a>Entités calculées (Version préliminaire publique)  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les entités de flux de données sont enregistrées dans des dossiers compatibles Common Data Model (dossiers CDM), dans Azure Data Lake Storage Gen2. Une fois les entités chargées dans les dossiers CDM, vous pouvez générer de nouvelles informations en transformant, en modifiant, et en enrichissant des entités, et en regroupant des données à grande échelle. Ces entités nouvellement créées sont également stockées dans des dossiers CDM. L'analyse statique des expressions Power Query M permet d'identifier automatiquement les dépendances entre les entités. Ainsi, elles sont toujours mises à jour dans l'ordre optimal, sans intervention manuelle. 
 

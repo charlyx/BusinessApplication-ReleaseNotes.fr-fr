@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="what-if-analysis-statistics"></a>Statistiques d'analyse de scénarios
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Les administrateurs RSO peuvent utiliser les simulations pour ajuster l'étendue d'optimisation (inclure/exclure des ressources supplémentaires), les objectifs (réorganiser les classements des objectifs) et d'autres paramètres afin de comprendre les résultats d'optimisation obtenus avant de verrouiller la planification périodique. En outre, grâce aux statistiques d'analyse, les administrateurs sont davantage en mesure d'évaluer l'optimisation, et de comparer les simulations aux réservations existantes.
 

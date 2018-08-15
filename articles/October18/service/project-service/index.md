@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../includes/banner.md)]
+
 
 #  <a name="overview-of-dynamics-365-for-project-service-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Project Service
+
+[!include[project-service banner](../../includes/project-service.md)]
 
 La version d'octobre 2018 de Project Service cherche à apporter des améliorations aux clients, et offre une plus grande convivialité et des fonctionnalités plus tactiques et pratiques. Voici quelques-unes de ces améliorations :
 

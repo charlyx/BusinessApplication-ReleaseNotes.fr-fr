@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-experience-for-building-model-driven-apps"></a>Expérience améliorée de génération d'applications basées sur des modèles
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les créateurs d'application peuvent plus facilement composer et tester des applications basées sur des modèles dans le concepteur. La navigation et la configuration ont été simplifiées pour prendre en charge le web et Unified Interface. L'édition des composants d'application est plus facile grâce à un accès plus rapide aux liens profonds. Après avoir enregistré et publié des modifications, les créateurs peuvent exécuter l'application directement depuis le concepteur afin de les tester rapidement.
 

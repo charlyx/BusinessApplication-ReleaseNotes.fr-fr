@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Partage, unification et enrichissement plus faciles des données avec les entités Common Data Model
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La définition **Common Data Model** en open-source des entités standard a été améliorée pour l'**intégration des processus d'entreprise, des applications, et l'enrichissement de profils** dans les fonctions métier de ventes, services, marketing, opérations, finances, recherche et gestion des talents, et de commerce, ainsi que des profils d'entités de base pour les clients afin de prendre en charge l'enrichissement des données et l'analyse d'observation.
 

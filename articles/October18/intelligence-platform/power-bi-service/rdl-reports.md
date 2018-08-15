@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a>Rapports paginés dans Power BI (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Publiez des rapports états SSRS (SQL Server Reporting Services) (au format \*.rdl) sur un espace de travail Power BI Premium et affichez les états dans l'application web Power BI. Les états peuvent être partagés ou publiés dans le cadre des applications Power BI.
 

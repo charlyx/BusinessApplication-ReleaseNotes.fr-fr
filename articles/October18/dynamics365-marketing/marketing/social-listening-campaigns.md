@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="social-listening-for-your-campaigns"></a>Outils de veille pour vos campagnes
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Le marketing moderne repose sur des signaux des réseaux sociaux permettant de fidéliser les clients. Les outils de veille de Dynamics 365 for Marketing permettent aux responsables d'ajouter des indicateurs sociaux appropriés aux parcours des clients, aux événements et à d'autres entités, afin de pouvoir suivre en direct sur les médias sociaux la réponse à leurs initiatives de marketing parallèlement à d'autres informations marketing.
 

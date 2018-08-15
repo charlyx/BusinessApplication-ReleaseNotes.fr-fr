@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="faster-loading-model-driven-apps"></a>Chargement plus rapide des applications basées sur des modèles
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les pages des applications basées sur des modèles se chargent beaucoup plus rapidement car les zones visibles sont affichées en premier et sont optimisées pour différents navigateurs. Les utilisateurs vont également constater de meilleures performances sur les navigateurs Internet Explorer 11 et Edge avec Unified Interface.
 

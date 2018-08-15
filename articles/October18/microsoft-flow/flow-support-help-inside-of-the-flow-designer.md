@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a>Expérience d'aide et de support intégrée au concepteur de flux
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Il sera beaucoup plus facile pour un utilisateur de rechercher de l'aide et du support dans un produit (sur un site web et mobile) plutôt que d'être redirigé vers support.microsoft.com. L'utilisateur pourra affiner sa recherche du problème grâce à un ensemble logique de questions et en fournissant des précisions sur leur demande, des questions sur les procédures jusqu'à une défaillance d'exécution de flux pour un flux dont il est le créateur. 
 

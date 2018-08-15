@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="personalization"></a>Personnalisation
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Après avoir installé une application Power BI, les utilisateurs auront la possibilité de personnaliser celle-ci en fonction de leurs besoins. Par exemple, un utilisateur gérant des ventes en Europe peut personnaliser l'application pour traiter et afficher des données pour l'Europe, tandis qu'un autre utilisateur axé sur l'Amérique du Nord peut la personnaliser en fonction de cette région spécifique.
 

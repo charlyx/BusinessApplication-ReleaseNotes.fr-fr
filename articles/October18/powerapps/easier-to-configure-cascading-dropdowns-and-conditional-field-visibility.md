@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-configure-cascading-dropdowns-and-conditional-field-visibility"></a>Simplification de la configuration des menus déroulants en cascade et de la visibilité du champ conditionnel
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Grâce aux améliorations apportées aux fonctions de tri et de filtrage, les personnalisateurs de formulaire SharePoint parviennent à mieux remplir les formulaires sophistiqués, comme les menus déroulants en cascade ou l'affichage ou le masquage de champs basés sur des conditions. Les créateurs peuvent utiliser une interface pour effectuer ces scénarios ou continuer à entrer des formules.
 

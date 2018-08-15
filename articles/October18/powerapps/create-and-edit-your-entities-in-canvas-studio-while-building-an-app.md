@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-and-edit-entities-in-powerapps-studio-while-you-build-an-app"></a>Créer et modifier des entités dans PowerApps Studio lors de la génération d'une application
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Lorsque vous créez ou modifiez une application, vous pouvez créer et modifier des entités et des groupes d'options dans PowerApps Studio au lieu d'avoir à ouvrir un autre site.
 

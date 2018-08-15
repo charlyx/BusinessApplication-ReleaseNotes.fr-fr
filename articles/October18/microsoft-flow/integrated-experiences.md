@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="integrated-experiences"></a>Expériences intégrées
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Flow est profondément intégré à d'autres applications Microsoft, ce qui permet la transformation des processus d'entreprise là où ils s'exécutent déjà aujourd'hui.
 

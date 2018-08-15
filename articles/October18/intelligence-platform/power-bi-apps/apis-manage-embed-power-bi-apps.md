@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="apis-to-manage-and-embed-power-bi-apps"></a>API pour gérer et intégrer les applications Power BI
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Nous allons développer une fonctionnalité permettant de gérer et d'intégrer des applications Power BI à l'aide d'API en plus du service Power BI.
 

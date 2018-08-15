@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a>Les thèmes par défaut améliorés permettent aux applications de sembler faire partie de SharePoint
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les créateurs d'applications peuvent appliquer l'un des huit thèmes Office à leurs applications de canevas et formulaires. Ces nouveaux thèmes améliorent les scénarios d'intégration à SharePoint en s'alignant sur les thèmes SharePoint par défaut.
 

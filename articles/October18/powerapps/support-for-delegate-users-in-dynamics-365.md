@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="support-for-delegate-users-in-dynamics-365"></a>Prise en charge des utilisateurs délégués dans Dynamics 365
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs de l'application pour Outlook peuvent fournir aux membres de leur équipe un accès à leur boîte aux lettres et faire effectuer à l'utilisateur délégué des actions telles que Suivre et définir Concernant. Les utilisateurs délégués peuvent utiliser l'application pour Outlook dans le contexte du courrier électronique et des éléments du calendrier du détenteur de la boîte aux lettres.
 

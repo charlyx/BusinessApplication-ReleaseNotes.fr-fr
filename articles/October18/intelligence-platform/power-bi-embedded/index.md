@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-embedded"></a>Power BI Embedded
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI Embedded permet aux développeurs d'applications SaaS (Software as a service) d'ajouter facilement des analyses Power BI dans les applications qu'ils développent.
 

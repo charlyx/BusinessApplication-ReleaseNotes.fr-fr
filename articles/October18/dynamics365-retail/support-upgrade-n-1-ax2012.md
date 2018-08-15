@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-upgrade-and-n-1-ax-2012"></a>Prise en charge de la mise à niveau et N-1 (AX 2012)
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les détaillants de Dynamics AX 2012 existants peuvent désormais mettre à niveau leurs composants de siège back-office avec la version la plus récente de Dynamics 365 for Retail, tout permettant à leurs systèmes de stockage distribués de conserver la version AX 2012 R3 (N-1).
 Cela permet d'effectuer des déploiement échelonnés, de mettre à niveau les systèmes de stockage au fil du temps, pendant des interruptions planifiées optimales. En outre, les détaillants déployant de nouveaux systèmes e back-office Dynamics 365 (non mis à niveau) peuvent désormais bénéficier des fonctionnalités N-1.

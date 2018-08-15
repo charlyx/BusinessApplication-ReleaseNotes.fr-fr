@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="paginated-reports-public-preview"></a>Rapports paginés (version préliminaire publique)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Les rapports paginés vont devenir des artefacts de première classe dans Power BI. Les utilisateurs seront en mesure de créer des rapports paginés et de les publier dans le service Power BI. Les utilisateurs mobiles pourront afficher les rapports paginés publiés dans Power BI dans leur application.
  

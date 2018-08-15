@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="resource-pools"></a>Regroupements de ressources
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Associez des ressources aux regroupements de ressources pour permettre aux planificateurs de réserver des besoins dans un regroupement générique sans avoir à décider quelle ressource réalisera réellement le travail.
 

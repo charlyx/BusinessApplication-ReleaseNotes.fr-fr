@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-reliability-of-offline-experience-for-canvas-apps"></a>Fiabilité améliorée de l'expérience en mode hors connexion pour les applications de canevas
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les applications de canevas sur les appareils utilisant la fonctionnalité SaveData/LoadData sont plus fiables dans des scénarios en mode hors connexion. Les créateurs d'application peuvent stocker jusqu'à 20 Mo de données ou 20 images en mode hors connexion en un seul appel, ce qui leur permet de créer des applications de service après-vente plus robustes.
 

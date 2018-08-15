@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="visual-configuration-for-power-bi-embedded"></a>Configuration visuelle pour Power BI Embedded
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Le visuel est une partie intégrante de l'application. À ce titre, nous activons actuellement l'application pour contrôler quelles fonctionnalités et expériences visuelles seront accessibles l'utilisateur final. Le comportement par défaut consiste à exposer les fonctionnalités toutes Power BI :
 

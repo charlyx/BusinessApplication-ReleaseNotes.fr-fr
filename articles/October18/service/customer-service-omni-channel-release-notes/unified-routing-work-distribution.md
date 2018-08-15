@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="unified-routing-and-work-distribution"></a>Répartition du travail et routage unifié 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 Les organisations peuvent tirer parti des fonctionnalités de routage unifié et de répartition du travail pour acheminer les éléments de travail provenant des canaux de conversation instantanée, de messagerie et de portail web vers différentes équipes de support du service clientèle au sein de l'organisation. Grâce aux interfaces de configuration, les organisations peuvent définir précisément le profil de travail que leurs agents doivent gérer. Pendant l'exécution, le système automatise le flux de travail vers différents agents en fonction de leurs capacités et de leur disponibilité.
 

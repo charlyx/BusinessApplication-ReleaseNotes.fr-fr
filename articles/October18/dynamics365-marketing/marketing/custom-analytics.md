@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-analytics"></a>Analyses personnalisées
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Dynamics 365 for Marketing collecte une grande variété d'informations détaillées sur la façon dont les contacts interagissent avec vos initiatives marketing. Utilisez les analyses personnalisées pour organiser et présenter ces données dans l'application Marketing.
 

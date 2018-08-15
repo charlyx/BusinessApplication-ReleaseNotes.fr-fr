@@ -27,7 +27,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="overview-of-microsoft-layout-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft Layout
 
-[!include[banner](../../includes/banner.md)]
+
 
 Microsoft Layout vous permet de concevoir des espaces depuis leur concept jusqu'à leur exécution complète en toute confiance et rapidement. Utilisez un casque immersif HoloLens ou Windows Mixed Reality pour créer facilement des conceptions de pièces dans un espace réel. Importez des modèles en 3D et vivez l'expérience de conceptions sous forme d'hologrammes de qualité supérieure. Contrôlez et modifiez avec les parties prenantes en temps réel.  
 

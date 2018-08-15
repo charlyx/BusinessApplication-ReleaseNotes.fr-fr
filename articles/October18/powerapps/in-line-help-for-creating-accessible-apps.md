@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="inline-help-for-creating-accessible-apps"></a>Aide en ligne pour créer des applications accessibles
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Le vérificateur d'accessibilité guide les créateurs à générer des applications accessibles en leur fournissant une liste de problèmes détectés relatifs aux fonctionnalités de lecteur d'écran et aux éléments de navigation du clavier. Pour chaque problème, vous pouvez accéder à la propriété affectée, obtenir des informations pour le résoudre et rechercher des liens vers des ressources supplémentaires. Chaque créateur d'application peut consulter la documentation offrant des recommandations, afin d'obtenir des informations supplémentaires sur la façon de vérifier les problèmes de contraste de couleur et d'utiliser le vérificateur d'accessibilité.
 

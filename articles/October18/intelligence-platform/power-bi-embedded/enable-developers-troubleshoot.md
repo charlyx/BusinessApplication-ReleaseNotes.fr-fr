@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="error-event-logging"></a>Enregistrement des erreurs
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Dans la version d'octobre 2018, les développeurs de Power BI Embedded peuvent désormais résoudre les problèmes en enregistrant les erreurs détaillées dans la console à la demande, ou dans les données de télémétrie. Cette expérience améliorée comprend de meilleurs messages d'erreur, indiquant la cause principale du problème, et une meilleure documentation expliquant les codes d'erreur et s'il faut émettre un ticket de support.
 

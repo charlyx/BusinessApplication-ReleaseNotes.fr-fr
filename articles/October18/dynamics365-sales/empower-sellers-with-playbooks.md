@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a>Fournir aux vendeurs des Playbooks guidés par des activités commerciales liées à des événements
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 for Sales dispose désormais de **Playbooks**. Il s'agit d'une nouvelle fonctionnalité capable d'aider les organisations à automatiser des activités commerciales renouvelables et de réagir à des événements externes.

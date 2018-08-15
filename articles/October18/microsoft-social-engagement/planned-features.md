@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="summary-of-whats-new-in-microsoft-social-engagement"></a>Résumé des nouveautés dans Microsoft Social Engagement
 
-[!include[banner](../../includes/banner.md)]
+
 
 | Fonctionnalité                                                                                     | Type de version | Mois de la version cible |
 |---------------------------------------------------------------------------------------------|--------------|----------------------|

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="end-users-can-create-personal-dashboards-and-share-them-with-other-users-and-teams"></a>Les utilisateurs finaux peuvent créer des tableaux de bord personnels et les partager avec d'autres utilisateurs et d'autres équipes
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Créez des tableaux de bord personnels pour suivre l'avancement et l'état à l'aide des widgets qui affichent les informations en temps réel. Vous pouvez les créer en fonction de vos besoins, et non selon votre administrateur système. Vous pouvez partager ces tableaux de bord avec d'autres utilisateurs et d'autres équipes de votre organisation. Ces graphiques sont extrêmement personnalisables : vous pouvez ajouter les widgets de votre choix, et vous pouvez même intégrer des tableaux de bord et des vignettes Power BI.
 

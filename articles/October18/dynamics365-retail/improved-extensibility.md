@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="improved-extensibility"></a>Extensibilité améliorée 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Des extensions d'interface utilisateur et d'API supplémentaires ont été ajoutées à Retail Siège, POS (Retail Modern POS et Cloud POS), ainsi qu'à Commerce Runtime (CRT), ce qui permet aux environnements avec des personnalisations d'être entretenus et mis à jour facilement sans affecter l'application de base.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="democratize-business-processes"></a>Démocratiser les processus d'entreprise
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La modernisation des processus d'entreprise est l'une des principales missions de la plateforme d'applications de gestion de Microsoft, et Microsoft Flow représente l'offre qui met les processus d'entreprise à la portée de tous au sein d'une organisation.
 

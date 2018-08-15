@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="entitlement-management"></a>Gestion des droits
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Field Service a étendu la fonctionnalité de gestion des droits actuelle activée dans l'application Customer Service en fonction de ses scénarios. Cela permet de spécifier les niveaux de support auquel un client a le droit dans le cadre du service après-vente. Parmi les exemple de droits on trouve les comptes, les contacts, les produits, les ordres de travail et les mesures de performances de l'ordre de travail.
 

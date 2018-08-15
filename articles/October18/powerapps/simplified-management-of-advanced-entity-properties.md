@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-management-of-advanced-entity-properties"></a>Gestion simplifiée des propriétés d'entité avancées
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les propriétés avancées relatives aux entités et aux champs actuellement disponibles uniquement dans l'explorateur de solutions seront disponibles dans le portail PowerApps pour une expérience de création d'entité et de champ simplifiée et cohérente pour les créateurs d'applications.
 

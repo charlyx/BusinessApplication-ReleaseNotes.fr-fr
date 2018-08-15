@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="general-usability-accessibility-and-styling-improvements-in-system-charts"></a>Améliorations générales de la facilité d'utilisation, de l'accessibilité et de la mise en forme dans les graphiques système
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les graphiques bénéficient d'interactions et de fonctionnalités plus cohérentes entre les formulaires, les tableaux de bord et les grilles. Visualisez vos données sous la forme de deux nouveaux types de graphiques : les graphiques en anneaux et les graphiques avec indicateurs. Les personnalisateurs peuvent également tirer parti des améliorations générales de l'accessibilité et de la mise en forme.
 

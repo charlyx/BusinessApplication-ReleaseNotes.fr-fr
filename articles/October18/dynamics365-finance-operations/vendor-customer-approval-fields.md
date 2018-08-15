@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="vendor-or-customer-approvals-for-specific-fields"></a>Approbations fournisseur ou client pour des champs spécifiques
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Activez l'approbation des clients et des fournisseurs lors de la modification de champs spécifiques. Cela vous permettra de sélectionner dans une liste les champs pouvant être approuvés. Une fois le champ modifié, vous pourrez envoyer les modifications dans le workflow. Lorsque les modifications seront approuvées, elles seront appliquées à l'enregistrement client ou fournisseur.

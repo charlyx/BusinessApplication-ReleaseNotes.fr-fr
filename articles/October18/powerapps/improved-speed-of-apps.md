@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-speed-of-apps"></a>Amélioration de la vitesse des applications
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les expériences de création avec PowerApps sur le web, ainsi que l'expérience de lecture d'applications, continuent de s'effectuer plus rapidement. Lorsque des applications plus anciennes sont mises à jour et publiées à nouveau pour les utilisateurs finaux, cette étape recrée un package des applications plus anciennes dans la build la plus récente de PowerApps. Les utilisateurs finaux rencontrent des délais de chargement et de performances plus rapides lorsqu'ils utilisent l'application.
 

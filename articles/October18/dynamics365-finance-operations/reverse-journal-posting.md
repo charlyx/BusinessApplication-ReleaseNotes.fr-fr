@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="reverse-journal-posting"></a>Contrepasser la validation de journal
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Les contrepassations sont améliorées afin de permettre de contrepasser plusieurs lignes du journal des opérations diverses ou un journal des opérations diverses entier. La contrepassation du formulaire de transaction de N° document permet de contrepasser un nombre limité d'écritures de journal de comptabilité auxiliaire. Les contrepassations sont également autorisées depuis l'explorateur de comptabilité source.

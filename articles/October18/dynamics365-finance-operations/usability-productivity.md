@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="usability-and-productivity"></a>Facilité d'utilisation et productivité
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 -   Une nouvelle grille tabulaire est disponible dans toute l'application offrant des performances de défilement considérablement améliorées, ce qui est important dans les scénarios où il est nécessaire de parcourir les données. 
 

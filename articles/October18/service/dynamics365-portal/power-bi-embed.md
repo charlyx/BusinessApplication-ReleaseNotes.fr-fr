@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="embed-power-bi-visualizations"></a>Intégrer les visualisations Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 [Power BI](https://powerbi.microsoft.com) est l'un des meilleurs outils pour fournir des aperçus en une visualisation simple et interactive. Avec les fonctionnalités et cas d'utilisation proposés aux utilisateurs, Power BI demeure l'une des idées les plus plébiscitées. Actuellement, il n'existe aucun moyen simple d'intégrer des états Power BI dans un portail, et avec cette fonctionnalité nous allons rationaliser le portail Dynamics 365 et l'intégration de Power BI.

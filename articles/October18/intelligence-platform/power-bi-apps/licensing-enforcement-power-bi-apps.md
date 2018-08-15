@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="licensing-enforcement-for-power-bi-apps"></a>Application des licences pour les applications Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 La possibilité de monétiser les applications Power BI est l'une des principales motivations à développer et à proposer ces applications sur le marché. La gestion des licences, définie par les développeurs de l'application, doit être appliquée par la plateforme pour éviter les abus et la perte de revenus. L'application des licences est basée sur l'enregistrement et la gestion des utilisateurs dans Azure Active Directory en tant qu'utilisateurs de l'application.
 

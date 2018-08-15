@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="multi-geo-for-compliance-public-preview"></a>Conformité de plusieurs zones géographiques (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Actuellement, Power BI stocke les données d'une organisation dans une région géographique unique. Pour de nombreux clients, en particulier les multinationales, différents services ou filiales ont des exigences spécifiques concernant la résidence des données pour respecter les lois locales ou les exigences contractuelles de leurs propres clients.
 

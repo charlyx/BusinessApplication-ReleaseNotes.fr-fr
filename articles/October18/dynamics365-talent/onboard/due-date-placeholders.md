@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="due-date-placeholders"></a>Espaces réservés à la date d'échéance
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les responsables peuvent insérer des espaces réservés à la date d'échéance comme contrepartie à partir de la date d'embauche d'un nouvel employé, par exemple deux semaines après la date d'embauche ou trois jours avant. Les dates d'échéance sont mises à jour automatiquement si la date d'embauche d'un nouvel employé est modifiée.
 

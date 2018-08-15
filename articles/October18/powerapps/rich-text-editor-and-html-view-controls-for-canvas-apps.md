@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>Contrôles de vue de l'éditeur de texte enrichi et de code HTML pour les applications de canevas
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les créateurs d'application peuvent tirer parti du nouveau le contrôle de l'Éditeur de texte enrichi dans les applications de canevas afin de permettre aux utilisateurs finaux de mettre en forme leur texte, d'inclure des listes et d'insérer des liens.  Ce nouveau contrôle et le contrôle de vue HTML offrent aux utilisateurs finaux le contrôle complet sur les applications pour personnaliser le texte dans des scénarios de modification de courrier électronique et de rapport dans une application. 
 

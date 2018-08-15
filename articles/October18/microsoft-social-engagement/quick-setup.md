@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a>Configuration rapide et aperçus instantanés dans Social Engagement
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Les réseaux sociaux sont devenus une partie intrinsèque de chaque organisation marketing, de service clientèle et de community management fructueuse. La surveillance, les mesures et la gestion de la perception d'une marque sur les réseaux sociaux sont essentielles au succès de celle-ci. Les débuts d'une entreprise sur les réseaux sociaux pour le développement de sa marque peut être un défi. De nombreux outils professionnels nécessitent des conseils et des formations avant de pouvoir être utilisés.
 

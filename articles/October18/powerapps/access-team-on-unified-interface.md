@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="access-team-on-unified-interface"></a>Équipe d'accès sur Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les fonctionnalités d'équipe d'accès seront fournies pendant l'exécution d'Unified Interface. Les équipes d'accès permettent d'exposer et de partager des enregistrements entre plusieurs équipes fonctionnelles sans devoir modifier ou mettre à jour le modèle de sécurité de base via les divisions, les rôles de sécurité ou les équipes.
 

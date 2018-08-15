@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="organization-visuals"></a>Visuels de l'organisation
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les [visuels de l'organisation](https://docs.microsoft.com/power-bi/power-bi-custom-visuals-organization) permettent aux administrateurs de Power BI de déployer et de gérer des visuels personnalisés dans leur organisation à l'aide de la fonctionnalité [Publier sur le Web](https://docs.microsoft.com/power-bi/service-publish-to-web), du partage externe, de la possibilité de désactiver des visuels, et de la modification ou de la mise à jour de listes.
 

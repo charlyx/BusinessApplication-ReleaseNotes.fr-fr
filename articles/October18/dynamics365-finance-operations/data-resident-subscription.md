@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="go-local"></a>Migration locale des données
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 
 Les clients peuvent opter pour un abonnement complet à Microsoft Dynamics 365 Finance and Operations en ligne. Le code, les métadonnées et les données client seront conservés dans la région de données de leur choix. La résidence des données sera tout d'abord mise à disposition en Europe.

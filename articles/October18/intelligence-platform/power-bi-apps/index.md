@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="power-bi-apps"></a>Applications Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les applications Power BI vont offrir des expériences « low-code no-code » pour que les partenaires Power BI puissent générer des applications Power BI et les publier dans AppSource pour tous les clients Power BI. La plateforme va aider nos partenaires à créer, mettre sur le marché, vendre et développer leur activité plus rapidement.
 

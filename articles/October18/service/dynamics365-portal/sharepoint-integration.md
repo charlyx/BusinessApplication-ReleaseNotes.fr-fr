@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="manage-sharepoint-documents"></a>Gérer les documents SharePoint
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Cette fonctionnalité étend les fonctionnalités de gestion des documents des applications Dynamics 365 aux portails, offrant aux clients une expérience cohérente et leur permettant de tirer profit de leurs investissements existants dans SharePoint avec Dynamics 365 pour la gestion des documents.

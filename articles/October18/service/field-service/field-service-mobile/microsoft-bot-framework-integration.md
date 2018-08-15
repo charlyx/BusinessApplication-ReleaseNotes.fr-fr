@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="microsoft-bot-framework-integration"></a>Intégration de Microsoft Bot Framework
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 La plupart du travail de service après-vente implique un ensemble d'étapes identiques répétées pour n'importe quelle tâche donnée : mettre à jour le statut d'un ordre de travail sur en déplacement, ouvrir les instructions d'un ordre de travail, afficher les tâches de service d'un ordre de travail, etc. Ces tâches peuvent être rationnalisées grâce à des expériences de conversations et en mains libres, par opposition à des techniciens devant cliquer sur une application mobile. 
 

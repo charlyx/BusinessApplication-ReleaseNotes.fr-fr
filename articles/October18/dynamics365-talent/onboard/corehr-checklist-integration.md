@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="corehr-checklist-integration"></a>Intégration de liste de contrôle CoreHR
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Les professionnels des RH peuvent désormais s'assurer que les documents administratifs de la liste de contrôle dans CoreHR sont automatiquement inclus dans le guide d'intégration de chaque nouvel employé.
 

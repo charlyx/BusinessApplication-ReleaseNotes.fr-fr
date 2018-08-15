@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-forms-in-sharepoint-are-faster"></a>Les formulaires PowerApps dans SharePoint sont plus rapides
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Une série d'améliorations des performances sont disponibles dans SharePoint lors de l'utilisation des formulaires PowerApps intégrés, notamment :
 

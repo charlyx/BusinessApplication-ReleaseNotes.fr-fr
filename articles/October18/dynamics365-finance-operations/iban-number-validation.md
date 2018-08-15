@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="iban-number-validation"></a>Validation du numéro IBAN
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Les numéros IBAN seront validés pour s'assurer que le numéro de compte bancaire dans le numéro IBAN correspond au numéro de compte dans le formulaire de compte bancaire.

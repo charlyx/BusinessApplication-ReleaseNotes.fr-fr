@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 
 ---
 #  <a name="social-insights-in-dynamics-365-for-marketing"></a>Panorama social dans Dynamics 365 for Marketing
+
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
  
-[!include[banner](../../includes/banner.md)]
+
 
 Panorama social est composé d'une série de widgets affichant des données de Social Engagement dans d'autres applications Dynamics 365. En octobre 2018, Panorama social sera disponible pour effectuer le suivi des campagnes dans Dynamics 365 for Marketing.
 

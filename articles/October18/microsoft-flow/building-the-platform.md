@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="building-the-platform"></a>Création de la plateforme
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 D'abord, Microsoft Flow fait partie de l'expérience de l'acteur unique de l'ensemble de la plateforme d'applications métier. Il existe désormais des concepts sous-jacents courants : un modèle de sécurité unique pour l'ensemble des ressources et une approche commune à la gestion des solutions. La manière dont les créateurs distribuent leurs applications et leurs flux est désormais plus cohérente. Ainsi, les créateurs peuvent partager leur flux, y compris les flux récurrents, dans leur organisation en fonction de leurs rôles de sécurité dans Common Data Service pour les applications. Les interfaces utilisateur sont également désormais intégrées : les flux peuvent être créés et appelés dans PowerApps Studio.
 

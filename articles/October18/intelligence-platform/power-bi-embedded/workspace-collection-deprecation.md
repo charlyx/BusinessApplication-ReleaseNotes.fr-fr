@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="workspace-collections-deprecation"></a>Obsolescence des collections d'espaces de travail
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Le service des collections d'espaces de travail Power BI a été mis hors service. Vous pouvez désormais intégrer davantage de fonctionnalités Power BI à vos applications à l'aide de Power BI Embedded. À compter du 30 juin 2018, les visuels intégrés à l'aide de collections d'espaces de travail Power BI ne pourront plus être affichés dans vos applications. Les données des applications seront disponibles dans le service des collections d'espaces de travail Power BI pendant six mois. En effectuant la transition vers Power BI Embedded, les utilisateurs de vos applications pourront toujours afficher les visuels intégrés, et vous continuerez d'accéder à vos données. Tous les clients des collections d'espaces de travail Power BI ayant un accord commercial signé avant le 30 juin 2017, verront seront mis hors service à la date d'expiration de leur accord.
 

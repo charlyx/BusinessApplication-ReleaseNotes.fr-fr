@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-dynamics-365-for-field-service-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Field Service
 
-[!include[banner](../../../includes/banner.md)]
+[!include[field-service banner](../../includes/field-service.md)]
+
+
 
 Microsoft Dynamics 365 for Field Service aide les organisations à offrir de meilleures expériences de service après-vente à leurs clients.
 

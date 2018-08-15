@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="real-time-power-bi-reports"></a>États Power BI en temps réel
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Si vous êtes un client qui exécute actuellement Microsoft Dynamics 365 for Finance and Operations version 7.3, 8.0 ou une version ultérieure, la plupart des espaces de travail analytiques et des états Power BI intégrés dans le produit sont mis à jour en temps réel lorsque vous mettez à jour votre plateforme. Le magasin d'entités est actualisé en mode « mains libres » de sorte que votre administrateur n'ait pas besoin de gérer la planification de l'actualisation du magasin d'entités. Microsoft gère cette actualisation pour vous. 
  

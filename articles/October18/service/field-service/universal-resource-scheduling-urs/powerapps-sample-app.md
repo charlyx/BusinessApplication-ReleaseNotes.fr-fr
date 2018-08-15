@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="powerapps-sample-app"></a>Exemple d'application PowerApps
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 Nous fournissons un exemple d'application PowerApps prête à l'emploi pour URS pouvant interagir avec l'API de recherche de ressource disponible et transmettre des informations permettant de créer une réservation.
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="additional-languages"></a>Langues supplémentaires
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Microsoft Social Engagement développe des fonctionnalités de veille sur de nouveaux marchés en ajoutant des langues supplémentaires pour l'achat de données, l'analyse des sentiments et les indicateurs personnalisés : 
 

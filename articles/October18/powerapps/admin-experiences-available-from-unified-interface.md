@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-experiences-available-from-unified-interface"></a>Expériences administrateurs disponibles dans Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les administrateurs peuvent accéder au contenu et aux liens dont ils ont besoin dans Unified Interface, ainsi qu'au centre d'administration PowerApps.
 

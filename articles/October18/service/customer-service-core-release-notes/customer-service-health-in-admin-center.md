@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customer-service-health-in-one-admin-center"></a>Intégrité du service client dans One Admin Center    
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 One Admin Center fournit des informations sur la bande passante du réseau, la latence de réseau, la fiabilité d'une application, et les mesures de performances, et permet ainsi à des organisations d'analyser l'intégrité du service. Il fournit également des informations sur les délais nécessaire aux composants prêts à l'emploi par rapport aux personnalisations, ce qui permet aux organisations et aux éditeurs de logiciels indépendants d'évaluer la qualité et la conformité de la mise en œuvre.  
 

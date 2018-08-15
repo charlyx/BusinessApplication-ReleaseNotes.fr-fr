@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-app-discovery-for-app-consumers"></a>Amélioration de la détection d'applications pour les consommateurs d'applications
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les consommateurs d'applications peuvent être productifs plus rapidement en détectant, en visualisant, puis en exécutant leurs applications de canevas et basées sur des modèles, personnelles ou de leur organisation, grâce à une page d'arrivée unifiée sur PowerApps.
 

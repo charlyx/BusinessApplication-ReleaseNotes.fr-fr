@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="consolidation-of-planned-orders-during-parallel-firming"></a>Consolidation des ordres prévisionnels pendant la confirmation en parallèle
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 La planification sera améliorée pour prendre en charge la consolidation des ordres prévisionnels, par exemple par un fournisseur, lorsque la confirmation automatique des commandes est configurée pour s'exécuter en parallèle à l'aide de plusieurs threads.
 

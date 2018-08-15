@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="installing-power-bi-apps-for-dataflows"></a>Installation des applications Power BI pour les flux de données
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les utilisateurs Power BI peuvent lancer leurs solutions en installant des applications Power BI prêtes à l'emploi fournies par Microsoft et ses partenaires. Les applications Power BI sont développées à l'aide de différents artefacts Power BI provenant des connecteur de données utilisés pour renseigner un flux de données dans les rapports qui visualisent les données pour les utilisateurs. 
 

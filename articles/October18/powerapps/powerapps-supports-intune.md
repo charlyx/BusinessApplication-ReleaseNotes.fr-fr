@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-supports-intune"></a>Prise en charge d'Intune par PowerApps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les applications PowerApps sur Android et iOS sont désormais intégrées à Intune et prennent en charge les stratégies Intune pour la gestion des applications mobiles, ce qui permet aux clients de mieux contrôler et protéger leurs données.
 

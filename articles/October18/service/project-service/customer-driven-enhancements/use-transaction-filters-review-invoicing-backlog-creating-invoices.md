@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="use-transaction-filters-to-review-invoicing-backlog-when-creating-invoices"></a>Utiliser des filtres de transaction pour consulter la file d'attente de facturation lors de la création de factures 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service crée des factures pour tous les chiffres de vente réels non facturés enregistrés sur un projet. Cette fonctionnalité présentera une vue sur laquelle vous pourrez filtrer les chiffres réels à l'aide des fonctionnalités de filtre XRM natives et marquer les transactions prêtes à être facturées. Cela offrira un meilleur contrôle aux responsables de projet sur ce qui est facturé au client pour chaque période.
 

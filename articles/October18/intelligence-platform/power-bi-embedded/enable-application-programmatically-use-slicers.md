@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enable-an-application-to-programmatically-use-slicers"></a>Activer une application pour utiliser les slicers par programme
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 L'API des slicers permet à une application (tout au long d'une session) de contrôler les slicers avec lesquels l'utilisateur interagit. Cette API est semblable à l'API des filtres, elle est donc simple et intuitive pour le développeur. Les fonctionnalités prises en charge sont les suivantes :
 

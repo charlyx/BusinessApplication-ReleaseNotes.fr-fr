@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Customer Service
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 
 Dynamics 365 for Customer Service continue de fournir des fonctionnalités grâce auxquelles les organisations peuvent offrir un service clientèle de qualité à leurs utilisateurs. Dans la dernière version, nous avons cherché à développer la productivité utilisateur via de nouvelles expériences, en intégrant de l'intelligence exploitable dans les opérations du service client et en améliorant l'efficacité opérationnelle.

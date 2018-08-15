@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="be-more-productive-with-quick-actions"></a>Optimisation de votre productivité avec les actions rapides
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Obtenez des aperçus intelligents dans votre application tout en prenant des notes pour vos clients. Les actions rapides analysent vos interactions avec vos clients et suggèrent des mesures à prendre. Par exemple, elles pourraient vous suggérer de créer une tâche de suivi avec le client ou un rendez-vous pour le rencontrer.

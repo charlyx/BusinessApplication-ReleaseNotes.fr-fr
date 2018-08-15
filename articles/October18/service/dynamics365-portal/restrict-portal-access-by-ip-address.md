@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="restrict-portal-access-by-ip-address"></a>Restreindre l'accès au portail selon l'adresse IP
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 La sécurité est l'une des préoccupations principales pour les applications et devient primordiale pour une application externe comme le portail Dynamics 365. Dans le cadre de cette version, nous allons ajouter des fonctionnalités permettant aux clients de limiter l'accès à leurs portails à certaines adresses IP. Cela aidera les organisations souhaitant restreindre leurs portails à des emplacements fixes tels que les réseaux internes de l'entreprise. En outre, ceci permettra aux clients en phase de développement et souhaitant s'assurer que leurs données ne sont pas divulguées en raison d'une configuration incorrecte.

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-report-tooltips"></a>Prise en charge de visuels personnalisés pour les info-bulles des rapports
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les visuels personnalisés prendront en charge les [info-bulles des rapports](https://docs.microsoft.com/power-bi/desktop-tooltips) dans le service Power BI Desktop.
 

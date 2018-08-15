@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="live-chat-channel"></a>Canal de conversation instantanée en direct 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 Un virage stratégique vers la messagerie conversationnelle entre consommateurs a encouragé les organisations à ajouter une prise en charge supplémentaire en complément des canaux traditionnels d'interaction, tels que le courrier électronique et le téléphone. La conversation instantanée en direct qui offre une résolution plus rapide des problèmes et du confort pour les clients fait office de moteur pour cette nouvelle tendance.
 

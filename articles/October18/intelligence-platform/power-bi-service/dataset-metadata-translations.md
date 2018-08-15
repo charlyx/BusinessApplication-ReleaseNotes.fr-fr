@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="dataset-metadata-translations"></a>Traductions des métadonnées du jeu de données
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Les utilisateurs de Power BI voient des champs de jeux de données dans leurs paramètres régionaux client ou dans leur langue lorsque des traductions sont définies dans le jeu de données ou le modèle Analysis Services.
 

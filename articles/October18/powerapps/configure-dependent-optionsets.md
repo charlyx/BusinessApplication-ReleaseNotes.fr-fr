@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="configure-dependent-option-sets"></a>Configurer des groupes d'options dépendants
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Lorsque vous créez des groupes d'options dépendants, vous pouvez facilement définir des règles entre les groupes pour vérifier l'exactitude des valeurs sélectionnées. Par exemple, vous pouvez créer un groupe d'options **Pays/région** et un groupe d'options **États**. Si un utilisateur sélectionne **États-Unis** dans la liste déroulante du premier groupe d'options, la liste déroulante du deuxième groupe d'options doit afficher uniquement les états qui se trouvent dans ce pays. Pour vérifier que les données sont cohérentes et exactes, vous pouvez définir cette structure au niveau de l'entité pour toutes les applications.
 

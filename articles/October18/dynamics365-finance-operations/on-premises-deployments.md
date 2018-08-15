@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="on-premises-deployment-enhancements"></a>Améliorations du déploiement sur site
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 L'option de déploiement sur site pour Dynamics 365 for Finance and Operations a été améliorée dans de nombreux domaines, notamment en vue de simplifier la configuration, les opérations, la surveillance et la maintenance.
 

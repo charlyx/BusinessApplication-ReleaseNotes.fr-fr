@@ -20,6 +20,8 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="test-automation-support"></a>Prise en charge de l'automatisation des tests
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Un administrateur ou un utilisateur avancé fonctionnel peut créer, exécuter et gérer une série de tests de régression automatisés, en fonction des enregistrements de tâche, ce qui réduit considérablement l'impact et le coût de la validation des mises à jour des environnements Dynamics 365 for Finance and Operations. Ces tests peuvent être exécutés sur des environnements UAT.

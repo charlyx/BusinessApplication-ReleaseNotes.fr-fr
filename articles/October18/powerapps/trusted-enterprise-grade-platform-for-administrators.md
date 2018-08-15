@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="better-platform-for-administrators"></a>Plateforme améliorée pour les administrateurs
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Avec Microsoft PowerApps, le suivi et la gestion des applications dans toute l'organisation n'a jamais été aussi simple. Avec le lancement du nouveau centre d'administration, les administrateurs et les partenaires profitent d'une expérience unifiée et plus fiable pour gérer la capacité de stockage, les environnements et les déploiements. Le service Aide et support du centre d'administration permet aux administrateurs de résoudre davantage de problèmes.
 

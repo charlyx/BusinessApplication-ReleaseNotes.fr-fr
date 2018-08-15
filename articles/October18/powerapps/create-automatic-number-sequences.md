@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-automatic-number-sequences"></a>Créer des souches de numéros automatiques
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dans PowerApps, vous pouvez définir une ou plusieurs séquences dans lesquelles des numéros sont générés automatiquement et appliqués aux entités dans Common Data Service pour applications.
 

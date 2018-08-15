@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Retail
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 La version d'octobre 2018 de Dynamics 365 for Retail comprend ce qui suit : 

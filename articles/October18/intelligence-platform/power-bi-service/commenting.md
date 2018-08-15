@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="commenting"></a>Commentaires
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Vous pouvez faire des commentaires sur les rapports et les tableaux de bord pour fournir un contexte et poser des questions. Avec @mentions, vous pouvez communiquer avec d'autres utilisateurs. Il est possible de conserver à jour les notifications Push et les messages électroniques avec les dernières réponses qui vous mentionnent ou qui concernent vos propres commentaires.
 

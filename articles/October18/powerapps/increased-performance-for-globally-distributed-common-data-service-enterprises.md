@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a>Performances accrues pour les entreprises internationales utilisant Common Data Service pour les applications
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs finaux répartis dans différentes zones géographiques et avec des latences réseau variées bénéficient de performances rapides et constantes du centre de données quel que soit leur emplacement.
 

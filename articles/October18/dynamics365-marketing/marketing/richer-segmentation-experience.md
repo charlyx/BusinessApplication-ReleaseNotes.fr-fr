@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="richer-segmentation-experience"></a>Expérience de segmentation enrichie
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Le concepteur de segment optimisé permet aux responsables marketing et aux analystes du marché de créer des segments plus facilement et plus efficacement. Une foule de nouveaux opérateurs commerciaux permettent aux utilisateurs professionnels de créent plus simplement des segments marketing commerciaux complexes, ce qui leur facilite la création de segments pour un marketing ciblé.
 

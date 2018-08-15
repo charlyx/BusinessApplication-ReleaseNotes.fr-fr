@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="query-acceleration-for-large-datasets-public-preview"></a>Accélération des requêtes pour les grands ensembles de données (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les utilisateurs peuvent créer des modèles [DirectQuery](https://docs.microsoft.com/power-bi/desktop-directquery-about) avec des données de toutes les tailles dans les sources, comme Spark et Azure SQL Data Warehouse, puis accélérer les requêtes courantes en créant des agrégations en mémoire avec certaines des données. Les requêtes courantes utilisent le cache agrégé pour retourner des résultats en une fraction de seconde au lieu d'interroger directement la source. Les utilisateurs peuvent créer des jeux de données massifs et continuer d'offrir des interrogations interactives.
 

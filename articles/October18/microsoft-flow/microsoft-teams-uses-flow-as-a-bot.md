@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="microsoft-teams-uses-flow-as-a-bot"></a>Microsoft Teams utilise Flow en tant que bot
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs peuvent appeler les [flux de bouton](https://docs.microsoft.com/flow/introduction-to-button-flows) de manière intégrée dans Teams. Pour démarrer un flux, appelez-le avec le bot en indiquant « répertorier les flux », suivi de « sélectionner le flux 1 ».
 

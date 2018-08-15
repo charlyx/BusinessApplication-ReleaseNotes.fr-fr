@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-canvas-apps-with-responsive-layout"></a>Créer des applications de canevas avec une disposition dynamique
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Normalement les écrans d'une application de canevas sont mis à l'échelle en fonction de l'espace fourni par l'hôte de l'application.  Cela facilite la création d'une application et garantit qu'elle s'affichera correctement sur n'importe quel écran où elle est utilisée.  Mais comme les écrans sont de plus en plus grands, les applications ne peuvent pas s'adapter pour profiter de l'espace supplémentaire.  De nombreux sites Web ont aujourd'hui un design « réactif » : ils s'ajustent à la taille de l'écran sur lequel ils sont affichés, et s'adaptent aux petits écrans de téléphone comme aux grandes écrans d'ordinateurs de bureau.  
 

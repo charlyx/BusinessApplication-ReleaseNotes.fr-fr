@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="us-government-cloud-deployment"></a>Déploiement dans le cloud du gouvernement américain
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les régions GCC et GCC High sont désormais disponibles pour Microsoft Flow. Cela signifie que Flow sera désormais soumis pour approbation aux certifications du gouvernement américain. Pour en savoir plus sur nos engagements relatifs au stockage de données, visitez la [page du Centre de gestion de la confidentialité Microsoft pour Microsoft Flow](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location).
 

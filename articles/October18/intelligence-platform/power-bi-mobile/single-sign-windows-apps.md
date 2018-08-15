@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="single-sign-on-for-windows-devices"></a>Authentification unique pour les périphériques Windows 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI peut être configuré de manière à extraire les informations d'identification de l'utilisateur sur le système d'exploitation Windows et à les utiliser pour se connecter à Power BI afin de fournir une expérience transparente aux utilisateurs professionnels. 
 

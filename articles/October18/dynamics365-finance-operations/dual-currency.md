@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="dual-currency"></a>Double monnaie
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 La devise de déclaration sera réaffectée dans une deuxième devise comptable. D'un point de vue comptable, la devise de déclaration continuera à être calculée pour chaque transaction validée dans un compte général.  Certains processus de comptabilité seront améliorés, et un nouveau journal sera ajouté pour valider des transactions dans la devise de déclaration uniquement. Pour d'autres comptes de sous-comptabilité, comme les immobilisations, il y aura des modifications plus importantes. Pour les immobilisations, nous allons au départ conserver toutes les transactions dans la sous-comptabilité pour la devise de déclaration. Lors de l'amortissement, les montants seront amortis dans la devise de déclaration à l'aide des méthodes d'amortissement, exactement comme avec la devise comptable. Parmi les autres modules de sous-comptabilité affectés on trouve Comptabilité fournisseur, Comptabilité client et Banques
 

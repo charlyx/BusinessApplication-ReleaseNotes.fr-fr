@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="leverage-device-signals-on-mobile-devices"></a>Exploiter les signaux des appareils mobiles
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Comme l'illustre [cette idée](https://powerusers.microsoft.com/t5/Flow-Ideas/Microsoft-Forms-Trigger-Geo-Fencing/idi-p/69825), les clients peuvent désormais utiliser leur emplacement comme connecteur. La fonctionnalité permet aux utilisateurs de créer une plage d'emplacements qui déclenche un flux lorsqu'un appareil mobile y entre ou en sort. Cela permet à certains flux de se déclencher automatiquement, sans que l'utilisateur ait besoin de les activer, avec une productivité des applications mobiles accrue.
 

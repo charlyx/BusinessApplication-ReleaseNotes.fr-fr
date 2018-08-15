@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-persistent-filters"></a>Prise en charge de visuels personnalisés pour les filtres persistants
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les visuels personnalisés seront pris en charge quand les utilisateurs utiliseront les [filtres persistants](https://powerbi.microsoft.com/en-us/blog/announcing-persistent-filters-in-the-service/) dans le service Power BI.
 

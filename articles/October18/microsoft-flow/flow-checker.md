@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-checker"></a>Vérificateur de flux
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La fonctionnalité **Vérificateur de flux** vous aidera pendant la définition de vos flux. Elle permettra de vérifier les erreurs lors de la conception et recherchera les erreurs qui se sont déjà produites lors d'exécutions précédentes. 
 

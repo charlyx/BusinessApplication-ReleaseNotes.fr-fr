@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="master-planning-performance-improvements"></a>Améliorations des performances de planification
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Les performances et la prévisibilité de la planification seront améliorées en plusieurs étapes incrémentielles.
 

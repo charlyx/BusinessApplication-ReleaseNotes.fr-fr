@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>Connectivité hybride de niveau professionnel via la passerelle de données sur site
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Cette version comprend plusieurs mises à jour visant à amélioration la passerelle de données sur site.
 

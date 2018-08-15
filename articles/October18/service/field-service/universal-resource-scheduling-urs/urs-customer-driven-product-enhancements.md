@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="urs-customer-driven-product-enhancements"></a>Améliorations des produits adaptées aux besoins des clients URS
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 -   Extensibilité supplémentaire sur le tableau de planification pour prendre en charge un flux de demande de ressource plus simple pour l'application Project Service.
 -   Lors de l'insertion d'une réservation entre deux réservations ou la réaffectation d'une réservation à une autre ressource, le temps de voyage de toutes les réservations associées sera recalculé en conséquence.

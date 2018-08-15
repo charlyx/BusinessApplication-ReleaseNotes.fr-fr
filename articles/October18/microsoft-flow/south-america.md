@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="south-america"></a>Amérique du Sud
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La région de l'Amérique du sud est désormais disponible pour Microsoft Flow. Cela signifie que vous pouvez créer des environnements en Amérique du sud, et que toutes les données client de flux seront conservées uniquement aux Amériques. Pour en savoir plus sur nos engagements relatifs au stockage de données, visitez la [page du Centre de gestion de la confidentialité Microsoft pour Microsoft Flow](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location).
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="azure-integration-public-preview"></a>Intégration à Azure (version préliminaire publique) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Azure Data Lake Storage Gen2 est inclus dans chaque abonnement à Power BI payé (10 GB par utilisateur, 100 TB par nœud P1). Par conséquent, vous pouvez facilement commencer la préparation des données en libre-service sur Azure Data Lake.  
 

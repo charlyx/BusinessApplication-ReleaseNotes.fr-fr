@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="account-based-marketing"></a>Marketing des comptes stratégiques
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Avec le marketing des comptes stratégiques, les responsables B2B (interentreprise) peuvent utiliser Dynamics 365 for Marketing pour cibler chaque compte professionnel en tant qu'unité individuelle, ce qui améliore l'intégration et l'alignement entre les services clientèle et de marketing.
 

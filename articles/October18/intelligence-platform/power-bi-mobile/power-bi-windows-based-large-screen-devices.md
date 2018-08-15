@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-on-windows-based-large-screen-devices-public-preview"></a>Power BI sur les appareils à grand écran sous Windows (version préliminaire publique)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 De grands écrans tactiles comme le Surface Hub sont utilisés pour la présentation de données et la collaboration des équipes. L'application mobile Power BI sur grands écrans vous permet d'utiliser un grand écran tactile de manière intuitive, avec une expérience qui optimise la présentation et l'exploration des données sur de grands écrans.
 

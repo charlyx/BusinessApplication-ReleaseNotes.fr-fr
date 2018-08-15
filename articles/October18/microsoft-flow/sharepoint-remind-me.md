@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="sharepoint-remind-me"></a>Fonctionnalité Me rappeler de SharePoint
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Si une liste ou une bibliothèque contient une colonne de date et d'heure, les utilisateurs peuvent rapidement mettre en service un flux qui envoie des alertes selon des dates à venir dans la colonne sélectionnée. 
 

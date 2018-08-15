@@ -20,8 +20,11 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="using-edge-process-for-hosting-web-applications-in-unified-service-desk"></a>Utilisation du processus Edge pour héberger des applications web dans Unified Service Desk
 
+[!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
+[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Les administrateurs pourront configurer le navigateur Microsoft Edge pour ouvrir des applications web dans Unified Service Desk. Cela fera bénéficier aux utilisateurs de Unified Service Desk des améliorations des performances et de la fiabilité de Microsoft Edge, ainsi que d'autres avantages qu'un navigateur moderne comme Microsoft Edge offre. Cette fonctionnalité d'aperçu sera disponible uniquement pour les déploiements mis à niveau vers la version la plus récente du système d'exploitation Windows 10.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a>Transformer la collaboration au sein de l'équipe de vente via une intégration étroite avec Microsoft Teams
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Il y a aujourd'hui deux fois plus de monde dans les équipes de vente qu'il y a cinq ans. Il faut en moyenne six décisionnaires et seize collaborateurs pour conclure une affaire. L'environnement commercial moderne nécessite de collaborer plus rapidement, avec plus de monde et plus de données. L'intégration de Microsoft Teams avec Dynamics 365 permet d'obtenir les fonctionnalités dont ont besoin les commerciaux pour mieux collaborer
  

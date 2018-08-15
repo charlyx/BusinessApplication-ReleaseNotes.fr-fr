@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="simplified-customization"></a>Personnalisation simplifiée
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Pour simplifier la personnalisation du portail Dynamics 365, nous avons ciblé des améliorations destinées respectivement aux personnalisateurs et administrateurs de portail. Une expérience intuitive simplifie la complexité des modèles de données, diminue la courbe d'apprentissage de la personnalisation du portail et entraîne une meilleure productivité pour les utilisateurs. Fournir un outil adapté à l'utilisateur permet également de poser les bases d'expériences différenciées dans les prochaines versions.

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-bookmarks"></a>Prise en charge de visuels personnalisés pour les signets
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les visuels personnalisés prendront en charge la fonctionnalité [signet](https://docs.microsoft.com/power-bi/desktop-bookmarks) de Power BI. Les développeurs peuvent ajouter un code dans les visuels personnalisés pour gérer la création et la récupération des signets.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="emerging-ecosystem-of-isvs-on-the-platform"></a>Nouvel écosystème d'éditeurs de logiciels indépendants sur la plateforme
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps et Common Data Service pour les applications bénéficient d'un écosystème croissant d'applications de la part de Microsoft et d'autres éditeurs de logiciels. Cet écosystème est conçu par-dessus la plateforme et permet de stocker les données de manière native dans CDS pour les applications. L'ensemble de plus en plus important d'applications tire parti de meilleures fonctionnalités qui permettent de créer des applications SaaS de classe mondiale sur la plateforme. 
 

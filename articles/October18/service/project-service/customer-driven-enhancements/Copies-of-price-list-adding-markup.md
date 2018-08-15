@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="ability-to-make-copies-of-price-lists-by-adding-a-markup-percentage"></a>Possibilité de faire des copies des tarifs en ajoutant un pourcentage de majoration
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service permet de faire des copies des tarifs pour faciliter la création et la maintenance des données. Il est actuellement possible de faire des copies des tarifs dans la même devise et dans la même unité de temps, ou de convertir un tarif dans une autre devise et une autre unité de temps en faisant une copie. 
 

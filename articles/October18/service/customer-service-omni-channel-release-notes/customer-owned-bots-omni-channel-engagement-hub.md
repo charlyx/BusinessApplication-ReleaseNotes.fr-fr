@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="enable-customers-to-bring-their-bots"></a>Permettre aux clients d'apporter leurs bots
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Aujourd'hui, les consommateurs exigent de plus en plus que les sociétés répondent à leurs besoins efficacement, rapidement et correctement. Un virage stratégique est également en train de s'opérer avec l'utilisation des options en libre-service. Les clients cherchent désormais à répondre eux-mêmes à leurs besoins en matière de produit ou de service. 
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customizable-welcome-emails"></a>Courriers électroniques de bienvenue personnalisables
 
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Les responsables peuvent personnaliser les courriers électroniques envoyés aux nouveaux employés au moment de l'intégration. Cela donne une touche personnelle et améliore le taux de réponse aux courriers électroniques.
 

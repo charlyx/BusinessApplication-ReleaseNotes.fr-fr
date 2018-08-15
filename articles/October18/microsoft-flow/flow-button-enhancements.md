@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-button-enhancements"></a>Améliorations du bouton de flux
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Comme l'illustre [cette idée](https://powerusers.microsoft.com/t5/Flow-Ideas/Create-multiple-input-types-for-buttons/idi-p/33695), les utilisateurs pourront transmettre des données plus riches aux flux de bouton.
 

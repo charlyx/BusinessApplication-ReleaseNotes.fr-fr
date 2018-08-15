@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="capabilities-for-app-creators"></a>Fonctionnalités pour les créateurs d'applications
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dans la foulée de la version d'avril 2018, des mises à jour importantes ont été apportées aux applications de canevas et aux applications basées sur des modèles, ainsi qu'à Common Data Service pour applications. Ces mises à jour ont permis d'élaborer un vaste ensemble de cas d'utilisation pour les applications de productivité via Office 365, et de perfectionner la personnalisation et la création d'application professionnelle avec Dynamics 365.
 

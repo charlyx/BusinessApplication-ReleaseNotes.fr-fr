@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="additional-quick-insights-public-preview"></a>Quick Insights supplémentaires (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Lorsque vous affichez un visuel présentant la répartition d'une valeur dans une catégorie (par exemple, les ventes par type de produit), les utilisateurs peuvent demander à Power BI d'afficher les autres facteurs affectant cette répartition. Cette méthode permet d'identifier l'impact sur une mesure sans devoir ventiler manuellement par facteur pour faire des essais afin de trouver l'impact.
 

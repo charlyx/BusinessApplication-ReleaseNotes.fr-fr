@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>Prise en charge native des types de données Common Data Service dans les applications de canevas
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 À l'heure actuelle, la prise en charge de certains types de données Common Data Service est limité ou difficile à d'utilisation. Les valeurs de groupe d'options doivent être recherchées manuellement sur le portail du créateur, les GUID sont gérés via des chaînes pouvant entraîner des problèmes dans les comparaisons, et les champs Date uniquement et Date/heure présentent des problèmes de fuseau horaire.
 

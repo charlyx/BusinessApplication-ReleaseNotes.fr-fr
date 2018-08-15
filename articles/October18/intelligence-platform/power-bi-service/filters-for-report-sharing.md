@@ -20,6 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="filters-for-report-sharing"></a>Filtres de partage de rapport
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Lors du partage d'un rapport, les filtres appliqués seront utilisés, ce qui vous permettra de créer des vues personnalisées adaptées aux différents publics.
 
 La capture d'écran suivante vous montre comment un utilisateur choisit de partager avec les filtres du rapport actuel.

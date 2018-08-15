@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="enhanced-sharepoint-forms-functionality"></a>Fonctionnalité de formulaires SharePoint améliorée
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les formulaires personnalisés avec PowerApps dans SharePoint sont désormais plus faciles à créer et offrent un meilleur aspect. Les options de thème donnent aux formulaires personnalisés une apparence semblable à celle de SharePoint. PowerApps offre des options de mise en forme, de chargement des images et d'édition de texte enrichie, ainsi que des bibliothèques de documents, des menus déroulants en cascade et une visibilité du champ conditionnel. Les utilisateurs invités sur votre site peuvent également utiliser les formulaires personnalisés.
 

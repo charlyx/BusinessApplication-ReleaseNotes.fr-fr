@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="integration-with-dynamics-365-for-field-service--inventory-and-projects"></a>Intégration avec Dynamics 365 for Field Service - Inventaire et projets
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 L'intégration avec l'intégration de données de CDS est fournie pour prendre en charge des scénarios dans lesquels des activité Field Service sont effectuées en dehors de Dynamics 365 for Finance and Operations.
 

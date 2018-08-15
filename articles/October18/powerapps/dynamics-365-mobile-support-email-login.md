@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dynamics-365-mobile-support-email-login"></a>Connexion par courrier électronique au support Dynamics 365 Mobile
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs des applications Dynamics 365 (en ligne) ou basées sur des modèles sur PowerApps peuvent se connecter à l'application Dynamics 365 sur Android et iOS à l'aide de leurs adresses e-mail ou des URL du serveur. Une fois connectés, ils ont accès à toutes les organisations/les environnements accessibles en ligne et peuvent y faire leur choix.
 

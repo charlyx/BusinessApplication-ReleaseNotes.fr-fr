@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="reusable-content-blocks"></a>Blocs de contenu réutilisables
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Les blocs de contenu réutilisables permettent aux utilisateurs de Marketing de définir et de stocker les blocs de contenu réutilisables pouvant être facilement ajoutés à des courriers électroniques et à des conceptions de page. Par exemple, si vous avez créé un bel en-tête pour une page marketing, vous pouvez en faire un élément de conception standard en l'enregistrant comme bloc réutilisable. Vous pouvez également protéger une partie ou tout le contenu ou la conception d'un bloc pour empêcher d'autres utilisateurs de les modifier. 
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="accessibility-support-for-custom-visuals"></a>Prise en charge de l'accessibilité pour les visuels personnalisés
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les visuels personnalisés prennent en charge le mode de contraste élevé et la navigation avec le clavier à des fins d'accessibilité grâce à la prise en charge des visuels personnalisés pour les [thèmes de couleur](https://docs.microsoft.com/power-bi/desktop-report-themes).
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-a-power-bi-app-package"></a>Créer un package d'application Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 En tant qu'utilisateur professionnel de Power BI, vous pouvez :
 

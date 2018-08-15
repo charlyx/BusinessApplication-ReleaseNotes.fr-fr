@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="schedule-board-split-view"></a>Vue fractionnée du tableau de planification
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 
 Dans certains cas, vous pouvez souhaiter parcourir les informations du tableau de planification sans devoir charger de nouveaux écrans ou perdre le contexte de l'emplacement où vous vous trouvez :

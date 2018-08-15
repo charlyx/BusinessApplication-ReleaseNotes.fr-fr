@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a>Sélection et liaison des galeries, formulaires et champs de tables de données simplifiées
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La liste des champs bénéficiera d'améliorations de la facilité d'utilisation pour simplifier l'utilisation des données dans les galeries, les formulaires et les tables de données. 
 

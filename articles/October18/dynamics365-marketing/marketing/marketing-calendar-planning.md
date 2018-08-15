@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="marketing-calendar-for-planning"></a>Calendrier marketing pour la planification
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Le contrôle du calendrier marketing permet aux responsables marketing de visualiser un large éventail d'activités marketing avec une date de début et une date de fin. En effet, les responsables marketing peuvent afficher de nombreux éléments d'une campagne (tels que des événements) sur le même calendrier, ce qui offre une vue d'ensemble simplifiée.
 

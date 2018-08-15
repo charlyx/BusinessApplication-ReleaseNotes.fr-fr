@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dashboard-level-commenting"></a>Commentaires au niveau du tableau de bord
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Permet aux utilisateurs professionnels de démarrer et de participer à des conversations à propos de leurs données directement à partir de leur application mobile. La conversation peut être rattachée à un tableau de bord ou à une vignette, et tous les utilisateurs qui y ont accès peuvent y participer. Les utilisateurs peuvent aussi recevoir des notifications Push lorsque quelqu'un les mentionne dans une conversation, ainsi ils peuvent être rapidement mis au courant et répondre à la conversation à partir de leur téléphone mobile.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="personalized-home-experience-public-preview"></a>Expérience de page d'accueil personnalisée (version préliminaire publique)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI présente une nouvelle expérience de page d'arrivée : la page d'accueil. En adéquation avec le service, l'application Power BI offre une vue d'accueil permettant aux utilisateurs professionnels d'avoir un aperçu rapide des données qui les intéressent, et d'accéder facilement à ces données pour des recherches complémentaires.
 

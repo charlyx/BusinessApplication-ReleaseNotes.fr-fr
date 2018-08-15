@@ -19,9 +19,11 @@ ms.lasthandoff: 08/03/2018
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Résumé des nouveautés dans Dynamics 365 for Talent
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 Cette rubrique répertorie les fonctionnalités qui seront lancées dans Microsoft Dynamics 365 for Talent entre octobre 2018 et mars 2019. 
 
-[!include[banner](../../includes/banner.md)]
+
 
 
 ## <a name="attract"></a>Attract

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft PowerApps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage. Reportez-vous à la [documentation](https://docs.microsoft.com/powerapps/) de PowerApps pour obtenir des informations et des réponses éclairées à vos questions, quelle que soit la façon dont vous utilisez PowerApps.

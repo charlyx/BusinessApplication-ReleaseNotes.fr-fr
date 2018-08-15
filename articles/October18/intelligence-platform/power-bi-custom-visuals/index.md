@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="power-bi-custom-visuals"></a>Visuels personnalisés Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les visuels Power BI permettent de développer des visuels uniques pouvant être utilisés comme n'importe quel autre visuel Power BI natif.
 

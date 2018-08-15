@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-mobile-applications-are-more-reliable"></a>Amélioration de la fiabilité des applications mobiles basées sur des modèles
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les applications mobiles s'exécutent plus rapidement sans se bloquer. Toutes les erreurs signalées aux utilisateurs sont actionnables pour plus d'autonomie ou fournissent des informations importantes à Microsoft pour un support technique rapide.
 

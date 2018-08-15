@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a>Améliorer les performances commerciales et la planification grâce à l'application Dynamics 365 AI for Sales.
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 La nouvelle application Dynamics 365 AI for Sales facilite l'analyse des performances commerciales en fournissant de manière proactive et normative des informations utiles à partir des données de ventes. Cette application aide les directeurs commerciaux à évaluer et à améliorer les performances de leurs équipes de vente sur Dynamics 365 et d'autres applications de vente. Avec les taux d'attrition et les prévisions de pipeline utilisant les scores sur la qualité des relations, les responsables des ventes peuvent mieux optimiser leurs stratégies de vente.

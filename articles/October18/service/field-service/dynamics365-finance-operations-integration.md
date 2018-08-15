@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="integration-with-dynamics-365-for-finance-and-operations"></a>Intégration à Dynamics 365 for Finance and Operations
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Cette intégration permet de transférer des données principales (compte, produit, et tarif) et des données d'ordre de travail vers des commandes client lorsque des ordres de travail sont marqués comme fermés. Elle permet également d'intégrer des factures, des bons de commande et des entrepôts.
 

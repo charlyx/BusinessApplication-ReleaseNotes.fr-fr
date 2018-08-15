@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 
 # <a name="general-enhancements-in-operations-functionality"></a>Améliorations générales apportées à la fonctionnalité des opérations
-[!include[banner](../../includes/banner.md)]
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
 
 Cette version comprend des améliorations apportées au secteur de l'entrepôt, notamment :
 

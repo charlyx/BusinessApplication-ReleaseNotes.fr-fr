@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>Améliorations des vues cumulatives dans Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Grâce aux vues cumulatives améliorées, vous pouvez afficher une vue cumulative des enregistrements (les comptes associés et les contacts en marge des activités, par exemple).
 

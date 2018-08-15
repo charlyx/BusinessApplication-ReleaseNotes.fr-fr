@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-data-integration-platform-october-18-release"></a>Présentation de la version d'octobre 2018 de la plateforme d'intégration de données
+
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
 L'intégration de données fournit les connecteurs et les passerelles grâce auxquels il est possible d'entrer toutes les données externes dans le Common Data Service (CDS) et de stocker des données dans le formulaire Common Data Model (CDM). Les clients peuvent intégrer plus facilement leurs données dans un seul endroit pour les applications de gestion et les analyses. L'intégration de données est basé sur Power Query, la même technologie que des millions de personnes utilisent quotidiennement dans Power BI et Excel.
 

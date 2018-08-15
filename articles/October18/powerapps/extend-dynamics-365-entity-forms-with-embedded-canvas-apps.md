@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps"></a>Étendre les formulaires d'entité Dynamics 365 avec des applications de canevas incorporées
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les applications de canevas permettent aux créateurs d'application de fournir une expérience utilisateur riche, au pixel près via des fonctionnalités de personnalisation low-code. Elles prennent également en charge la connexion à plus de 200 sources de données, y compris une gamme de services cloud (comme Office 365 et SharePoint), ainsi que des sources de données sur site (via une passerelle). Les créateurs d'applications peuvent désormais importer ces fonctionnalités dans leurs applications basées sur des modèles en intégrant des applications de canevas dans leurs formulaires basés sur des modèles. 
  

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="new-developer-portal"></a>Nouveau portail pour les développeurs
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Un nouveau portail pour les développeurs Power BI contient toutes les ressources dont les développeurs ont besoin pour utiliser Power BI Embedded, automatiser des processus pour leurs solutions Power BI et créer des visuels personnalisés. Ce portail inclut des liens vers la documentation connexe.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="enhanced-service-health-page"></a>Amélioration de la page Service Health
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Tout le monde peut afficher le service à un niveau supérieur, et le centre d'administration donne des détails sur les ressources du client.
 

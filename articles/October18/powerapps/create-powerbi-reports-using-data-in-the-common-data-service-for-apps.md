@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-power-bi-reports-using-data-in-common-data-service-for-apps"></a>Créer des états Power BI à l'aide des données de Common Data Service pour les applications
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Power BI offre un outil extrêmement performant pour visualiser et stocker des données. Avec le connecteur pour Power BI, les créateurs d'application peuvent se connecter directement à leur environnement, parcourir des relations et générer des états et des tableaux de bord attrayants avec leurs données.
 

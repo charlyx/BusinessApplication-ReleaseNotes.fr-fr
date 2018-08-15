@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a>Visuels personnalisés certifiés dans le site Marketplace
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les développeurs de visuels personnalisés dans le site Marketplace peuvent choisir de passer par un processus de certification supplémentaire pour bénéficier d'une sécurité et d'une qualité renforcées et obtenir une certification de la part de l'équipe Power BI. Ainsi le visuel sera pris en charge lors de l'exportation vers PowerPoint et dans les abonnements aux courriers électroniques. En outre, la certification garantit aux utilisateurs qu'ils peuvent utiliser les visuels en tout sécurité avec leurs données.
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="single-resource-optimization"></a>Optimisation d'une ressource unique
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 L'optimisation d'une ressource unique est un moyen rapide et simple d'optimiser à nouveau une ressource sélectionnée pour s'assurer que celle-ci a toujours un itinéraire optimal après des changements de planification au cours de la journée. Par exemple, une ressource peut avoir des réservation se chevauchant après s'être vue attribuer un ordre de travail d'urgence au milieu de la journée ou peut ne pas être en mesure d'être à l'heure pour une réservation en raison du trafic.
 

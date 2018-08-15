@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="self-service-data-prep-with-dataflows"></a>Préparation de données en libre-service avec des flux de données 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI présente des flux de données permettant aux organisations d'unifier les données issues de sources disparates et de les préparer à des fins de modélisation. Les analystes peuvent créer facilement des flux de données à l'aide d'outils conviviaux en libre-service. Les flux de données permettent d'ingérer, de transformer, d'intégrer et d'enrichir le big data en définissant des connexions de source de données, une logique d'ETL, des planifications d'actualisation, etc. Les données sont stockées en tant qu'entités dans des dossiers compatibles Common Data Model dans Azure Data Lake Storage Gen2. Les flux de données sont créés et gérés dans des espaces de travail d'applications utilisant le service Power BI.   
 

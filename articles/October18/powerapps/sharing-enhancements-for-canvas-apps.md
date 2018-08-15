@@ -19,7 +19,9 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>Améliorations du partage pour les applications de canevas
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
+
+
 
 Les applications de canevas sont plus faciles à partager, car les utilisateurs peuvent afficher les sources de données utilisées par une application, ce qui facilite la configuration individuelle des autorisations des utilisateurs pour accéder à ces données. 
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="manage-and-run-sql-server-reporting-services-ssrs-reports-in-unified-interface"></a>Gérer et exécuter les états SSRS (SQL Server Reporting Services) dans Unified Interface
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
+
+
 
 Utilisez les états pour gérer vos affaires, analyser l'état de la progression ou simplement pour afficher une synthèse des données de niveau de ligne. Vous pouvez gérer vos états SSRS et exécuter des états au niveau de l'entité à partir de n'importe quel enregistrement ou grille.
 

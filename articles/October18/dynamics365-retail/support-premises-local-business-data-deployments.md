@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-on-premises-local-business-data-deployments"></a>Prise en charge des déploiements sur site (données d'entreprise locales)
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dynamics 365 for Retail permet aux détaillants d'utiliser des options de déploiement flexibles (sur site ou dans le cloud) entre plusieurs systèmes complets, depuis les commerces traditionnels jusqu'aux sièges de commerce au détail. L'option de déploiement sur site de données commerciales a été améliorée pour inclure la prise en charge des composants suivants : Retail Modern POS (MPOS), Cloud POS, le serveur Retail, la base de données des canaux, la station matérielle, et des intégrations de commerce électronique tiers.
 

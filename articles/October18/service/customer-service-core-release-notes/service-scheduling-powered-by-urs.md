@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a>Planification des services générée par Universal Resource Scheduling  
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 La planification des services offre aux organisations un moyen efficace de planifier des combinaisons complexes de ressources en tenant compte de la disponibilité des employés, des installations et des équipements. Cette solution permet aux organisations d'améliorer la qualité de leurs services et d'empêcher une planification excessive grâce à des charges de travail prévisibles pour les employés, tout en disposant d'horaires estimés fiables pour les clients. 
 

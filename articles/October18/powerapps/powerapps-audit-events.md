@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-audit-events"></a>Événements d'audit PowerApps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les administrateurs ont désormais davantage de visibilité sur l'adoption et l'activité de PowerApps dans leur organisation. Les enregistrements de toutes les activités d'administration et de création sont désormais visibles pour les administrateurs dans le Centre de sécurité et de conformité Office 365. Ainsi, ils peuvent également configurer des alertes d'activité pour une surveillance plus proactive.
 

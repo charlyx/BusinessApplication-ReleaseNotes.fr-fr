@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="azure-active-directory-application-authentication-public-preview"></a>Authentification d'application Azure Active Directory (version préliminaire publique)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Nous ajoutons actuellement l'authentification d'application à Power BI Embedded. Cela permettra d'améliorer le déploiement, la sécurité et l'Application Lifecycle Management des applications Power BI Embedded. Actuellement, la création d'une application Power BI Embedded requiert la création d'un compte d'utilisateur principal, le stockage des informations d'identification de ce compte, puis l'utilisation de celles-ci dans le code d'application pour effectuer une connexion non-interactive à Power BI. Azure Active Directory offre une prise en charge spéciale de l'authentification des applications avec leur propre identité sans contexte d'utilisateur. Cette prise en charge, conçue pour l'authentification réservée aux applications, offre un contrôle et une sécurité supérieurs, implique moins de limitations et constitue l'approche recommandée. 
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="sla-management"></a>Gestion SLA
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Field Service a également activé la fonctionnalité de contrat de niveau de service (SLA) pour établir des contrats SLA pour les clients et renseigner les détails des contrats SLA dans les ordres de travail. Cela permet aux processus de planification de prendre en compte les engagements en fonction des contrats SLA.
 

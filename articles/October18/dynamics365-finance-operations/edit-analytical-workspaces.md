@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="edit-analytical-workspaces-in-the-client"></a>Modifier les espaces de travail analytiques dans le client
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Les utilisateurs finaux peuvent modifier eux-mêmes les espaces de travail analytiques prêts à l'emploi (y compris les rapports financiers) sans quitter le client ou recruter des développeurs. Cette fonctionnalité s'étend à tous les rapports financiers prêts à l'emploi ainsi qu'à tous les autres rapports dans les espaces de travail analytiques.
 

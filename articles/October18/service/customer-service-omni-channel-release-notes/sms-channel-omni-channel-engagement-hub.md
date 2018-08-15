@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="sms-channel"></a>Canal SMS
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 Le canal SMS est un mécanisme puissant permettant aux organisations d'atteindre leurs clients et d'interagir avec eux comme il se doit et en temps utile.
 

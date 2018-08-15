@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="resolution-of-multi-currency-cost-price-list-on-projects"></a>Résolution de la liste des prix de revient en multidevise sur des projets 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service résout les tarifs pour les taux de coût des projets en mettant en correspondance la devise de l'unité d'organisation propriétaire du projet avec la devise des tarifs. Dans le cas où des tarifs peuvent comporter des prix dans plusieurs devises, il doit y avoir des tarifs principaux avec des lignes de taux de coût dans plusieurs devises, et ces tarifs doivent être utilisés par tous les projets de façon globale. 
 

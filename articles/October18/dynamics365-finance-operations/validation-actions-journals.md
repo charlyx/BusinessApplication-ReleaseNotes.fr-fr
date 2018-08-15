@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="consistent-validation-actions"></a>Actions de validation cohérentes
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 La validation des journaux sera améliorée par une recherche de validations exactement identiques effectuées au moment de la validation.

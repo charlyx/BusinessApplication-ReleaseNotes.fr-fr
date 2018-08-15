@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="support-for-custom-messages"></a>Prise en charge de messages personnalisés
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les clients pourront personnaliser des messages pour n'importe quelle entité faisant partie d'une solution importée vers cette instance. Ce message personnalisé sera pris en charge pendant l'exécution d'Unified Interface
 

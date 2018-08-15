@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="onboarding-teams"></a>Équipes d'intégration
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les responsables de service peuvent définir les membres de leur équipe ou service pour rationaliser la génération d'états, la collaboration et le partage de contenu.
 

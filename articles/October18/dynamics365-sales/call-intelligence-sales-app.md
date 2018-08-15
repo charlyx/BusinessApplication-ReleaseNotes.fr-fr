@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="transform-inside-sales-using-ai-in-the-call-center"></a>Transformer les ventes en interne à l'aide de l'IA dans le centre d'appels
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 L'offre de Call Intelligence de Microsoft permet de bénéficier d'un meilleur accompagnement afin de dynamiser les taux de conversion des ventes. En connectant des systèmes d'enregistrement de téléphonie du centre d'appels à l'application, les responsables du centre d'appels peuvent générer des informations issues des conversations qui exploitent la valeur des actifs existants de l'organisation.

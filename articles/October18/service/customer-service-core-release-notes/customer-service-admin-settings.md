@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customer-service-admin-settings"></a>Paramètres d'administration de Customer Service 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 L'un des objectifs principaux des clients de Dynamics 365 est de déployer rapidement leurs processus d'entreprise. Le module Gestionnaire de services aide les responsables du service clientèle à automatiser différents processus, à améliorer le temps de réponse des agents et à optimiser la satisfaction des clients. Le Gestionnaire de services permet de configurer et de gérer des tâches de service clientèle (comme configurer des files d'attente publiques ou privées, définir des paramètres d'incidents parent-enfant, configurer des règles d'acheminement, configurer des règles de mise à jour et de création d'enregistrements automatiques et configurer des accords de niveau de service (SLA), etc).
 

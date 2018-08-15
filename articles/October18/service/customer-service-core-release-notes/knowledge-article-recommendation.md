@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="knowledge-article-recommendation"></a>Recommandation d'article de base de connaissances 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 Pour toutes les organisations de service clientèle, la gestion des connaissances est indispensable pour une meilleure expérience client et une productivité des agents supérieure.  Cette fonctionnalité s'appuie sur les [API Analyse de texte Microsoft](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) pour fournir recommandations d'articles de base de connaissances basées sur toutes les données des entités associées. Elle permet aux agents d'accéder plus rapidement aux articles de base de connaissances pertinents et contextuels afin de résoudre les incidents plus efficacement.
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="automatic-ledger-settlements"></a>Règlements comptables automatiques
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Des règles de règlement comptable peuvent être configurées pour régler automatiquement des écritures comptables selon les critères de l'utilisateur. Le traitement par lots sera ajouté de sorte que la tâche puisse être exécutée régulièrement.
 

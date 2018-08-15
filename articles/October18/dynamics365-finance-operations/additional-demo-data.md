@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="additional-demo-data"></a>Données de démonstration supplémentaires
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Finalisation d'entités de données et de packages de données pour permettre une gestion transparente et efficace des données de démonstration à des fins d'optimisation pour la meilleure expérience de vente et d'évaluation possible pour les prospects. Ces composants supplémentaires portent sur des scénarios de fabrication, de distribution et de ventes.
 

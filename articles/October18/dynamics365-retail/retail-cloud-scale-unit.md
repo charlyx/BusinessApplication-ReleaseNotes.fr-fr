@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="retail-cloud-scale-unit"></a>Unité d'échelle Cloud Retail (RCSU)
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les topologies de déploiement de Retail incluent désormais l'unité d'échelle Cloud Retail (RCSU), qui sépare le serveur Retail, le serveur Cloud POS, Commerce Runtime (CRT), et les composants de base de données des canaux du back office de base. Cela permet d'améliorer les performances de tous les aspects du système en distribuant les charges de travail spécifiques aux canaux en une unité d'échelle distincte. En outre, les composants des canaux peuvent être désormais entretenus de manière indépendante, ce qui permet de réduire les interruptions et d'offrir une meilleur coordination en fonction des besoins du back-office ou des canaux.
 

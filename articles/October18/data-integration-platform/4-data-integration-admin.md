@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enhanced-administrator-capabilities-for-data-integration"></a>Fonctionnalités administrateur améliorées pour l'intégration de données
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Principales demandes des clients dans la version d'octobre 2018.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-omni-channel-engagement-hub-october-18-release"></a>Présentation de la version d'octobre 2018 d'Omni-channel Engagement Hub 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
  
 Omni-channel Engagement Hub pour Dynamics 365 est un service basé sur le cloud qui étend la puissance de Dynamics 365 for Customer Service pour permettre aux clients de se connecter instantanément et de trouver des clients via de nouveaux canaux : conversation instantanée et SMS.  
 

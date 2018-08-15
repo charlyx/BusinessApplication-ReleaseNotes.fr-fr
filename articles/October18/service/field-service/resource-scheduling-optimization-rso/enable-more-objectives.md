@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="enable-more-objectives"></a>Activer plus d'objectifs 
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 -   Prendre en charge les ressources favorites en tant qu'objectif : Les entreprises pourront définir des ressources favorites pour répondre aux besoins et l'optimiseur pourra attribuer en priorité des réservations à ces ressources favorites tout en respectant d'autres contraintes et d'autres objectifs.
 -   Prendre en charge les compétences les plus ou le moins en adéquation en tant qu'objectif : Les différentes entreprises ont des objectifs différents en matière d'utilisation des compétences des ressources. Avec les compétences les plus en adéquation, les entreprises peuvent mieux répondre aux exigences du SLA et satisfaire les clients, tout en équilibrant le coût et l'efficacité avec des compétences moins en adéquation.

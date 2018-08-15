@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="emails-sent-from-the-guide-creator"></a>E-mails envoyés par le créateur de guide 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Pour une touche plus personnalisée, les courriers électroniques de bienvenue et ceux de notification envoyés aux nouveaux employés proviennent désormais directement du créateur de guide au lieu d'un compte de service Dynamics 365. 
 

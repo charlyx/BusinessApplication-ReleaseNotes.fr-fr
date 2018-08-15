@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="configure-a-unit-of-time-for-estimating-work-on-project-tasks"></a>Configurer une unité de temps pour estimer les efforts sur des tâches de projet
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service utilise l'*heure* comme seule unité de temps pour estimer les efforts sur des tâches de projet. Dans de nombreux pays, l'estimation est effectuée en « jours de travail ». Chaque pays définit le nombre d'heures dans une journée de travail typique. Par conséquent, selon la division qui est responsable de la livraison du projet, l'unité d'estimation du projet doit être définie par défaut sur le nombre d'heures d'une journée de travail de cette division. 
 

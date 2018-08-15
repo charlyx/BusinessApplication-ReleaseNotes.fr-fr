@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="embed-applications-on-sharepoint-pages-using-a-powerapps-web-part"></a>Intégrer des applications à des pages SharePoint à l'aide d'un composant WebPart PowerApps
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les créateurs de contenu dans SharePoint peuvent tirer parti de PowerApps dans leurs pages à l'aide d'un composant Web PowerApps. Ce composant fournit des scénarios de contenu plus riches aux utilisateurs. Les nouvelles options de thème donnent aux applications une apparence semblable à celle de SharePoint. Les autorisations de SharePoint se propagent à l'application, ce qui signifie que les créateurs n'ont pas besoin de gérer d'autorisations spéciales.
 

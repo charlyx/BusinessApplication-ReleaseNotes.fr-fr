@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="guide-backdating"></a>Antidatage de guide
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Créez des guides d'intégration pour les nouveaux employés dont la date de début est passée. 
 

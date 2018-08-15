@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-visuals-in-excel-public-preview"></a>Visuels personnalisés dans Excel (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les visuels personnalisés représentent la méthode classique pour personnaliser des visualisations de tiers intégrées dans les graphiques Excel dans Office et Power BI. Les visuels personnalisés pour Power BI fonctionnent également dans Office. Les développeurs peuvent soumettre un visuel personnalisé simple qui sera disponible pour Power BI et Excel dans chacun des stockages dédiés, ainsi que dans AppSource. Les utilisateurs d'Excel peuvent rechercher et importer des visuels personnalisés à partir du stockage Excel dans leur feuille Excel, par-dessus les données de la feuille.
 

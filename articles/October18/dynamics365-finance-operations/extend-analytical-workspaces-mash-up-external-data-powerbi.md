@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="extend-analytical-workspaces-by-mashing-up-external-data-with-powerbicom"></a>Étendre les espaces de travail analytiques en mélangeant des données externes avec PowerBI.com
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Alors que les changements des visuels d'état et de présentation peuvent être effectués dans le client, pour des scénarios d'extension comme mélanger des données externes ou créer des calculs, les utilisateurs avancés peuvent déployer l'espace de travail analytique dans leur propre abonnement à PowerBI.com.
 Ils peuvent exploiter la puissance de Power BI pour personnaliser des rapports, y compris utiliser l'application mobile Power BI et la fonctionnalité de Q&R Power BI.

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="formula-formatting-easier-to-read"></a>Mise en forme de formules plus facile à lire
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les améliorations apportées à l'éditeur de barre de formule offrent la possibilité de mettre en forme les formules, ce qui aide les créateurs d'applications à les lire et à les comprendre. À mesure que les créateurs d'applications créent des applications de gestion plus complexes pour leurs utilisateurs finaux, cette mise en forme permet à plusieurs créateurs d'applications de collaborer sur les applications.
 

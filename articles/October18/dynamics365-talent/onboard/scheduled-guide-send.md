@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="scheduled-guide-send"></a>Envoi d'un guide planifié
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Envoyez automatiquement et en un seul clic des guides aux nouveaux employés avant, pendant ou après leur date de début. Réduisez les contraintes des responsables et assurez-vous que chaque guide est envoyé.
 

@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="multi-resource-scheduling"></a>Planification multiressource
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Assemblez dynamiquement un groupe de ressources pour les faire converger simultanément lors de la planification intrajournalière. Les ressources peuvent être regroupées en équipe pour se rencontrer sur le site d'un client, collaborer à distance ou participer à des rendez-vous dans des installations.
 

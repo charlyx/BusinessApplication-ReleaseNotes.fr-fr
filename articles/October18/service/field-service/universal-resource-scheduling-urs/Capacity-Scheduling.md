@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="capacity-scheduling"></a>Planification de la capacité
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 
 

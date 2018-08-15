@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-and-view-related-flows-from-your-entity"></a>Créer et afficher les flux associés depuis l'entité
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Avec le support enrichi dans Microsoft Flow pour Common Data Service pour les applications, vous pouvez voir tous les flux qui font référence à une entité spécifique directement à partir de PowerApps. Vous pouvez également créer des flux pour les données stockées dans Common Data Service pour les applications.
 

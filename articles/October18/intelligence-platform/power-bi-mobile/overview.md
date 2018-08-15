@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-mobile"></a>Power BI Mobile
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Les applications mobiles Power BI permettent d’importer des données et des informations vers n'importe quel appareil (Windows, iOS, et Android) pour permettre aux utilisateurs professionnels d'accéder et d'afficher en toute sécurité des rapports et des tableaux de bord Power BI en direct.
 

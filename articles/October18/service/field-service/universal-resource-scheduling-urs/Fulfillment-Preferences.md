@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="fulfillment-preferences"></a>Préférences d'exécution
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Simplifiez l'expérience de vos développeurs et clients tout en réduisant le délai de réservation des rendez-vous.
 

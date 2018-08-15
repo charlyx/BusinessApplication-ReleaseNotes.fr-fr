@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #   <a name="date-effectivity-validation-on-price-lists"></a>Validation de la prise d'effet de date sur les tarifs
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 
 Grâce à cette fonctionnalité, les utilisateurs de Project Service évitent les erreurs dans la définition des prix par défaut. Ces erreurs pourraient être dues à plusieurs tarifs effectifs à une certaine date. Les clients de Project Service savent que ce produit permet d'associer plusieurs tarifs de projet à des devis, des contrats de projet, et à des unités d'organisation. Cela permet en effet de compenser les modifications de tarifs liées à l'inflation et représentées par des tarifs avec différentes dates effectives. 

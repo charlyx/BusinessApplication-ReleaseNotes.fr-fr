@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="facility-scheduling"></a>Planification de l'installation
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Il est possible de proposer un autre emplacement au fournisseur de services que celui du client.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-report-server"></a>Power BI Report Server
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Avec Power BI Report Server, les clients peuvent répondre aux exigences uniques en matière de déploiement et de gouvernance tout en profitant de rapports Power BI modernes. Dans la mise à jour d'octobre 2018 de Power BI Report Server, les clients pourront profiter des nombreuses fonctionnalités mises à disposition dans Power BI Desktop au cours des mois précédents, notamment l'extraction à l'aide de mesures et la mise en forme conditionnelle basée sur une autre colonne. 
 

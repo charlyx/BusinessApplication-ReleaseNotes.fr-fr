@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="mobile-shared-credentials-ios-and-android"></a>Informations d'identification partagées pour appareil mobile (iOS et Android)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Avec les informations d'identification partagées, les utilisateurs de l'application mobile Power BI (iOS et Android) peuvent se connecter sans difficulté avec les informations d'identification des applications Office déjà authentifiées.
 

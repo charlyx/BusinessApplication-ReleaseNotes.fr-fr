@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="azure-analysis-services"></a>Azure Analysis Services
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Azure Analysis Services fournit le moteur d'analyse éprouvé de SQL Server Analysis Services en tant que service hébergé entièrement géré. 
 

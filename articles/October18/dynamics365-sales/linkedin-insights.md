@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="build-intelligent-sales-applications-and-business-processes-powered-by-linkedin-insights"></a>Créer des applications de vente et des processus d'entreprise intelligents optimisés par des informations de LinkedIn
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Les applications Dynamics 365 optimisées par des informations de LinkedIn passent au niveau supérieur en combinant les **Contrôles de LinkedIn Sales Navigator**, modulaires et personnalisables, avec la puissance et la polyvalence des **Flux des processus d'entreprise Dynamics 365**. Tous les processus d'entreprise, y compris les scénarios de ventes, peuvent être créés ou améliorés pour proposer des informations de LinkedIn sur les personnes et les entreprises. Cela permet aux employés d'effectuer les procédures avec précision et rapidité, tout en faisant avancer les transactions commerciales et autres processus vers une conclusion réussie. Les informations comprennent :

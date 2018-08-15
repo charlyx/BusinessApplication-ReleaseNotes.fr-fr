@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a>Écosystème de développeurs et de connecteurs plus riche et plus unifié
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 L'un des aspects essentiels de l'intégration de données et de la suite des produits qu'elle prend en charge est la connectivité aux sources de données externes. Bien que nous continuions à investir dans un ensemble de sources de données de qualité professionnelle, de nombreux utilisateurs dépendent d'un nombre croissant de bases de données et de services autres que ce groupe. Pour nous assurer que nos utilisateurs puissent se connecter aux données dont ils ont besoin, nous continuons à investir dans nos points d'extensibilité dans l'ensemble de la plateforme.
 

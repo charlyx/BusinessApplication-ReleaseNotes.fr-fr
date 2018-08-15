@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>Catégorie de tarification des dépenses basées sur les unités pour l'installation, l'estimation et les chiffres réels 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Avec cette fonctionnalité, Project Service prend en charge un mode de tarification basé sur les unités pour chaque catégorie de dépenses. Cela autorise des scénarios comme ce qui suit :
 

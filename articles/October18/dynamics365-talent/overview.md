@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Talent
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La mise à jour d'octobre 2018 de Dynamics 365 for Talent comprend des fonctionnalités de solution de gestion des candidatures, une prise en charge de l'intégration dans les services et de nouvelles fonctionnalités de gestion de l'organisation, du personnel et des avantages. Cette toute dernière version permet aux partenaires de Dynamics d'exploiter le composant Talent et d'apporter des fonctionnalités supplémentaires au Common Data Service (CDS) pour les applications.
 

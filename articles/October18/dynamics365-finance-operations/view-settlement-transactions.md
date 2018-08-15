@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="productivity-to-view-settlement-transactions"></a>Productivité de l'affichage des transactions pour règlement
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Amélioration de la visualisation des règlements en affichant toutes les transactions associées à un règlement. Tenez à jour plusieurs onglets pour que les utilisateurs puissent consulter le contexte d'origine de la transaction, les transactions réglées et les N° document associés sur un formulaire unique. Cette amélioration permettra aux utilisateurs devant ouvrir plusieurs formulaires de consulter les informations corrélées plus facilement.

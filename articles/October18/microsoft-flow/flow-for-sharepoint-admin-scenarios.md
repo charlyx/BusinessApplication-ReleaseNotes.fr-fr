@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-for-sharepoint-admin-scenarios"></a>Scénarios d'administration de Flow pour SharePoint
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Comme l'illustre [cette idée](https://powerusers.microsoft.com/t5/Flow-Ideas/Approval-of-SharePoint-Site-getting-joined-with-a-Hub-Site/idi-p/122808), les propriétaires de sites seront invités à créer et à exécuter un processus d'approbation chaque fois qu'ils souhaiteront adhérer à un site hub dans leur client.  De plus, pour les organisations ayant désactivé la création de site en libre-service, les utilisateurs peuvent désormais demander qu'un site soit mis en service, ce qui envoie une demande aux administrateurs SharePoint avant la mise en service de celui-ci. 
 

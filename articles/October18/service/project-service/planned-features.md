@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 #  <a name="summary-of-whats-new-in-dynamics-365-for-project-service"></a>Résumé des nouveautés dans Dynamics 365 for Project Service
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | Fonctionnalité                                                                                                                                                                                                 | Type de version | Mois de la version cible |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------|

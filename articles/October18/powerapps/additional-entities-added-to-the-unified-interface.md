@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="entities-added-to-the-unified-interface"></a>Entités ajoutées à Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs finaux peuvent modifier et utiliser des types d'enregistrements tels que Utilisateurs, Équipes, Poste et Devise sur Unified Interface. 
 

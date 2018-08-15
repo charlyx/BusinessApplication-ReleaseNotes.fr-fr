@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="new-geographical-and-language-support"></a>Nouvelle prise en charge géographique et linguistique
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Pour la version d'octobre 2018, nous allons développer considérablement l'ensemble de langues et de zones géographiques où Dynamics 365 for Marketing est disponible et pris en charge.
 

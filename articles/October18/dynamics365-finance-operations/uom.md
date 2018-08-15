@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="unit-of-measure-conversion-for-variant"></a>Conversion d'unités de mesure de niveau variante
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Adoptée dans tout le système de gestion des entrepôts, cette fonctionnalité permettra la prise en charge de la configuration des conversions de dimensions physiques uniques et d'unités de mesure (UM) au niveau variante de produit. Actuellement, seuls quelques scénarios sont pris en charge.
 

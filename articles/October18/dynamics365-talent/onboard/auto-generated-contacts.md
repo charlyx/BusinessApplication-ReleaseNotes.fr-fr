@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="auto-generated-contacts"></a>Contacts générés automatiquement
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les cessionnaires et les conseillers sont désormais ajoutés automatiquement comme contacts dans la partie Contacts du guide d'intégration.
 

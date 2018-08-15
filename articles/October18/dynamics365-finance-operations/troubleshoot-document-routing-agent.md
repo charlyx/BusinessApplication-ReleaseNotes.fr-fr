@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="troubleshoot-document-routing-agent"></a>Résoudre les problèmes de l'agent d'acheminement de document
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 L'agent d'acheminement de document permet de gérer les tâches d'impression volumineuses envoyées aux imprimantes sur site. La résolution des problèmes d'impression est désormais plus simple. Les fonctionnalités de génération de rapports d'erreurs et de diagnostics volumineux permettent aux administrateurs informatiques de détecter et de résoudre les problèmes sans devoir contacter le support technique.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="dynamics-365-for-talent-onboard"></a>Dynamics 365 for Talent : Onboard
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Le composant Onboard est basé sur les commentaires client. Il dispose désormais de fonctionnalités de collaboration qui permettent à encore plus d'utilisateurs de créer et d'implémenter des expériences d'intégration. Il inclut désormais également des workflows de création de modèles pour permettre de déployer des mises à jour sur toutes les instances instanciées à partir du modèle.
 

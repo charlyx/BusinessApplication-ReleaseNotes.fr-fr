@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="linked-entities-public-preview"></a>Entités liées (version préliminaire publique) 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI permet de lier des entités d'un flux de données à un autre sans les dupliquer.
 Les entités liées peuvent être utilisées lors de la transformation, de l'enrichissement ou du calcul de nouvelles entités.

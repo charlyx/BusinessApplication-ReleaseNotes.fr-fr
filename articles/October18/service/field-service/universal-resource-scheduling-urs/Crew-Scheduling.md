@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="predefined-crews"></a>Équipes prédéfinies
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Il est possible de composer au préalable des groupes de ressources qui sont toujours ensemble pour la planification intrajournalière. La planification des équipes vous permet de définir un groupe de ressources prévu pour le même travail au cours d'une période. En général, une équipe se réunit le matin, partage un véhicule, et reste ensemble toute la journée pour accomplir les différentes tâches. Les sociétés de services qui requièrent généralement des équipes de ressources pour réaliser des tâches doivent souvent composer une équipe, un ensemble de ressources qui reste ensemble toute la journée.
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-analytics"></a>Analyses d'administration
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 À mesure que l'adoption de Microsoft Flow en entreprise se développe, les clients ont exprimé le besoin d'une plus grande visibilité sur l'utilisation que fait leur organisation de Microsoft Flow. Les administrateurs peuvent initialement être en mesure d'accéder à des analyses relatives aux exécutions, à l'utilisation, au partage, ainsi qu'à des informations sur les erreurs. Des visualisations de données supplémentaires seront ajoutées itérativement, notamment des connecteurs et des performances.
 

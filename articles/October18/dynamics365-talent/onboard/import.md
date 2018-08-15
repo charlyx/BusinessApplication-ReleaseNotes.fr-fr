@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="import"></a>Importation
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les responsables du recrutement peuvent importer du contenu d'autres guides ou modèles pour s'assurer que le contenu le plus récent est toujours proposé. Cela permet à leurs nouveaux employés de commencer à travailler rapidement et d'intégrer le contenu le plus récent de leur responsable ou chef de service.
 

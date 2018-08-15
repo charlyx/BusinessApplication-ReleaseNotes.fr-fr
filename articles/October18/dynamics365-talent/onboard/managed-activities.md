@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="managed-activities"></a>Activités gérées
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les chefs de service peuvent être mettre à jour de manière dynamique les modèles qu'ils ont distribué à leurs responsables pour s'assurer que le contenu et la stratégie les plus récents figurent dans guide d'intégration de chaque employé. Une expérience d'intégration cohérente pour chaque nouvel employé est indispensable pour le succès de celui-ci. En permettant aux chefs de service de gérer le contenu de façon centralisée, ils peuvent s'assurer d'un niveau de cohérence minimal pour chaque nouvel employé. 
 

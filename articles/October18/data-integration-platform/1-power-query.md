@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a>Transformation et intégration plus simples et plus efficaces des données d'entreprise avec Power Query et la plateforme d'intégration de données
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Nous avons simplifié les problèmes d'intégration de données courants dans les entreprises en innovant :
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a>Connecteur, kit de développement logiciel et API de gestion des flux
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Nos clients sont de plus en plus nombreux à rechercher de créateurs et des administrateurs pour automatiser les tâches d'Application Lifecycle Management, ainsi que pour automatiser les autorisations et la gouvernance des flux au sein d'un client. Dans le cadre de cette fonctionnalité, nous documenterons les API et les kits de développement logiciel permettant aux organisations de générer des outils supplémentaires pour rationaliser leurs processus.  Nous allons également développer notre connecteur de gestion Flow existant, ce qui permettra aux organisations d'automatiser leurs opérations informatiques via Microsoft Flow.
 

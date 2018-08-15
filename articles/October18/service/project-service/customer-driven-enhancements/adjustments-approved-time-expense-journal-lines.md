@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a>Modifications des lignes de journal, des dépenses et des périodes approuvées 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Cette fonctionnalité offre aux administrateurs de projet la possibilité très demandée de modifier les saisies d'heure et de dépense approuvées. La plupart des entreprises basées sur des projets configurent des codes temporaires pour les projets, les tâches et d'autres attributs comme des catégories de travail et demandent aux consultants e consigner les heures par rapport à ces références intermédiaires jusqu'à ce que les codes permanents soient définis dans le système. 
 

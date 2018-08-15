@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="empower-citizen-developers"></a>Responsabiliser les développeurs citoyens
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 À chaque fois qu'un flux échoue, un processus d'entreprise important risque de ne pas se terminer. C'est pourquoi pour que Flow traite les scénarios client les plus rigoureux et les plus complexes, nous avons ajouté de nombreuses fonctionnalités qui permettent aux développeurs citoyens de générer et de déployer des flux plus facilement et de manière plus fiable. 
 

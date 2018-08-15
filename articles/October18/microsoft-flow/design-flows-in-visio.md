@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="design-flows-in-visio"></a>Concevoir des flux dans Visio
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Visio permet aux entreprises de capturer leurs processus d'entreprise avec ses fonctionnalités de modélisation riches. Toute personne qui crée des organigrammes ou des workflows SharePoint peut maintenant utiliser Visio pour concevoir des workflows Microsoft Flow. Vous pouvez utiliser les fonctionnalités de commentaires et de partage de Visio pour collaborer avec plusieurs parties prenantes et obtenir un workflow complet en peu de temps. Comme demandé [ici](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269), vous pouvez publier le workflow dans Microsoft Flow, puis fournir des paramètres pour l'activer.
 

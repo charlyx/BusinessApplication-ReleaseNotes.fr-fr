@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #   <a name="support-for-multiple-time-units-on-a-single-price-list"></a>Prise en charge de plusieurs unités de temps sur un tarif unique
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service prend en charge la tarification de la durée d'une ressource. Les utilisateurs peuvent choisir de configurer des prix à l'heure, à la journée ou toute autre unité de temps. Toutefois, l'unité du temps est décidée dans l'en-tête des tarifs et ne peuvent pas être modifiée sur les lignes de paramétrage de prix individuelles de la durée de la ressource. 
 

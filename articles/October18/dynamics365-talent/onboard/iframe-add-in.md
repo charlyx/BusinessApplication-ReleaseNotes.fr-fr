@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="iframe-add-in"></a>Complément iFrame 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Nouveau complément permettant d'inclure d'autres sites web ou formulaires Office à un guide d'intégration. Ce complément est utile pour intégrer des questionnaires ou des enquêtes.
 

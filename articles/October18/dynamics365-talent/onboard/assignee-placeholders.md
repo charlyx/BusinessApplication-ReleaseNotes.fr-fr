@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="assignee-placeholders"></a>Espaces réservés aux destinataires
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les modèles de niveau de service sont aussi génériques que possible pour permettre une réutilisation optimale. Par exemple, les dates d'échéance sont défini en fonction de la date de début du nouvel employé (par exemple, deux semaines après date de début). Les destinataires peuvent également être généralisés de la même façon en permettant que les tâches soient attribuées à un espace réservé à mapper au moment de l'exécution.
 

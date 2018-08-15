@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="additional-report-url-parameter-support"></a>Prise en charge du paramètre d'URL de rapport supplémentaire
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Lors de l'utilisation des paramètres d'URL de rapport, vous pourrez définir des filtres pour les colonnes de date, utiliser de nouveaux opérateurs (inférieur à, supérieur à, inférieur ou égal à, supérieur ou égal à) et filtrer plusieurs valeurs de champ.
 

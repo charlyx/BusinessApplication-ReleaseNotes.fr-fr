@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="bulk-update-guides"></a>Guides de mise à jour en bloc
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Les responsables peuvent effectuer des mises à jour en bloc des guides déjà envoyés par le biais de mises à jour du modèle d'origine.
 

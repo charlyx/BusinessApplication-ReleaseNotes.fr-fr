@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-request-sign-off"></a>Validation de demande OneDrive Entreprise
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Grâce à un volet de lancement de flux intégrée, les utilisateurs pourront créer et exécuter un flux prêt à l'emploi pour envoyer des demandes de validation à tous les utilisateurs de leur client accompagnées d'un message. Une fois que l'approbateur aura répondu, l'expéditeur recevra un courrier électronique de confirmation contenant des commentaires de l'approbateur. 
 

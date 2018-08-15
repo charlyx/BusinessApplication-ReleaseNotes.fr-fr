@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="self-service-portal-diagnostics"></a>Diagnostics de portail en libre-service
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 Le portail Dynamics 365 permet aux organisations de créer des sites web de manière simple et efficace. Dans le cadre de notre investissement visant à améliorer la capacité de prise en charge du portail Dynamics 365, nous nous concentrons pour obtenir de meilleurs diagnostics et fournir à nos personnalisateurs la possibilité de résoudre les problèmes eux-mêmes à l'aide de fonctionnalités de diagnostic en libre-service.
 

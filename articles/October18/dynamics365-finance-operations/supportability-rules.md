@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="supportability-rules"></a>Règles de prise en charge
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Des règles supplémentaires permettant d'identifier et d'ajuster les options d'installation ou de configuration non optimales ont été ajoutées au système. Elles incluent, par exemple, la suppression des conditions de livraison n'ayant jamais été utilisées, la suppression des conditions de paiement n'ayant jamais été utilisées et le nettoyage périodique des accords commerciaux de vente et d'achat sur les prix et les remises expirés ou jamais utilisés.
 

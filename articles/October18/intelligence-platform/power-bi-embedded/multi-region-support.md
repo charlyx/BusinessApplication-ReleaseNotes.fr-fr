@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="multi-region-support-for-power-bi-embedded-public-preview"></a>Prise en charge multirégion pour Power BI Embedded (version préliminaire publique) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Les clients Power BI Embedded peuvent acheter la capacité dans plusieurs régions, y compris dans des régions autres que celle où leur client Power BI local réside. Cette fonctionnalité permet aux clients de contrôles l'emplacement des données, dans la mesure où ils peuvent attribuer des espaces de travail et toutes les données qu'ils contiennent à une région donnée, ce qui garantit que les données restent dans la région.
 

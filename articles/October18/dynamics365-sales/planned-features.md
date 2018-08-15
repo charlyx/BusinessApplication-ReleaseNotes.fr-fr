@@ -22,7 +22,7 @@ ms.lasthandoff: 07/18/2018
 
 Cette section répertorie les fonctionnalités qui seront lancées entre octobre 2018 et mars 2019 dans les applications Dynamics 365 for Sales et Dynamics 365 AI for Sales. 
 
-[!include[banner](../../includes/banner.md)]
+
 
 | Fonctionnalité                                                              | Type de version   | Mois de la version cible |
 |----------------------------------------------------------------------|----------------|----------------------|

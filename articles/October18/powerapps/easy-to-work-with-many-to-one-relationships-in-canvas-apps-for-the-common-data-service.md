@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a>Utilisation simple des relations plusieurs-à-une dans des applications de canevas pour Common Data Service pour les applications
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 L'utilisation des données relationnelles est essentielle pour de nombreuses applications de gestion. Il peut en effet être fastidieux d'écrire des requêtes pour récupérer les informations requises, joindre des clés étrangères, et contrôler la prévision.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>Disponibilité du contrôle de l'expérience utilisateur sur Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs finaux (nouveaux ou existants) peuvent accéder aux principales commandes pendant l'exécution d'Unified Interface. Les administrateurs peuvent, au niveau de l'organisation, désactiver ou activer ces expériences pour leurs utilisateurs. 
 

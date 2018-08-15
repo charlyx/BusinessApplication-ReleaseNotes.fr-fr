@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enhanced-performance-and-scalability"></a>Performances et évolutivité améliorées
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Des investissements ont été effectués pour identifier et améliorer les requêtes s'exécutant lentement dans les domaines suivants : transactions de vente, commandes client et historiques des achats, création de commande client, validation et catalogue virtuel.
 

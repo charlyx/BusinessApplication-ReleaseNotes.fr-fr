@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="xmla-endpoint-for-third-party-client-connectivity-and-lifecycle-management-public-preview"></a>Point de terminaison XMLA pour la connectivité client et la gestion de cycle de vie tierces (version préliminaire publique)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Grâce à la prise en charge du protocole XMLA pour les jeux de données du service Power BI, les clients bénéficieront d'une flexibilité supérieure pour fournir et gérer leurs déploiements BI. XMLA permet la connectivité à des jeux de données Power BI d'applications tierces. XMLA permet également à l'accès par programmation pour gérer et mettre à jour des jeux de données à partir des scripts ou des applications que vous écrivez. Du fait que XMLA est le même protocole que celui utilisé pour gérer SQL Server Analysis Services et Azure Analysis Services, différents outils Microsoft et tiers de gestion du cycle de vie, d'opérations et gestion peuvent être utile pour les jeux de données Power BI.
 

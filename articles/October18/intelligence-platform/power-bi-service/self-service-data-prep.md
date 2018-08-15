@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="self-service-data-prep-for-big-data"></a>Préparation de données en libre-service pour le big data  
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 -   **Préparation de données en libre-service pour le big data** : Nous développons la préparation des données en libre-service dans Power BI avec de nouvelles fonctionnalités pour permettre aux analystes d'entreprise d'extraire des informations du big data. À l'aide du Power Query déjà familier à des millions d'utilisateurs de Power BI Desktop et d'Excel, les analystes d'entreprise peuvent ingérer, transformer, intégrer et enrichir le big data avec Power BI, notamment avec des données provenant d'un ensemble de plus en plus important de sources de données, à la fois sur le cloud et en local, comme Dynamics 365, Salesforce, Azure SQL Data Warehouse, Excel et SharePoint. Les utilisateurs peuvent directement mapper des données aux entités connues, modifier et étendre les entités existantes, ou créer des entités personnalisées, tout cela dans Power BI.
 

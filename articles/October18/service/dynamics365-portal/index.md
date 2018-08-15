@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-portal-october-18-release"></a>Présentation de la version d'octobre 2018 du portail Dynamics 365
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 Le portail Dynamics 365 permet aux organisations d'étendre facilement plusieurs entités, fonctionnalités et fonctions de Dynamics 365 vers des personnes externes comme des clients et des partenaires, etc. 
 

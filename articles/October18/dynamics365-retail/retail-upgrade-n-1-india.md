@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-upgrade-and-n-1-for-india"></a>Prise en charge de la mise à niveau et de la version N-1 pour l'Inde
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
+
 
 Les clients Microsoft Dynamics AX 2012 R3 en Inde peuvent désormais mettre à niveau leurs solutions Retail vers Dynamics 365 for Retail. En outre, ces clients peuvent bénéficier du support technique de la version N-1 permettant aux commerces exécutant AX 2012 R3 POS d'utiliser Retail Siège sur Dynamics 365 for Retail après la mise à niveau.
 

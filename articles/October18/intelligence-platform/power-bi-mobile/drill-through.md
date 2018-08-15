@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="drillthrough"></a>Extraction
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Cette fonctionnalité permet aux utilisateurs professionnels de procéder à une extraction vers une autre page de rapport, avec un contexte de filtre correspondant, pour obtenir des informations détaillées supplémentaires. 
 

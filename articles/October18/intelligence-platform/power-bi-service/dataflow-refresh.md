@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dataflow-refresh-public-preview"></a>Actualisation des flux de données (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI va prendre en charge les fonctionnalités d'actualisation des flux de données avancées, notamment l'actualisation incrémentielle des flux de données, pour rationaliser et accélérer le processus d'actualisation des flux de données et prendre en charge l'ingestion d'ensembles de données plus grands. Nécessite Power BI Premium.
 

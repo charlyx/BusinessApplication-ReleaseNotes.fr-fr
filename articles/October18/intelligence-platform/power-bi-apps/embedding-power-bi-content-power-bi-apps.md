@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="embedding-power-bi-content-from-power-bi-apps"></a>Intégration de contenu Power BI à partir d'applications Power BI
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Il est désormais possible d'inclure des rapports et des visuels à partir des applications Power BI aux autres services et applications commeSharePoint Online, Microsoft Teams et Dynamics 365. 
 

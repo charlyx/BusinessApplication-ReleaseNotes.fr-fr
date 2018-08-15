@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="performance-improvements"></a>Améliorations des performances
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Nous allons introduire des temps de chargement de visuels personnalisés, simples et multiples, afin qu'ils figurent dans le même ordre d'importance que les visuels principaux.
 

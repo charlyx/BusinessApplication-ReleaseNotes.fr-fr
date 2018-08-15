@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="change-cash-discounts"></a>Modifier les escomptes de règlement
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Lorsqu'un utilisateur modifie une date d'échéance ou une date de base dans l'écran des transactions client ou fournisseur, il peut être invité à mettre à jour la date d'escompte. La date d'échéance et la date de base sont ajoutées dans l'écran des transactions et un paramètre lance une invite indiquant de changer la date d'escompte lorsque la date de base ou la date d'échéance est modifiée.

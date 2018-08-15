@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="suggest-similar-cases"></a>Suggérer des incidents similaires  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 La résolution d'un problème de service clientèle au cours du premier contact et dans un délai minimal aide les organisations à obtenir une meilleure satisfaction client (CSAT) et des coûts d'opérations réduits.  Généralement, dans une organisation de service clientèle, les agents du service clientèle expérimentés ou les experts spécialisés résolvent les problèmes plus rapidement en fonction des connaissances ou de l'expérience acquise pendant une période de résolution de problèmes similaires. Si des agents traitent un incident étranger à leurs domaines de compétences, le transfert de l'incident à un agent spécialisé ou la consultation d'un expert spécialisé améliore l'effort client et le délai de traitement des appels, ce qui se traduit par une meilleure CSAT.  
 

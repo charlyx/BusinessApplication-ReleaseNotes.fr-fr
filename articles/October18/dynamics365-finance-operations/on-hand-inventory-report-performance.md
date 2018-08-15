@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="on-hand-inventory-report-performance"></a>Performances de l'état sur le stock disponible
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Les clients disposant de volumes de produits et de transactions importants rencontrent des difficultés à fournir rapidement des informations de stock disponible, en raison de la durée du traitement en temps réel de la conception actuelle. Le remaniement de l'approche de calcul et de génération d'états sur le stock disponible offre une expérience bien plus réactive.
 

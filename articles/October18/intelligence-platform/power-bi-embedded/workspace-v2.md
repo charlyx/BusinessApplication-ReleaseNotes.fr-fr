@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="upgraded-workspaces-public-preview"></a>Espaces de travail mis à jour (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Supprimez les limitations de l'espace de travail en le dissociant des groupes Office 365 et en le partageant via des groupes de sécurité. Nous allons ajouter la prise en charge de toutes les API existantes pour utiliser les espaces de travail, ainsi que les groupes à des fins de rétrocompatibilité. Ce travail rendra la transition plus simple et plus transparente pour les développeurs.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft Social Engagement
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Microsoft Social Engagement vous aide à profiter de la puissance du Web (réseaux sociaux, recherche et navigation) afin d'obtenir des résultats professionnels. Avec l'intelligence du Web à portée de main au sein de l'organisation, des équipes de vente, des agents du service client, des professionnels marketing de la marque, les employés peuvent recueillir des analyses, rencontrer des clients et des prospects sur le canal de leur choix et se forger une présence sociale de confiance.
 

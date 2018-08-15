@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="workspaces-with-azure-ad-groups-public-preview"></a>Espaces de travail avec groupes Azure AD (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Les espaces de travail Power BI ont leurs propres rôles et autorisations, distincts des groupes Office 365, et qui permettent de contrôler la gestion des espaces de travail.
 Les fonctionnalités comprennent l'attribution de rôles d'espace de travail aux utilisateurs individuels, aux groupes de sécurité Azure Active Directory (Azure AD) et aux groupes modernes Office 365. En outre, la gouvernance des espaces de travail Power BI est distincte de la gouvernance des groupes modernes Office 365.

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="get-introduced-to-prospects-with-the-who-knows-whom-connection-graph"></a>Présentation à des prospects grâce au graphique de relations Qui connaît qui
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 L'objectif du professionnel de la vente consiste à obtenir gagner plus de contrats pour atteindre ou dépasser son quota.  Avec Qui connaît qui, les commerciaux peuvent facilement identifier les collègues de leur organisation pouvant les présenter à des prospects ou à des contacts.  Les présentations chaleureuses augmentent considérablement le taux de réponse et l'intérêt.  Ces présentations chaleureuses augmentent également les performances de ventes visant à améliorer les taux de conversion de prospect en opportunité, afin de conclure la transaction plus tard.  Qui connaît qui permet aux commerciaux d'augmenter la conversion des ventes en s'appuyant sur leur réseau de leur société afin d'être présentés à des prospects et de convertir un appel impersonnel en un engagement chaleureux.

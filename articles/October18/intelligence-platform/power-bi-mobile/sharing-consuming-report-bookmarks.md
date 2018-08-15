@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="consuming-reports-with-shared-filters-bookmarks"></a>Consommation de rapports avec des filtres partagés (signets)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Le partage d'informations nécessite parfois que les utilisateurs affichent et partagent des données de rapport filtrées d'une manière révélant les informations. Actuellement, les utilisateurs partager uniquement des rapports avec un état par défaut défini par l'auteur du rapport. Avec les signets, les utilisateurs peuvent partager un rapport filtré (et/ou fractionné) dans un autre état, ce qui permet une meilleure collaboration sur les données nécessitant l'attention de l'utilisateur. 
 

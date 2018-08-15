@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="payment-processing"></a>Traitement du paiement 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les flux de traitement du paiement et les points de contact d'intégration ont été remaniés pour augmenter la fiabilité et la stabilité entre les applications intégrées (Retail Modern POS et la station matérielle) et les appareils de paiement. 
 

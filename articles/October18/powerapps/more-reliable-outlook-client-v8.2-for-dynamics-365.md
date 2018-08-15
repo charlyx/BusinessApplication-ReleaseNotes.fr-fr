@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a>Client Outlook v8.2 plus fiable pour Dynamics 365
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 La nouvelle version de Dynamics 365 for Outlook comportera des améliorations des performances visant à résoudre les problèmes de démarrage avec blocage d'Outlook liés à l'actualisation du cache des métadonnées.
 

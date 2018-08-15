@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="ecmascript-support"></a>Prise en charge d'ECMAScript
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 La version d'octobre 2018 offre une prise en charge de ECMAScript 2015 SU06 dans les outils de développement, cela va permettre une meilleure prise en charge des packages externes.
 

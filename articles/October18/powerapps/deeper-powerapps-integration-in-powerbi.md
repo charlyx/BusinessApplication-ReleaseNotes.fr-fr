@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="deeper-powerapps-integration-in-power-bi"></a>Intégration PowerApps approfondie dans Power BI
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les créateurs de BI peuvent désormais consommer PowerApps dans leurs états Power BI dans les solutions de production. Les créateurs de rapports peuvent désormais actualiser leurs états Power BI depuis PowerApps ce qui déverrouille de nombreuses autres moyens de travailler de manière transactionnelle avec des entrepôts de données au sein des états.  Les créateurs de BI disposent également d'options de partage simplifiées avec leurs applications et leurs rapports.
 

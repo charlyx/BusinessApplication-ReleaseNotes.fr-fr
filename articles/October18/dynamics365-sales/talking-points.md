@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="never-forget-that-detail-about-your-stakeholder-with-talking-points"></a>N'oubliez jamais ces informations détaillées concernant votre partie prenante avec les points de discussion
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Les commerciaux interagissent avec de nombreuses personnes sur une longue période. Se souvenir de chaque détail sur chaque personne avec qui ils interagissent n'est pas toujours possible. Les points de discussion permettent aux commerciaux très occupés de regarder leurs communications passées pour extraire des détails clés sur le client ou le contact concernant des sujets tels que le sport, la santé, la famille et les divertissements. Ces sujets permettent aux commerciaux de commencer une conversation ou d'établir une relation avec des clients avec lesquels ils n'ont pas parlé récemment ou qu'ils n'ont jamais rencontrés en personne. 

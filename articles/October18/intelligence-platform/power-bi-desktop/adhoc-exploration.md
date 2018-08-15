@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="ad-hoc-exploration-public-preview"></a>Exploration ad hoc (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 De nombreux consommateurs de rapports et de tableau de bord ont des questions de suivi concernant les visuels qui s'affichent. Ils doivent consulter rapidement un graphique sur un axe différent, dans un autre format ou avec un nouveau filtre appliqué. La surface d'exploration ad hoc offre à ces utilisateurs la flexibilité nécessaire pour répondre à ces questions sans les accabler avec une expérience de création de rapport circonstancié, et sans avoir à modifier les autorisations d'accès au rapport. 
 

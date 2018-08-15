@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="unified-interface-form-optimizations"></a>Optimisations du formulaire Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les améliorations apportées à la densité des données dans les formulaires et les grilles permettent aux utilisateurs d'afficher davantage de données sans devoir les faire défiler. Ces améliorations sont utiles pour les formulaires d'entité comportant de nombreux champs et sections.
 

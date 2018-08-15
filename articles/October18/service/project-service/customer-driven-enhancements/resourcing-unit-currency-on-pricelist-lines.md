@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="resourcing-unit-currency-on-role-price-lines-for-cost"></a>Devise de l'unité d'allocation des ressources sur les lignes de prix du rôle pour le coût 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service permet uniquement une devise par tarifs, qui est spécifiée dans l'en-tête des tarifs. La ligne de tarifs de la tarification de la ressource dispose de la même devise spécifiée dans l'en-tête des tarifs. Toutefois, pour les sociétés de service de projet internationales ayant une tarification centralisée pour toutes leurs divisions réparties dans différents pays, cela peut nécessiter la configuration de nombreuses données pour lesquelles elles devront définir séparément des tarifs dans chaque devise dans laquelle elles vendent ou engagent des coûts. 
 

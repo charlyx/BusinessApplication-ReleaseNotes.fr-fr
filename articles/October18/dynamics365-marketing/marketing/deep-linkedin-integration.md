@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="deep-linkedin-integration"></a>Intégration LinkedIn approfondie
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Dynamics 365 for Marketing fournit une intégration LinkedIn approfondie pour générer des prospects à partir des relations et des réseaux professionnels. Les nouvelles fonctionnalités d'intégration permettent d'exécuter des parcours en spécifiant de cibler LinkedIn et d'exploiter les interactions qui en résultent pour l'orchestration, la notation et la segmentation.
 

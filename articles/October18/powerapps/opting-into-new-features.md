@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="opting-into-new-features"></a>Accepter de nouvelles fonctionnalités
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les créateurs d'application peuvent choisir d'accepter de nouvelles fonctionnalités dans leurs applications actuelles lorsqu'ils sont prêts. De nouvelles fonctionnalités sont disponibles pendant une durée limitée avant qu'elles soient activées automatiquement dans toutes les applications. Cela permet aux créateurs d'application d'essayer les fonctionnalités dans des applications existantes et d'apporter les modifications requises avant qu'elles soient déployées mondialement. Les nouvelles applications créées tireront parti de toute les nouvelles fonctionnalités disponibles.
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="export-to-excel"></a>Exporter vers Excel
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 Les responsables du recrutement peuvent exporter tous les guides qu'ils créent ou auxquels ils contribuent dans un fichier Excel qui peut être utilisé pour la génération d'états et Power BI.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="formula-bar-enhanced"></a>Barre de formule améliorée 
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les applications de canevas fonctionnent en composant des fonctions, telles que Filtrer et trier, pour former des formules puissantes. Le résultat est souvent intégré directement à un contrôle, tel qu'une galerie, qui peut l'interpréter davantage.
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a>Générer des applications basées sur des modèles de qualité supérieure avec le vérificateur de solution
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Le vérificateur de solution favorise les applications basées sur des modèles de qualité supérieure en aidant les créateurs d'application à suivre les recommandations lorsqu'ils personnalisent et étendent la plateforme PowerApps. Lors de l'exécution du vérificateur, les créateurs d'application peuvent répondre à des questions comme :
 

@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-the-service-october-18-release"></a>Présentation de la version d'octobre 2018 de Service 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 La version d'octobre 2018 comprend de nouveaux investissements dans le secteur des services, notamment Customer Service, Field Service et le portail Dynamics 365.
 

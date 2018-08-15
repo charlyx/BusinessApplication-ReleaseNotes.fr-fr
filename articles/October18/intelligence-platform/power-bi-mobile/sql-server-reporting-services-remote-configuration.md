@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="remote-configuration-for-power-bi-report-server"></a>Configuration à distance de Power BI Report Server
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 La définition manuelle des détails de connexion de Power BI Report Server n'est pas insignifiante pour la plupart des professionnels. Avec cette fonctionnalité, les administrateurs informatiques qui gèrent des appareils mobiles dans l'organisation, ou les administrateurs Power BI qui gèrent des applications Power BI, pourront définir des configurations Power BI Report Server dans leur outil organisationnel Enterprise Mobility Management (EMM). 
 

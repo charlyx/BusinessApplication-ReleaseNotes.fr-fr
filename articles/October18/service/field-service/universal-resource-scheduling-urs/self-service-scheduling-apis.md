@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="self-service-scheduling-apis"></a>API de planification en libre-service
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Les API de planification en libre-service d'Universal Resource Scheduling permettent aux organisations d'intégrer un widget de planification à leur propre application web, ce qui permet à leurs clients de rechercher de la disponibilité et de réserver des rendez-vous. Bien que nous ayons pour objectif de créer le widget lui-même, notre intérêt principal consiste à diffuser nos API dans les écosystèmes de nos partenaires et clients, afin qu'ils puissent créer leurs propres visuels.
 

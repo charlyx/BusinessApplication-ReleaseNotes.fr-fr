@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="auto-save"></a>Enregistrement automatique
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Ne vous préoccupez plus d'enregistrer ou de perdre à nouveau votre travail. Vos guides et modèles d'intégration seront enregistrés automatiquement à mesure que vous travaillez.
 

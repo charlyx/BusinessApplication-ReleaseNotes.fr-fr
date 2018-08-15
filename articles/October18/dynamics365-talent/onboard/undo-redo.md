@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="undo-redo"></a>Annuler/Rétablir
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 
 Annulez et rétablissez rapidement vos modifications lorsque vous utilisez vos modèles ou vos guides. Réduisez les contraintes pour les responsables en leur facilitant la correction des erreurs.

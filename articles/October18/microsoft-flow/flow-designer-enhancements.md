@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-designer-enhancements"></a>Améliorations du concepteur de flux
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Un nouvel éditeur de texte basé sur le HTML vous aide à rédiger des courriers électroniques basés sur le HTML, du contenu HTML pour vos publications Yammer, vos tweets, etc.
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 08/08/2018
 
 # <a name="videos-in-marketing-content"></a>Vidéos dans du contenu marketing
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 La préférences grandissante du public pour du contenu audio/visuel à la placé du contenu écrit a poussé les responsables marketing à commencer à intégrer des vidéos dans leurs stratégies de campagne et de rayonnement. Dynamics 365 for Marketing ouvre la voie pour que du contenu vidéo soit ajouté aux pages et aux courriers électroniques marketing.
 

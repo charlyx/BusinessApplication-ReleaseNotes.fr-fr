@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="template-update-notification-email"></a>Courrier électronique de notification de mise à jour de modèle
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 Les créateurs de guide seront informés automatiquement par courrier électronique de la mise à jour d'un modèle qu'ils utilisent. Les destinataires recevront un courrier électronique de synthèse, détaillant les modifications apportées au modèle. 
 

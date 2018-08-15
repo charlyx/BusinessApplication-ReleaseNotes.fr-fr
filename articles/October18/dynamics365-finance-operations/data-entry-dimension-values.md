@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="ease-of-data-entry-for-dimension-values"></a>Faciliter la saisie des données pour les valeurs de dimension
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Lorsqu'une dimension a une entité de sauvegarde comme un client ou un fournisseur, sa valeur sera définie par défaut sur celle entrée dans le formulaire associé. Par exemple, la dimension du client est automatiquement définie sur la valeur utilisée lorsqu'un client est créé. De nouvelles options sont disponibles pour activer une ou plusieurs dimensions à définir par défaut. Par exemple, une unité commerciale peut être définie par défaut lorsque le centre de coût est entré.
 

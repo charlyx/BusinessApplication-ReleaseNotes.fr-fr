@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="improved-omni-channel-order-processing"></a>Traitement des commandes omnicanal amélioré
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Les utilisateurs de Retail Modern POS (MPOS) et de Cloud POS peuvent offrir un service clientèle optimisé et plus efficace en renvoyant des produits de plusieurs transactions lors des retours par reçu ou avec l'historique des achats. Auparavant, cela nécessitait une autre transaction de retour pour chaque vente d'origine, ce qui augmentait le nombre d'étapes et l'heure de départ.
 

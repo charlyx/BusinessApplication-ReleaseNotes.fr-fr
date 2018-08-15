@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="create-groups-of-requirements-for-scheduling"></a>Créer des groupes de besoins pour la planification
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 Vous pouvez créer des groupes de besoins composés de plusieurs besoins et planifier des équipes de ressources. Pour n'importe quel groupe de besoins, il est possible de définir des besoins en ressources à l'aide d'un contrôle de sous-grille qui permet d'organiser des besoins de manière hiérarchique et avec toutes les conditions ou sans aucune condition.
 

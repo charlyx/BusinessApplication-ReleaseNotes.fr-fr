@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a>Microsoft Dynamics 365 for Finance and Operations - Services de réglementation, service de configuration 
 
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Le Service de configuration de Microsoft Dynamics 365 for Finance and Operations - Services de réglementation est une évolution de l'outil de configuration réglementaire (également connu sous le nom d'États électroniques). Le Service de configuration permet aux partenaires et aux clients utilisant plusieurs versions de Microsoft Dynamics 365 for Finance and Operations et des versions antérieures de Microsoft Dynamics AX (par exemple AX 2012 et AX 2009, pour l'Inde uniquement) de n'avoir à configurer les fonctionnalités de réglementation qu'une seule fois à l'aide d'un service commun. Le Service de configuration cible une approche de programmation sans code, qui permettrait aux utilisateurs de configurer des obligations légales qui changent fréquemment pour les états de réglementation, les factures électroniques, les formats de paiement, et les règles de taxe plutôt que d'écrire du code dans des applications multiples. 
 

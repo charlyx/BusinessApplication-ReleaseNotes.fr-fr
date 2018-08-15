@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="extensible-resource-availability"></a>Disponibilité des ressources extensible
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Dans le cadre d'une recherche avec l'Assistant Planifier, les clients peuvent dorénavant choisir s'ils souhaitent supprimer la disponibilité d'une ressource avant de recevoir les résultats de la recherche. Par exemple, les clients ayant des heures de fermeture différentes selon les bureaux peuvent interroger un tableau qui contient les unités d'organisation et les jours de fermeture, puis supprimer la disponibilité des ressources pendant les heures de fermeture. 
 

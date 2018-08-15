@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="advanced-relationships-on-entities"></a>Relations avancées sur les entités
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dans PowerApps, non seulement les créateurs d'application peuvent créer des relations une-à-plusieurs, plusieurs-à-une et plusieurs-à-plusieurs, mais ils peuvent également activer des hiérarchies et configurer un mappage entre les entités pour aider à définir des valeurs par défaut pour les champs lors de l'association des enregistrements entre eux. Les paramètres plus avancés nécessitent l'explorateur de solutions.
 

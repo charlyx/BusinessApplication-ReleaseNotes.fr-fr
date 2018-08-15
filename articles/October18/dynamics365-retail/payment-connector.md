@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="payment-connector"></a>Connecteur de paiement
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Un nouveau connecteur de paiement « prêt à l'emploi » omnicanal pour les services de paiement d'Adyen est disponible, offrant le traitement du paiement « carte présente » de crédit/débit (EMV) pour Retail Modern POS et Cloud POS (via la station matérielle), et de traitement du paiement « carte non présente » pour le commerce électronique/centre d'appels. Le jeton omnicanal partagé active des flux transparents tels que l'achat en ligne et le retrait ou le retour en magasin.
 

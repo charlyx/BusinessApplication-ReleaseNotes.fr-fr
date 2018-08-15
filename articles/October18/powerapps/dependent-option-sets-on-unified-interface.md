@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dependent-option-sets-on-unified-interface"></a>Groupes d'options dépendants sur Unified Interface
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 En utilisant le contrôle des groupes d'options dépendants sur Unified Interface, vous pouvez permettre aux utilisateurs d'entrer des données plus rapidement et plus précisément.
 
