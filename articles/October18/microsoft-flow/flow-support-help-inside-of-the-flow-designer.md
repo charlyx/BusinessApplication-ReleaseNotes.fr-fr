@@ -3,7 +3,8 @@ title: "Expérience d'aide et de support intégrée au concepteur de flux"
 description: "Flow dispose d'un contenu enrichi dans la communauté concernant la résolution des problèmes de flux. Une nouvelle expérience de support facilitera la recherche de solutions en ligne, sans devoir ouvrir un ticket de support."
 author: anjlic
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 397e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

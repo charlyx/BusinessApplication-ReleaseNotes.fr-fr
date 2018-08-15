@@ -3,7 +3,8 @@ title: "Responsabiliser les développeurs citoyens"
 description: "Les développeurs citoyens ont désormais accès aux fonctionnalités clés nécessaires pour utiliser Microsoft Flow afin de créer des solutions plus fiables et prêtes à l'emploi."
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: aa40ae4f-cf73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

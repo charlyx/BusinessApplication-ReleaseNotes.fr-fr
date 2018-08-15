@@ -3,7 +3,8 @@ title: "Démocratiser les processus d'entreprise"
 description: "Démocratisez les processus d'entreprise afin que tous les utilisateurs puissent créer et exécuter les processus importants pour leur activité."
 author: KaranSr
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: f19c6917-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

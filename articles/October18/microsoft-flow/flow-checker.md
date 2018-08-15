@@ -3,7 +3,8 @@ title: "Vérificateur de flux"
 description: "Meilleure expérience en matière de correction des erreurs et de validation. Les utilisateurs pourront bénéficier d'une aide contextuelle pour corriger les erreurs et seront guidés pour créer des flux qui n'échouent pas."
 author: sunayv
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

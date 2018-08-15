@@ -3,7 +3,8 @@ title: Validation de demande OneDrive Entreprise
 description: "OneDrive Entreprise va proposer une expérience de validation de demande intégrée similaire à SharePoint"
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 349e1b68-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

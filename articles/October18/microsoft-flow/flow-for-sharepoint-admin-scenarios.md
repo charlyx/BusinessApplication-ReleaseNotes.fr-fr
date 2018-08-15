@@ -3,7 +3,8 @@ title: "Scénarios d'administration de Flow pour SharePoint"
 description: "Flow sera utilisé pour les scénarios d'administration SharePoint comme l'adhésion à un site hub et la mise en service de site."
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 410627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -3,7 +3,8 @@ title: "Connecteur, kit de développement logiciel et API de gestion des flux"
 description: "Flow documentera entièrement tous ses kits de développement logiciel et API ; par exemple, la possibilité d'intégrer un IFrame d'approbations Flow dans une application, ou de créer ou supprimer des flux par programme."
 author: KentWeareMSFT
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 417e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
