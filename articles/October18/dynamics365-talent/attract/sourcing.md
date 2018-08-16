@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fc3a2ef0430d102c1fb314db28be67bceda53016
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 39fb3efac105b2bd062609dc43c4a8afe07ce806
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="sourcing"></a><span data-ttu-id="b979c-103">Sources d'approvisionnement</span><span class="sxs-lookup"><span data-stu-id="b979c-103">Sourcing</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="b979c-104">Cette fonctionnalité permet aux recruteurs et aux responsables du recrutement de bénéficier d'une certaine visibilité sur le pipeline des sources d'approvisionnement en effectuant le suivi des prospects, extrayant des prospects de LinkedIn Recruiter à l'aide du système Recruiter System Connect et en créant un profil unifié pour un candidat incluant les informations dont dispose LinkedIn (avec l'adhésion du candidat).</span><span class="sxs-lookup"><span data-stu-id="b979c-104">This feature enables recruiters and hiring managers to have visibility into the sourcing pipeline by providing the ability to track prospects, push prospects from LinkedIn Recruiter using Recruiter System Connect, and create a unified profile for a candidate including the information that is known from LinkedIn (with candidate opt-in).</span></span>
 

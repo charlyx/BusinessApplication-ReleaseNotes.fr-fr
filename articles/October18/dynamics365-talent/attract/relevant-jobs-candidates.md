@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1dd938dc3081174f1946df2c9f7541a59e7fcabd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 327c4a545a5490e60d3a84df325969f397ef9587
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="relevant-jobs-and-candidates"></a><span data-ttu-id="c9a45-103">Tâches et candidats pertinents</span><span class="sxs-lookup"><span data-stu-id="c9a45-103">Relevant jobs and candidates</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="c9a45-104">Les recruteurs peuvent être se retrouver dépassés lorsqu'ils essaient de déterminer quels candidats privilégier.</span><span class="sxs-lookup"><span data-stu-id="c9a45-104">Recruiters can be overwhelmed by trying to determine which candidates to focus on.</span></span>
 <span data-ttu-id="c9a45-105">Attract met automatiquement en surbrillance les profils de candidats qui répondent aux exigences de la tâche, ce qui fait gagner du temps au recruteur et lui permet de pourvoir ses postes plus rapidement tout en privilégiant les candidats les plus pertinents.</span><span class="sxs-lookup"><span data-stu-id="c9a45-105">Attract automatically highlights candidate profiles that match the job requirements, saving time for the recruiter and helping them close their positions faster by being able to focus on the most relevant candidates.</span></span>

@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f91fb79ee70b320fe1c9513ebe80252913c532b4
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 3642d7d240bd342aee345a46c970bb461e9dd048
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="dashboards-and-notifications"></a><span data-ttu-id="4d9d3-103">Tableaux de bord et notifications</span><span class="sxs-lookup"><span data-stu-id="4d9d3-103">Dashboards and notifications</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="4d9d3-104">Le tableau de bord guide les recruteurs et les responsables du recrutement dans leurs différentes tâches.</span><span class="sxs-lookup"><span data-stu-id="4d9d3-104">Dashboard will guide recruiters and hiring managers to relevant actions.</span></span> <span data-ttu-id="4d9d3-105">Une expérience de recherche approfondie permet aux utilisateurs de parcourir rapidement le système.</span><span class="sxs-lookup"><span data-stu-id="4d9d3-105">An in-depth search experience will help users quickly navigate the system.</span></span>
 <span data-ttu-id="4d9d3-106">Les notifications fournissent à l'utilisateur des informations supplémentaires pour rationaliser le processus de recrutement.</span><span class="sxs-lookup"><span data-stu-id="4d9d3-106">Notifications will provide the user with supplemental information to streamline the recruitment process.</span></span>

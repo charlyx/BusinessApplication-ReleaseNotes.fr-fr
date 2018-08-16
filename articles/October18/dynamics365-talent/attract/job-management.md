@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c1d39d143e321f48a7b7ef7bccd693ed323a2d63
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 187cbc075e41a59820a3244970fabd249afd42a0
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="job-and-process-enhancements"></a><span data-ttu-id="6fbc3-103">Améliorations de tâches et de processus</span><span class="sxs-lookup"><span data-stu-id="6fbc3-103">Job and process enhancements</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="6fbc3-104">La gestion de tâches et de processus formalise le processus de recrutement en améliorant les données structurées requises pour suivre un emploi vacant depuis sa création jusqu'à ce qu'il soit pourvu.</span><span class="sxs-lookup"><span data-stu-id="6fbc3-104">Job and process management will formalize the recruit process by enhancing the structured data needed to track an opening from creation to fulfillment.</span></span>
 <span data-ttu-id="6fbc3-105">En outre, ces fonctionnalités fournissent une intégration approfondie entre les systèmes Core HR et Attract en s'appuyant sur des données publiées dans Common Data Service pour les applications.</span><span class="sxs-lookup"><span data-stu-id="6fbc3-105">Furthermore, these features will provide a deeper integration between core HR systems and Attract by leveraging data that is published to Common Data Service for Apps.</span></span>

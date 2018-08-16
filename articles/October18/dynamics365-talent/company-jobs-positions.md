@@ -11,16 +11,16 @@ ms.technology:
 ms.author: dkrame
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 316acef163f66f740f02cd3fc2a01a36b2c935ba
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 87751b6c50bfca5ea12709180eaaa3361eaee470
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="company-based-jobs-and-positions"></a><span data-ttu-id="e49c8-103">Tâches et postes basés sur la société</span><span class="sxs-lookup"><span data-stu-id="e49c8-103">Company-based jobs and positions</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="e49c8-104">Cette flexibilité est très importante pour définir l'organisation d'une société.</span><span class="sxs-lookup"><span data-stu-id="e49c8-104">Flexibility in defining a company’s organization is very important.</span></span> <span data-ttu-id="e49c8-105">Les tâches peuvent avoir des descriptions universelles et se répartir dans différentes familles, tandis que la rémunération, les compétences requises, la formation et d'autres données peuvent différer selon l'entreprise ou le service au sein duquel la tâche ou le poste réside.</span><span class="sxs-lookup"><span data-stu-id="e49c8-105">Jobs may have universal descriptions and job families, while compensation, skills required, education, and other data may differ based on the company or region within which the job or position resides.</span></span> <span data-ttu-id="e49c8-106">La fonctionnalité des tâches et des postes basés sur la société apporte une réponse aux deux scénarios.</span><span class="sxs-lookup"><span data-stu-id="e49c8-106">Company-based job and position data provides an answer to both scenarios.</span></span>
 

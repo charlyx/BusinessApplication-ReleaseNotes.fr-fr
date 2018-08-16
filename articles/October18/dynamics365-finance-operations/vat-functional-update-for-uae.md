@@ -11,17 +11,16 @@ ms.technology:
 ms.author: atrukawk
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 46a4f8f033af5d95e0c398fbbb14c94aeb9e3039
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 8c7a861abccfc1aa959a4eaa2244148022ed6fb6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
-
-[!include[banner](../../includes/banner.md)]
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a><span data-ttu-id="5e7d3-103">Fonctionnalité de déclaration de TVA pour les Émirats arabes unis.</span><span class="sxs-lookup"><span data-stu-id="5e7d3-103">VAT reporting functionality for United Arab Emirates</span></span>
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="5e7d3-104">La taxe sur la valeur ajoutée (TVA) a été introduite aux Emirats arabes unis le 1er janvier 2018.</span><span class="sxs-lookup"><span data-stu-id="5e7d3-104">Value added tax (VAT) was introduced in the United Arab Emirates on January 1, 2018.</span></span> <span data-ttu-id="5e7d3-105">La loi d'arrêté fédéral publiée</span><span class="sxs-lookup"><span data-stu-id="5e7d3-105">The issued Federal Decree Law No.</span></span> <span data-ttu-id="5e7d3-106">n° (8) de 2017 sur la taxe sur la valeur ajoutée décrit la zone de taxe, le taux, la responsabilité de la taxe et la fourniture de biens et services dans tous les cas.</span><span class="sxs-lookup"><span data-stu-id="5e7d3-106">(8) of 2017 on Value Added Tax outlines the tax scope, rate, responsibility for tax, and supply of goods and services in all cases.</span></span> <span data-ttu-id="5e7d3-107">Pour plus d'informations sur les réglementations régissant la TVA, voir les [Autorités fiscales fédérales des Émirats arabes unis](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).</span><span class="sxs-lookup"><span data-stu-id="5e7d3-107">For more details on VAT regulations, see [Federal Tax Authorities of United Arab Emirates](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).</span></span>
 

@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5459d93f61f016f72d82beed1d6609adeb2c55d1
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 0652b0518dd221755d2c4b0c0372ac6fef3ac32d
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="quick-insights-for-non-additive-measures-public-preview"></a><span data-ttu-id="94ac4-103">Quick Insights pour des mesures non-additives (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="94ac4-103">Quick Insights for non-additive measures (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="94ac4-104">Quick Insights fournit des explications automatisées pour les tendances, les modifications et les distributions des données des utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="94ac4-104">Quick Insights provides automated explanations for trends, changes, and distributions in users' data.</span></span> <span data-ttu-id="94ac4-105">La prise en charge de mesures non-additives signifie que ces aperçus peuvent être fournies par rapport à des mesures s'appuyant sur une logique métier complexe, telle que les analyses de stock et utilisateur.</span><span class="sxs-lookup"><span data-stu-id="94ac4-105">Support for non-additive measures means these insights can be provided over metrics that use complex business logic such as inventory and user analytics.</span></span> 
 

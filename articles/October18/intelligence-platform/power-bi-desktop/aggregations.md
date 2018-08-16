@@ -11,17 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 40cbd22fb19eb8a5799b6ccb8a9ea5eec6a1576f
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: ec6fc313ef498181725c0e131d0e2ec1a91a90ce
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="aggregations-public-preview"></a><span data-ttu-id="40d61-103">Agrégations (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="40d61-103">Aggregations (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="40d61-104">Le volumes de données importants nécessitent de nouveaux modes de stockage des informations pour pouvoir effectuer des analyses interactives fractionnées avec des états détaillés approfondis.</span><span class="sxs-lookup"><span data-stu-id="40d61-104">Massive volumes of data require new ways of storing information to balance the needs of slice-and-dice interactive analysis with deep, detail-level reporting.</span></span> <span data-ttu-id="40d61-105">Les agrégations permettent aux développeurs de modèles de mettre en évidence les valeurs mises en cache à un niveau élevé d'analyse interactive, tout en continuant d'autoriser les utilisateurs à explorer au niveau du détail les données interrogées dans les données sous-jacentes.</span><span class="sxs-lookup"><span data-stu-id="40d61-105">Aggregations allow model developers to surface cached values at a high level for interactive analysis, but still let users drill down to detailed data that is queried from the underlying data.</span></span>
 

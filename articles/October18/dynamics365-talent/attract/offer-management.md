@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f5e6b730b8487ce96c4cb1493c49c68b482aecb0
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: d3981f81e15215bd8e2688e721c0da61916f50d7
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="offer-management"></a><span data-ttu-id="5bf41-103">Gestion des offres</span><span class="sxs-lookup"><span data-stu-id="5bf41-103">Offer management</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="5bf41-104">Les recruteurs et les responsables du recrutement peuvent créer et approuver des offres à l'aide de les modèles de packages définis par leur organisation.</span><span class="sxs-lookup"><span data-stu-id="5bf41-104">Recruiters and hiring managers can create and approve offers using their organization's defined package templates.</span></span> <span data-ttu-id="5bf41-105">Ils peuvent également fournir aux candidats des fonctionnalités DocuSign et Adobe Sign aux normes du secteur pour afficher et accepter leurs offres, et pour commencer leur intégration dans l'organisation.</span><span class="sxs-lookup"><span data-stu-id="5bf41-105">They also can provide candidates with the industry standard DocuSign and Adobe Sign capabilities to view and accept their offers and begin their onboarding into the organization.</span></span>
 

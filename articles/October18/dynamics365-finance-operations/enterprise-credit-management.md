@@ -11,16 +11,16 @@ ms.technology:
 ms.author: aolson
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bb5aa9a4b48061d5d513090cbef111395d3b9e00
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 383d33b0132ba75f86386cbd95ed6bf1cbd4ebc8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="enterprise-credit-management"></a><span data-ttu-id="6883d-103">Gestion des crédits d'entreprise</span><span class="sxs-lookup"><span data-stu-id="6883d-103">Enterprise credit management</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="6883d-104">La gestion des crédits d'entreprise offre des fonctionnalités pour automatiser le processus de gestion du contrôle de crédit pour les professionnels de la comptabilité et des finances.</span><span class="sxs-lookup"><span data-stu-id="6883d-104">Enterprise credit management provides capabilities to automate the credit control management process for accounting and finance professionals.</span></span>
 

@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b0407cb25f8f94fc5c56329732ebfbf868e70fcf
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 35ace7e332cfa432921312fd26093475bfeed297
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="extensibility"></a><span data-ttu-id="9e898-103">Extensibilité</span><span class="sxs-lookup"><span data-stu-id="9e898-103">Extensibility</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="9e898-104">Nous savons que le processus de recrutement de chaque organisation est unique et qu'il est conçu pour mettre en évidence les particularités de chacune.</span><span class="sxs-lookup"><span data-stu-id="9e898-104">We know that each organization’s hiring process is unique and designed to highlight the distinctiveness of the organization.</span></span> <span data-ttu-id="9e898-105">Il est indispensable de pouvoir étendre l'application native pour prendre en charge ces besoins.</span><span class="sxs-lookup"><span data-stu-id="9e898-105">Having the ability to extend the native application is key to supporting these needs.</span></span> <span data-ttu-id="9e898-106">Nous offrons des extensions qui permettent aux organisations d'incorporer PowerApps, Microsoft Flow, Power BI, Office Forms, Microsoft Stream, etc.</span><span class="sxs-lookup"><span data-stu-id="9e898-106">We are bringing extensions that allow organizations to incorporate PowerApps, Microsoft Flow, Power BI, Office Forms, Microsoft Stream, and more.</span></span> <span data-ttu-id="9e898-107">Il est ainsi possible d'inclure des activités particulières et d'étendre les données et les processus principaux.</span><span class="sxs-lookup"><span data-stu-id="9e898-107">This will allow for specialized activities and the extension of the core data and process.</span></span>
 

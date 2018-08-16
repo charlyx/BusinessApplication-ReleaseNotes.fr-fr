@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1b7fd1d1c189e65b444c5d8717afd36557612482
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: b54d9e17a6f015cadfbda76534825d5257ab9295
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="candidate-profile-connection"></a><span data-ttu-id="fad76-103">Connexion au profil du candidat</span><span class="sxs-lookup"><span data-stu-id="fad76-103">Candidate profile connection</span></span>
 
-
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="fad76-104">Il est essentiel d'avoir le plus d'informations possible sur les candidats afin d'évaluer et de sélectionner celui qui convient.</span><span class="sxs-lookup"><span data-stu-id="fad76-104">Having as much information as possible about your candidates is critical to the evaluation and selection of the right hire.</span></span> <span data-ttu-id="fad76-105">Un profil plus étendu des candidats permettra de suivre et de gérer plus d'informations.</span><span class="sxs-lookup"><span data-stu-id="fad76-105">Further expansion of the candidate profile will allow for more information to be tracked and managed.</span></span> <span data-ttu-id="fad76-106">Cela permettra également aux données des candidats d'être utilisées par d'autres fonctionnalités telles que la Recherche par pertinence.</span><span class="sxs-lookup"><span data-stu-id="fad76-106">This will also enable the candidate data to be used by other features such as relevance and search.</span></span>
 

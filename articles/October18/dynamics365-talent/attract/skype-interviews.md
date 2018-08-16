@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1f692df0646f801cf9b78cbebd41cfcbb43420fc
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 5e43d46271033cf6f0416572ed9455d1d5538845
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="skype-interviews"></a><span data-ttu-id="fe11b-103">Skype Entretiens</span><span class="sxs-lookup"><span data-stu-id="fe11b-103">Skype Interviews</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="fe11b-104">Cette fonctionnalité permet l'intégration native avec une plateforme d'entretien Skype pour les filtrages et entretiens à distance.</span><span class="sxs-lookup"><span data-stu-id="fe11b-104">This feature enables native integration with the Skype Interview platform for remote screenings and interviews.</span></span> <span data-ttu-id="fe11b-105">Désormais, nous prenons en charge la possibilité de configurer et d'effectuer des filtrages et des entretiens avec Skype Entreprise.</span><span class="sxs-lookup"><span data-stu-id="fe11b-105">Today we support the ability for screenings and interviews to be set up and carried out over Skype for Business.</span></span> <span data-ttu-id="fe11b-106">Avec cette fonctionnalité, les utilisateurs auront le choix entre des entretiens Skype Entreprise ou Skype Entretiens.</span><span class="sxs-lookup"><span data-stu-id="fe11b-106">With this feature, users will have a choice of Skype for Business or Skype Interviews.</span></span>
 

@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c5a7fea3ecc65c948639af8119a735959ebb2ada
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 21f12c5c4ede8a0acae812a669fac61c442d6d15
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="theming-over-report-level-and-visual-container-styles"></a><span data-ttu-id="434c6-103">Création de thèmes au-dessus du niveau de rapport et styles de conteneur visuels</span><span class="sxs-lookup"><span data-stu-id="434c6-103">Theming over report level and visual container styles</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="434c6-104">Les auteurs d'états ont besoin qu'une mise en forme commune soit appliquée à tous leurs états.</span><span class="sxs-lookup"><span data-stu-id="434c6-104">Report authors need common formatting applied to all their reports.</span></span> <span data-ttu-id="434c6-105">Power BI vous permet de créer des thèmes qui définissent les options de mise en forme de chaque visuel, et maintenant également pour les styles de conteneur d'états et de visuels.</span><span class="sxs-lookup"><span data-stu-id="434c6-105">Power BI allows you to create themes that define the formatting options for each visual, and now for report and visual container styles, too.</span></span>
 
