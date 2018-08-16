@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="aggregations-public-preview"></a>Agrégations (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Le volumes de données importants nécessitent de nouveaux modes de stockage des informations pour pouvoir effectuer des analyses interactives fractionnées avec des états détaillés approfondis. Les agrégations permettent aux développeurs de modèles de mettre en évidence les valeurs mises en cache à un niveau élevé d'analyse interactive, tout en continuant d'autoriser les utilisateurs à explorer au niveau du détail les données interrogées dans les données sous-jacentes.
 

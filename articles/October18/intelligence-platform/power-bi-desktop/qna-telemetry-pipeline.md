@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="qa-telemetry-pipeline-public-preview"></a>Pipeline de télémétrie des Q&R (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les partenaires créant des applications Power BI peuvent consommer des données d'utilisation sur les Q&R de leur application, ce qui leur permet d'apprendre comment améliorer leur schéma linguistique et leurs résultats de Q&R selon l'utilisation réelle.
 

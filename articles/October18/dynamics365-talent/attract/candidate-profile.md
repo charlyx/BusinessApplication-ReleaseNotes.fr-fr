@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="candidate-profile-connection"></a>Connexion au profil du candidat
 
-
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Il est essentiel d'avoir le plus d'informations possible sur les candidats afin d'évaluer et de sélectionner celui qui convient. Un profil plus étendu des candidats permettra de suivre et de gérer plus d'informations. Cela permettra également aux données des candidats d'être utilisées par d'autres fonctionnalités telles que la Recherche par pertinence.
 

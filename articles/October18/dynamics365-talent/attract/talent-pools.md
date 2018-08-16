@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="talent-pools"></a>Viviers de talents
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Les recruteurs peuvent organiser et gérer leur liste de candidats et de prospects de les viviers de talents. Les viviers de talents peuvent être privés ou partagés entre les recruteurs.
 

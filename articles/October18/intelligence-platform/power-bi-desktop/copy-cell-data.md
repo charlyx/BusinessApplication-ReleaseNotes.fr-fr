@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="copy-data-from-table-and-matrix-visuals-public-preview"></a>Copier des données à partir des visuels de table et de matrice (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Vous pouvez copier des données à partir des visuels de table ou de matrice dans d'autres applications. Sélectionnez les données à copier, cliquez avec le bouton droit sur le visuel, et sélectionnez **Copier les données** pour copier les données dans le Presse-papiers du système. 
 

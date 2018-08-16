@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="expand-and-collapse-in-matrix-visual-public-preview"></a>Développer et réduire dans le visuel de matrice (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les utilisateurs finaux qui connaissent le tableau croisé dynamique dans Excel en ont besoin d'un similaire dans le visuel de matrice Power BI. Ils peuvent développer des éléments dans la matrice pour voir des détails tout en affichant des informations de niveau supérieur.
 

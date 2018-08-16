@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="expression-based-formatting"></a>Mise en forme basée sur une expression
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les auteurs d'états ont besoin de souplesse pour mettre en forme leurs visuels. Outre la définition de la mise en forme via le volet de mise en forme, il est aussi possible d'utiliser une expression [DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics), ce qui donne un contrôle total sur la logique métier utilisée pour mettre en forme le visuel.
 

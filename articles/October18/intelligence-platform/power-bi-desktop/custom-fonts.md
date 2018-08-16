@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-fonts-public-preview"></a>Polices personnalisées (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les thèmes d'entreprise incluent souvent des polices spécifiques qui sont distribuées et utilisées dans toute la société. Vous pouvez utiliser ces polices dans vos rapports Power BI.
 

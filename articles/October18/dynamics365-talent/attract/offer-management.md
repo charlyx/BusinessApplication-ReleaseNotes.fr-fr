@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="offer-management"></a>Gestion des offres
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Les recruteurs et les responsables du recrutement peuvent créer et approuver des offres à l'aide de les modèles de packages définis par leur organisation. Ils peuvent également fournir aux candidats des fonctionnalités DocuSign et Adobe Sign aux normes du secteur pour afficher et accepter leurs offres, et pour commencer leur intégration dans l'organisation.
 

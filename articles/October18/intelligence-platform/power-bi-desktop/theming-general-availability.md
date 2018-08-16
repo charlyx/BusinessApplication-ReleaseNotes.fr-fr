@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="theming-general-availability"></a>Disponibilité générale des thèmes
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Modifier manuellement chaque visuel dans un rapport pour correspondre, par exemple, aux directives relatives à la marque de l'entreprise peut être un processus long et laborieux. Power BI Desktop vous permet d'associer un fichier de thème à vos rapports pour appliquer automatiquement des propriétés de styles et de mise en forme.
 

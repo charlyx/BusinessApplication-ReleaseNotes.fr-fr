@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="show-measures-as-clickable-urls"></a>Afficher les mesures en tant qu'URL interactives
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les utilisateurs finaux ont besoin d'un moyen simple de naviguer entre les états, ou entre les états et d'autres applications, tout en conservant toujours le contexte des données qu'ils consultaient. Les mesures peuvent générer des URL permettant la navigation, et peuvent être affichées en tant que liens hypertexte permettant de se déplacer facilement entre des états ou des applications.
 

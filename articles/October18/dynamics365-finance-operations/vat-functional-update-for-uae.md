@@ -18,10 +18,9 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-
-[!include[banner](../../includes/banner.md)]
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a>Fonctionnalité de déclaration de TVA pour les Émirats arabes unis.
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 La taxe sur la valeur ajoutée (TVA) a été introduite aux Emirats arabes unis le 1er janvier 2018. La loi d'arrêté fédéral publiée n° (8) de 2017 sur la taxe sur la valeur ajoutée décrit la zone de taxe, le taux, la responsabilité de la taxe et la fourniture de biens et services dans tous les cas. Pour plus d'informations sur les réglementations régissant la TVA, voir les [Autorités fiscales fédérales des Émirats arabes unis](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).
 

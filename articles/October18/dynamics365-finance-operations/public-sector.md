@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="public-sector-enhancements"></a>Améliorations pour le Secteur public
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Les professionnels de la comptabilité et des finances du Secteur public bénéficieront de nouvelles fonctionnalités en octobre 2018, notamment des recherches et des rapports optimisées, une nouvelle fonctionnalité de budgétisation, des améliorations de l'engagement, ainsi que de la collaboration fournisseur, des déclarations d'honoraires fournisseurs mises à jour et une distribution d'intérêt accrue sur les soldes des disponibilités.
 

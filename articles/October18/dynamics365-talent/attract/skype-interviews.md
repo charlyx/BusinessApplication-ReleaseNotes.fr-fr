@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="skype-interviews"></a>Skype Entretiens
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Cette fonctionnalité permet l'intégration native avec une plateforme d'entretien Skype pour les filtrages et entretiens à distance. Désormais, nous prenons en charge la possibilité de configurer et d'effectuer des filtrages et des entretiens avec Skype Entreprise. Avec cette fonctionnalité, les utilisateurs auront le choix entre des entretiens Skype Entreprise ou Skype Entretiens.
 

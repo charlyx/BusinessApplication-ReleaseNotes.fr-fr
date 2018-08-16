@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="quick-insights-for-non-additive-measures-public-preview"></a>Quick Insights pour des mesures non-additives (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Quick Insights fournit des explications automatisées pour les tendances, les modifications et les distributions des données des utilisateurs. La prise en charge de mesures non-additives signifie que ces aperçus peuvent être fournies par rapport à des mesures s'appuyant sur une logique métier complexe, telle que les analyses de stock et utilisateur. 
 

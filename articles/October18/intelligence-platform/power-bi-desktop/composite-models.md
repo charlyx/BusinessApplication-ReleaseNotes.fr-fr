@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="composite-models-public-preview"></a>Modèles composites (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les modèles composites vous permettent de mélanger des sources de données DirectQuery tabulaires et importées, mais aussi d'avoir plusieurs sources de données DirectQuery tabulaires. Vous pouvez ainsi étoffer vos modèles de données d'entreprise avec des tables importées. 
 

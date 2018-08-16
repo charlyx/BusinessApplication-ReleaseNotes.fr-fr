@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="revenue-recognition"></a>Constatation du produit
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 La gestion de la constatation du produit fournit l'automatisation nécessaire aux comptables et aux financiers pour se conformer à la norme internationale d'information financière (IFRS) 15 et à l'Accounting Standards Codification (ASC) 606. 
 

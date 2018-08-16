@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="extensibility"></a>Extensibilité
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Nous savons que le processus de recrutement de chaque organisation est unique et qu'il est conçu pour mettre en évidence les particularités de chacune. Il est indispensable de pouvoir étendre l'application native pour prendre en charge ces besoins. Nous offrons des extensions qui permettent aux organisations d'incorporer PowerApps, Microsoft Flow, Power BI, Office Forms, Microsoft Stream, etc. Il est ainsi possible d'inclure des activités particulières et d'étendre les données et les processus principaux.
 

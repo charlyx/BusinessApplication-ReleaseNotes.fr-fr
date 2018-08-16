@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="enterprise-credit-management"></a>Gestion des crédits d'entreprise
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 La gestion des crédits d'entreprise offre des fonctionnalités pour automatiser le processus de gestion du contrôle de crédit pour les professionnels de la comptabilité et des finances.
 

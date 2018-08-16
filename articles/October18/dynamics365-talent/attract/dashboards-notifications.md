@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="dashboards-and-notifications"></a>Tableaux de bord et notifications
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Le tableau de bord guide les recruteurs et les responsables du recrutement dans leurs différentes tâches. Une expérience de recherche approfondie permet aux utilisateurs de parcourir rapidement le système.
 Les notifications fournissent à l'utilisateur des informations supplémentaires pour rationaliser le processus de recrutement.

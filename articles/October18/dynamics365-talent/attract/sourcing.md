@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="sourcing"></a>Sources d'approvisionnement
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Cette fonctionnalité permet aux recruteurs et aux responsables du recrutement de bénéficier d'une certaine visibilité sur le pipeline des sources d'approvisionnement en effectuant le suivi des prospects, extrayant des prospects de LinkedIn Recruiter à l'aide du système Recruiter System Connect et en créant un profil unifié pour un candidat incluant les informations dont dispose LinkedIn (avec l'adhésion du candidat).
 

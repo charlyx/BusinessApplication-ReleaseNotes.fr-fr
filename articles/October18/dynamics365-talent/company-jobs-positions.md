@@ -20,7 +20,7 @@ ms.lasthandoff: 08/03/2018
 
 # <a name="company-based-jobs-and-positions"></a>Tâches et postes basés sur la société
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 Cette flexibilité est très importante pour définir l'organisation d'une société. Les tâches peuvent avoir des descriptions universelles et se répartir dans différentes familles, tandis que la rémunération, les compétences requises, la formation et d'autres données peuvent différer selon l'entreprise ou le service au sein duquel la tâche ou le poste réside. La fonctionnalité des tâches et des postes basés sur la société apporte une réponse aux deux scénarios.
 

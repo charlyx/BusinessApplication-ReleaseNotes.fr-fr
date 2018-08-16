@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="leave-and-absence-management"></a>Gestion des congés et des absences
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 Une gestion efficace des congés et des absences est essentielle. Pour une question de conformité mais aussi pour que le personnel reste motivé. Les améliorations apportées dans ce domaine dans le composant Talent permettent aux organisations de continuer à simplifier l'administration des plans de congé et d'absence, de permettre aux responsables de s'occuper des calendriers d'absence et aux employés d'équilibrer leur vie professionnelle et leur vie privée.
 

@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="relevant-jobs-and-candidates"></a>Tâches et candidats pertinents
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 Les recruteurs peuvent être se retrouver dépassés lorsqu'ils essaient de déterminer quels candidats privilégier.
 Attract met automatiquement en surbrillance les profils de candidats qui répondent aux exigences de la tâche, ce qui fait gagner du temps au recruteur et lui permet de pourvoir ses postes plus rapidement tout en privilégiant les candidats les plus pertinents.

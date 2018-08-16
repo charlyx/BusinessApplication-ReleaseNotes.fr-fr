@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="theming-over-report-level-and-visual-container-styles"></a>Création de thèmes au-dessus du niveau de rapport et styles de conteneur visuels
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Les auteurs d'états ont besoin qu'une mise en forme commune soit appliquée à tous leurs états. Power BI vous permet de créer des thèmes qui définissent les options de mise en forme de chaque visuel, et maintenant également pour les styles de conteneur d'états et de visuels.
 

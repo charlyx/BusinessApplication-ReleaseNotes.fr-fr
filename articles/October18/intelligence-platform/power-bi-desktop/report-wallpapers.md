@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="report-wallpapers-public-preview"></a>Papier peint des rapports (version préliminaire publique)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Contrôlez le chrome entourant les pages de rapport pour les personnaliser en adéquation avec vos applications de création de rapports.
 

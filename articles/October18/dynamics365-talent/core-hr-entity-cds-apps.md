@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="extended-core-hr-entity-scope-on-common-data-service-for-apps"></a>Étendue de l'entité Core HR élargie sur Common Data Service pour les applications
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 Les clients ont besoin de moyens efficaces pour mener la transformation numérique en matière de RH et de gestion des talents pour attirer et conserver les meilleurs talents. Pour y parvenir, il est essentiel d'avoir une vue claire et cohérente des personnes.
 La plupart des entités de Core HR sont déjà disponibles dans Common Data Service pour applications. Les entités suivantes seront également disponibles afin de mener cette transformation numérique.

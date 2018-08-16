@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="job-and-process-enhancements"></a>Améliorations de tâches et de processus
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 La gestion de tâches et de processus formalise le processus de recrutement en améliorant les données structurées requises pour suivre un emploi vacant depuis sa création jusqu'à ce qu'il soit pourvu.
 En outre, ces fonctionnalités fournissent une intégration approfondie entre les systèmes Core HR et Attract en s'appuyant sur des données publiées dans Common Data Service pour les applications.

@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="globalization--enhanced-configurability"></a>Globalisation – configurabilité améliorée
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 La configurabilité des fonctionnalités permet aux partenaires et aux clients de créer des extensions et des personnalisations sans codage. Nous continuons à étendre l'étendue de la configurabilité et avons ajouté les nouvelles fonctionnalités suivantes dans ce domaine :
 
