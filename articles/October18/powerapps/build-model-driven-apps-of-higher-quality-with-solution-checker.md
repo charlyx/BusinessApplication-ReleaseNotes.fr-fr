@@ -3,7 +3,8 @@ title: "Générer des applications basées sur des modèles de qualité supérie
 description: Suivre les recommandations pour la personnalisation et l'extension de la plateforme PowerApps
 author: aheaney
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 041c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: aheaney
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 59c5f13442b80489dcc9177fedbe80014f6e72ad
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 370dcbefa01128502f6d82dd02c3d4f546779b20
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a><span data-ttu-id="5e6d3-103">Générer des applications basées sur des modèles de qualité supérieure avec le vérificateur de solution</span><span class="sxs-lookup"><span data-stu-id="5e6d3-103">Build model-driven apps of higher quality with Solution checker</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="5e6d3-104">Le vérificateur de solution favorise les applications basées sur des modèles de qualité supérieure en aidant les créateurs d'application à suivre les recommandations lorsqu'ils personnalisent et étendent la plateforme PowerApps.</span><span class="sxs-lookup"><span data-stu-id="5e6d3-104">Solution checker promotes higher-quality model-driven apps by helping app makers follow best practices when they customize and extend the PowerApps platform.</span></span> <span data-ttu-id="5e6d3-105">Lors de l'exécution du vérificateur, les créateurs d'application peuvent répondre à des questions comme :</span><span class="sxs-lookup"><span data-stu-id="5e6d3-105">By running the checker, app makers can answer questions such as these:</span></span>
 

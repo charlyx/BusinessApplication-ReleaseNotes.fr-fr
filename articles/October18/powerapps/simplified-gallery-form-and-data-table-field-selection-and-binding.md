@@ -3,7 +3,8 @@ title: "Sélection et liaison des galeries, formulaires et champs de tables de d
 description: "Les formulaires et les galeries utiliseront des champs suggérés de votre source de données et fourniront des fonctionnalités de rechercher et de filtre améliorées."
 author: clwesene
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 321c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: clwesene
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f660e62b7065956faf5c3dd36968173e66057a45
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 08f58861f0a11d4a274a16a5532f685b060e5b9a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a><span data-ttu-id="73c50-103">Sélection et liaison des galeries, formulaires et champs de tables de données simplifiées</span><span class="sxs-lookup"><span data-stu-id="73c50-103">Simplified gallery, form, and data table field selection and binding</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="73c50-104">La liste des champs bénéficiera d'améliorations de la facilité d'utilisation pour simplifier l'utilisation des données dans les galeries, les formulaires et les tables de données.</span><span class="sxs-lookup"><span data-stu-id="73c50-104">The fields list will have usability enhancements to make working with data in galleries, forms, and data tables easier.</span></span> 
 

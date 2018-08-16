@@ -3,7 +3,8 @@ title: "Événements d'audit PowerApps"
 description: "Les événements d'audit PowerApps sont désormais disponibles dans le Centre de sécurité et de conformité Office 365"
 author: jamesol-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 9f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: jamesol
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f593af1eca7e875d436057a4212a55d45b617f92
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: ecd99c751731807dbaad009a1ec277f6cf2180d3
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="powerapps-audit-events"></a><span data-ttu-id="c9f6f-103">Événements d'audit PowerApps</span><span class="sxs-lookup"><span data-stu-id="c9f6f-103">PowerApps audit events</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="c9f6f-104">Les administrateurs ont désormais davantage de visibilité sur l'adoption et l'activité de PowerApps dans leur organisation.</span><span class="sxs-lookup"><span data-stu-id="c9f6f-104">Admins now have more visibility over the PowerApps adoption and activity within their organization.</span></span> <span data-ttu-id="c9f6f-105">Les enregistrements de toutes les activités d'administration et de création sont désormais visibles pour les administrateurs dans le Centre de sécurité et de conformité Office 365. Ainsi, ils peuvent également configurer des alertes d'activité pour une surveillance plus proactive.</span><span class="sxs-lookup"><span data-stu-id="c9f6f-105">Records of all admin and maker activities are now available for admins to view in the Office 365 Security & Compliance center, which also allows admins to configure activity alert for more proactive monitoring.</span></span>
 

@@ -3,7 +3,8 @@ title: "Aide en ligne pour créer des applications accessibles"
 description: "Les créateurs d'application peuvent utiliser le vérificateur d’accessibilité pour identifier les problèmes d'accessibilité dans leurs applications et obtenir de l'aide les résoudre"
 author: emcoope-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 0f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: emcoope
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 4a80f78938f82351fd85ec0fbbe58312a2d2de1d
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 6363f0dfe7c0ea839c8913fdcda0ce2e6a5121c7
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="inline-help-for-creating-accessible-apps"></a><span data-ttu-id="9a320-103">Aide en ligne pour créer des applications accessibles</span><span class="sxs-lookup"><span data-stu-id="9a320-103">Inline help for creating accessible apps</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="9a320-104">Le vérificateur d'accessibilité guide les créateurs à générer des applications accessibles en leur fournissant une liste de problèmes détectés relatifs aux fonctionnalités de lecteur d'écran et aux éléments de navigation du clavier.</span><span class="sxs-lookup"><span data-stu-id="9a320-104">The accessibility checker guides makers to create accessible apps by providing a list of detected issues related to screen-reader capabilities and keyboard navigation items.</span></span> <span data-ttu-id="9a320-105">Pour chaque problème, vous pouvez accéder à la propriété affectée, obtenir des informations pour le résoudre et rechercher des liens vers des ressources supplémentaires.</span><span class="sxs-lookup"><span data-stu-id="9a320-105">For each issue, you can navigate to the affected property, get information about how to fix it, and find links to extra resources.</span></span> <span data-ttu-id="9a320-106">Chaque créateur d'application peut consulter la documentation offrant des recommandations, afin d'obtenir des informations supplémentaires sur la façon de vérifier les problèmes de contraste de couleur et d'utiliser le vérificateur d'accessibilité.</span><span class="sxs-lookup"><span data-stu-id="9a320-106">Each app maker can review documentation that explains best practices, provides extra information about how to check for color contrast issues, and use the accessibility checker.</span></span>
 

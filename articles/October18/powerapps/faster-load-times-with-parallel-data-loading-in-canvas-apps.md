@@ -1,9 +1,10 @@
 ---
 title: "Temps de chargement plus rapides avec le chargement des données en parallèle dans les applications de canevas"
 description: "Les créateurs d'application peuvent exécuter plusieurs opérations de chargement de données simultanément, ce qui réduit le temps d'attente pour les utilisateurs d'application."
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 41ca7431301c5af53be78b728ab95ce7101aa7e0
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 37721093809fbafaa2b0655bf0cb267ff357f6dc
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a><span data-ttu-id="cfcde-103">Temps de chargement plus rapides avec le chargement des données en parallèle dans les applications de canevas</span><span class="sxs-lookup"><span data-stu-id="cfcde-103">Faster load times with parallel data loading in canvas apps</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="cfcde-104">Pour des performances optimisées, de nombreux créateurs d'application de canevas préchargeront plusieurs tables et plusieurs entités au démarrage de leur application.</span><span class="sxs-lookup"><span data-stu-id="cfcde-104">For better performance, many canvas-app makers will preload multiple tables and entities when their app starts.</span></span> <span data-ttu-id="cfcde-105">Aujourd'hui, cette opération s'effectue en séquence, un chargement après l'autre, souvent dans la formule **OnStart** de l'application.</span><span class="sxs-lookup"><span data-stu-id="cfcde-105">Today, this is done serially, one load after another, often in the **OnStart** formula of the app.</span></span> 
 

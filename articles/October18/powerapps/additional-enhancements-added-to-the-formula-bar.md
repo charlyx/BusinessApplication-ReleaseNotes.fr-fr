@@ -3,7 +3,8 @@ title: "Barre de formule améliorée"
 description: "Afficher le résultat des formules et des sous-formules directement dans la barre de formule des applications de canevas"
 author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 3e8963d65aaffa034eb4b7e9e7f24451f7f22912
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 33aaa5bf636c8de0dd3cd1c92923b569877f2e4a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="formula-bar-enhanced"></a><span data-ttu-id="57ccf-103">Barre de formule améliorée</span><span class="sxs-lookup"><span data-stu-id="57ccf-103">Formula bar enhanced</span></span> 
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="formula-bar-enhanced"></a><span data-ttu-id="57ccf-103">Barre de formule améliorée</span><span class="sxs-lookup"><span data-stu-id="57ccf-103">Formula bar enhanced</span></span>
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="57ccf-104">Les applications de canevas fonctionnent en composant des fonctions, telles que Filtrer et trier, pour former des formules puissantes.</span><span class="sxs-lookup"><span data-stu-id="57ccf-104">Canvas apps operate by composing functions, such as Filter and Sort, to form powerful formulas.</span></span> <span data-ttu-id="57ccf-105">Le résultat est souvent intégré directement à un contrôle, tel qu'une galerie, qui peut l'interpréter davantage.</span><span class="sxs-lookup"><span data-stu-id="57ccf-105">The result is often fed directly into a control, such as a gallery, which may interpret it further.</span></span>
 

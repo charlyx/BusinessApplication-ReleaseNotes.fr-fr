@@ -3,7 +3,8 @@ title: "Disponibilité du contrôle de l'expérience utilisateur sur Unified Int
 description: "Les clients peuvent désactiver de nouvelles expériences utilisateur sur Unified Interface"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: shilpas
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 8bb07cf9f01c4d588c12c5860ced8154a15b26c6
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 17797d18635af9118ff8d714be5182fc19ebb3d5
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="f196e-103">Disponibilité du contrôle de l'expérience utilisateur sur Unified Interface</span><span class="sxs-lookup"><span data-stu-id="f196e-103">Control availability of user experiences on Unified Interface</span></span>
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="f196e-104">Les utilisateurs finaux (nouveaux ou existants) peuvent accéder aux principales commandes pendant l'exécution d'Unified Interface.</span><span class="sxs-lookup"><span data-stu-id="f196e-104">New and existing end users can access core commands during Unified Interface runtime.</span></span> <span data-ttu-id="f196e-105">Les administrateurs peuvent, au niveau de l'organisation, désactiver ou activer ces expériences pour leurs utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="f196e-105">Admins can, at the organization level, turn these experiences on or off for their users.</span></span> 
 
