@@ -1,9 +1,10 @@
 ---
 title: "Plateforme améliorée pour les administrateurs"
 description: "Les expériences d'administration sont essentielle à l'adoption d'une plateforme fiable."
-author: JamesO
+author: jamesol-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 09a2bcdc-3b73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="better-platform-for-administrators"></a>Plateforme améliorée pour les administrateurs
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Avec Microsoft PowerApps, le suivi et la gestion des applications dans toute l'organisation n'a jamais été aussi simple. Avec le lancement du nouveau centre d'administration, les administrateurs et les partenaires profitent d'une expérience unifiée et plus fiable pour gérer la capacité de stockage, les environnements et les déploiements. Le service Aide et support du centre d'administration permet aux administrateurs de résoudre davantage de problèmes.
 

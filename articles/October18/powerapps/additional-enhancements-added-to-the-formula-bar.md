@@ -3,7 +3,8 @@ title: "Barre de formule améliorée"
 description: "Afficher le résultat des formules et des sous-formules directement dans la barre de formule des applications de canevas"
 author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -17,12 +18,10 @@ ms.contentlocale: fr-fr
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="formula-bar-enhanced"></a>Barre de formule améliorée 
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="formula-bar-enhanced"></a>Barre de formule améliorée
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 Les applications de canevas fonctionnent en composant des fonctions, telles que Filtrer et trier, pour former des formules puissantes. Le résultat est souvent intégré directement à un contrôle, tel qu'une galerie, qui peut l'interpréter davantage.
 

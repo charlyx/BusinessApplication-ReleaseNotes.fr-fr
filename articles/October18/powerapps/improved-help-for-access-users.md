@@ -3,7 +3,8 @@ title: "Aide améliorée pour les utilisateurs d'Access"
 description: "Les utilisateurs d'Access peuvent en savoir plus sur les possibilités de créer des applications avec PowerApps"
 author: shpareek
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: f51b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-help-for-access-users"></a>Aide améliorée pour les utilisateurs d'Access
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Les utilisateurs d'Access peuvent se familiariser avec PowerApps pour générer des applications mobiles et web se connectant à plus de 200 sources de données. Ces utilisateurs peuvent recevoir du contenu connexe par courrier électronique pour se tenir informés sur les innovations PowerApps, ainsi que pour obtenir un accès aux livres blancs, aux études de cas et à des exemples d'applications pour comprendre les capacités combinées d'Access et de PowerApps.
 

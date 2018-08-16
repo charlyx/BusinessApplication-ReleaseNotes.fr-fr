@@ -3,7 +3,8 @@ title: "Créer des états Power BI à l'aide des données de Common Data Service
 description: "Les générateurs d'application peuvent créer des états dans Power BI Desktop en utilisant le connecteur Power BI mis à jour pour Common Data Service pour les applications."
 author: clwesene
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 181c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-power-bi-reports-using-data-in-common-data-service-for-apps"></a>Créer des états Power BI à l'aide des données de Common Data Service pour les applications
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Power BI offre un outil extrêmement performant pour visualiser et stocker des données. Avec le connecteur pour Power BI, les créateurs d'application peuvent se connecter directement à leur environnement, parcourir des relations et générer des états et des tableaux de bord attrayants avec leurs données.
 

@@ -3,7 +3,8 @@ title: "Les personnalisateurs peuvent inclure des vignettes et des états Power 
 description: "Les personnalisateurs peuvent désormais inclure des vignettes et des états Power BI dans les formulaires d'entité"
 author: prsi
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 741c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="customizers-can-embed-power-bi-tiles-and-reports-in-entity-forms"></a>Les personnalisateurs peuvent inclure des vignettes et des états Power BI dans les formulaires d'entité
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Exploitez la puissance et la richesse de Power BI dans vos formulaires en intégrant les états et les vignettes de votre choix. Les personnalisateurs peuvent modéliser les états et les vignettes Power BI pour fournir des aperçus plus significatifs en fournissant le contexte d'enregistrement, notamment des informations d'attribut sur l'enregistrement ou ses enregistrements associés.
 

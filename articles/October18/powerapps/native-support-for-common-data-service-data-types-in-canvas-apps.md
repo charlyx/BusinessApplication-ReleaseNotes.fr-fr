@@ -1,9 +1,10 @@
 ---
 title: "Prise en charge native des types de données Common Data Service dans les applications de canevas"
 description: "Les créateurs d'application peuvent facilement utiliser les données de type groupes d'options, GUID, Date uniquement et Date uniquement sans fuseau horaire"
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 3f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>Prise en charge native des types de données Common Data Service dans les applications de canevas
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 À l'heure actuelle, la prise en charge de certains types de données Common Data Service est limité ou difficile à d'utilisation. Les valeurs de groupe d'options doivent être recherchées manuellement sur le portail du créateur, les GUID sont gérés via des chaînes pouvant entraîner des problèmes dans les comparaisons, et les champs Date uniquement et Date/heure présentent des problèmes de fuseau horaire.
 

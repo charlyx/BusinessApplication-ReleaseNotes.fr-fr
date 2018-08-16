@@ -3,7 +3,8 @@ title: "Améliorations des vues cumulatives dans Unified Interface"
 description: "Activation des fonctionnalités de vue cumulative pour les entités en marge des activités"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 821c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>Améliorations des vues cumulatives dans Unified Interface
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Grâce aux vues cumulatives améliorées, vous pouvez afficher une vue cumulative des enregistrements (les comptes associés et les contacts en marge des activités, par exemple).
 

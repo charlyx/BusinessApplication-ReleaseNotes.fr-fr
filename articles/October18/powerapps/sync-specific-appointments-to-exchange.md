@@ -3,7 +3,8 @@ title: "Synchroniser des rendez-vous spécifiques avec Exchange"
 description: "Créer des rendez-vous dans Dynamics 365 et les enregistrer sans effectuer de synchronisation avec Exchange"
 author: srihas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 8c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="sync-specific-appointments-to-exchange"></a>Synchroniser des rendez-vous spécifiques avec Exchange
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Les utilisateurs finaux peuvent créer des rendez-vous dans Dynamics 365 et les enregistrer en tant que brouillons sans effectuer de synchronisation avec Exchange.
 

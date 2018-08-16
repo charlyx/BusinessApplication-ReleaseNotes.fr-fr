@@ -2,8 +2,9 @@
 title: "Améliorations du partage pour les applications de canevas"
 description: "Le partage d'applications de canevas avec leurs données devient plus facile grâce à l'expérience en ligne."
 author: litran
-manager: kvivek
-ms.date: 7/22/2018
+manager: AnnBe
+ms.date: 8/10/2018
+ms.assetid: 3c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,9 +20,8 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>Améliorations du partage pour les applications de canevas
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
+[!include[banner](../../includes/banner.md)]
 
 Les applications de canevas sont plus faciles à partager, car les utilisateurs peuvent afficher les sources de données utilisées par une application, ce qui facilite la configuration individuelle des autorisations des utilisateurs pour accéder à ces données. 
 

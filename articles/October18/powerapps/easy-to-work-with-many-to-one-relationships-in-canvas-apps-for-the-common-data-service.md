@@ -1,9 +1,10 @@
 ---
 title: "Utilisation simple des relations plusieurs-à-une dans des applications de canevas pour Common Data Service pour les applications"
 description: "Plus besoin d'associer ou d'effectuer des recherches manuellement. PowerApps développe automatiquement les relations plusieurs-à-une, ainsi les informations sont à portée de main."
-author: gregli
+author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a>Utilisation simple des relations plusieurs-à-une dans des applications de canevas pour Common Data Service pour les applications
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 L'utilisation des données relationnelles est essentielle pour de nombreuses applications de gestion. Il peut en effet être fastidieux d'écrire des requêtes pour récupérer les informations requises, joindre des clés étrangères, et contrôler la prévision.
 

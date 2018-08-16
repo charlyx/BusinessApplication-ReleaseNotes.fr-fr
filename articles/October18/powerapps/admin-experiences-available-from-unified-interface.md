@@ -3,7 +3,8 @@ title: "Expériences administrateurs disponibles dans Unified Interface"
 description: "Les administrateurs Common Data Service peuvent rapidement accéder aux informations dans Unified Interface"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-experiences-available-from-unified-interface"></a>Expériences administrateurs disponibles dans Unified Interface
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Les administrateurs peuvent accéder au contenu et aux liens dont ils ont besoin dans Unified Interface, ainsi qu'au centre d'administration PowerApps.
 

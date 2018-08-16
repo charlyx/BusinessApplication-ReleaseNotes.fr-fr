@@ -3,7 +3,8 @@ title: "Amélioration de la fiabilité des applications mobiles basées sur des 
 description: "Les améliorations apportées à la vitesse et aux messages d'erreurs actionnables rendent l'expérience mobile plus conviviale"
 author: sarafankit
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: fb1b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-mobile-applications-are-more-reliable"></a>Amélioration de la fiabilité des applications mobiles basées sur des modèles
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Les applications mobiles s'exécutent plus rapidement sans se bloquer. Toutes les erreurs signalées aux utilisateurs sont actionnables pour plus d'autonomie ou fournissent des informations importantes à Microsoft pour un support technique rapide.
 

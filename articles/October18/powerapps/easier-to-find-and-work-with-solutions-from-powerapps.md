@@ -3,7 +3,8 @@ title: Simplification de la recherche et de l'utilisation des solutions de Power
 description: PowerApps dispose d'une liste de solutions et d'un explorateur de solutions.
 author: litran
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 351c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a>Simplification de la recherche et de l'utilisation des solutions de PowerApps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Vous pouvez utiliser les solutions plus facilement en accédant à la liste de solutions dans PowerApps. Vous pouvez rechercher la solution dont vous avez besoin, l'ouvrir, puis chercher le composant d'une solution dans l'explorateur de solutions. Vous n'avez pas besoin d'accéder à l'explorateur de solutions classique pour gérer les composants au sein d'une solution.
 

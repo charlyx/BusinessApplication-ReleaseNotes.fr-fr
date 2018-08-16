@@ -3,7 +3,8 @@ title: "Disponibilité du contrôle de l'expérience utilisateur sur Unified Int
 description: "Les clients peuvent désactiver de nouvelles expériences utilisateur sur Unified Interface"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>Disponibilité du contrôle de l'expérience utilisateur sur Unified Interface
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Les utilisateurs finaux (nouveaux ou existants) peuvent accéder aux principales commandes pendant l'exécution d'Unified Interface. Les administrateurs peuvent, au niveau de l'organisation, désactiver ou activer ces expériences pour leurs utilisateurs. 
 

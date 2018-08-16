@@ -3,7 +3,8 @@ title: "Amélioration de la création avec PowerApps pour les créateurs, quelle
 description: "La création avec PowerApps est accessible à tous en ligne sur PowerApps.com"
 author: aorth
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 0d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a>Amélioration de la création avec PowerApps pour les créateurs, quelles que soient leurs aptitudes
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Les expériences de création en ligne sur PowerApps.com sont conformes aux normes d'accessibilité de Microsoft, afin que davantage d'utilisateurs puissent créer des applications et ce, plus efficacement.
 
