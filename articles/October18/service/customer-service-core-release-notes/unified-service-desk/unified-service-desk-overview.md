@@ -5,7 +5,7 @@ author: MargoC
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
@@ -21,9 +21,6 @@ ms.lasthandoff: 07/18/2018
 #  <a name="overview-of-unified-service-desk-october-18-release"></a>Présentation de la version d'octobre 2018 de Unified Service Desk
 
 [!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
-[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
-
-
 
 Unified Service Desk pour Dynamics 365 fournit un environnement configurable pour la création rapide d'applications pour les centres d'appels afin que les agents puissent obtenir une vue unifiée des données client enregistrées dans Dynamics 365. Dans la version d'octobre 2018, vous pouvez :
 
