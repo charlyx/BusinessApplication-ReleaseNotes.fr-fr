@@ -2,7 +2,7 @@
 title: Validation de demande OneDrive Entreprise
 description: "OneDrive Entreprise va proposer une expérience de validation de demande intégrée similaire à SharePoint"
 author: Mhade
-manager: AnnBe
+manager: KVivek
 ms.date: 8/10/2018
 ms.assetid: 349e1b68-aa74-e811-a965-000d3a1362e3
 ms.topic: article
@@ -10,7 +10,7 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: mhade
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
 ms.openlocfilehash: fb3bad0b6b5cb298a5a9cdd3534071cab9e4b1f7
@@ -20,10 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-request-sign-off"></a>Validation de demande OneDrive Entreprise
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Grâce à un volet de lancement de flux intégrée, les utilisateurs pourront créer et exécuter un flux prêt à l'emploi pour envoyer des demandes de validation à tous les utilisateurs de leur client accompagnées d'un message. Une fois que l'approbateur aura répondu, l'expéditeur recevra un courrier électronique de confirmation contenant des commentaires de l'approbateur. 
+
 
