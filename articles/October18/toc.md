@@ -51,7 +51,6 @@
 
 ### [Unified Service Desk](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-overview.md)
 #### [Résumé des nouveautés](service/customer-service-core-release-notes/unified-service-desk/planned-features.md)
-#### [Utilisation du processus de périphérique pour héberger des applications web dans Unified Service Desk](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md)
 #### [Expérience d'administration Unified Service Desk sur le client unifié](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-admin-experience-on-unified-client.md)
 
 ### [Portail Dynamics 365](service/dynamics365-portal/index.md)

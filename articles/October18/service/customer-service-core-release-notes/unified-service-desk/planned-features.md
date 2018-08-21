@@ -23,6 +23,5 @@ ms.lasthandoff: 07/18/2018
 
 | Fonctionnalité                                                                                                                                                                                       | Type de version   | Mois de la version cible |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------|
-| [Utilisation du processus de périphérique pour héberger des applications web dans Unified Service Desk](unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md) | Version préliminaire publique | Octobre 2018          |
 | [Expérience d'administration Unified Service Desk sur le client unifié](unified-service-desk-admin-experience-on-unified-client.md)                                                                     | Disponibilité générale             | Octobre 2018          |
 
