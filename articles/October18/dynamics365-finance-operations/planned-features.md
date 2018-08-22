@@ -78,7 +78,6 @@ Cette rubrique répertorie les fonctionnalités qui seront lancées dans Microso
 > [!div class="mx-tableFixed"]
 > | Fonctionnalité   | Type de version   | Mois de la version cible |
 > |-----------|----------------|----------------------|
-> |[Mises à jour de la facilité d'utilisation et de la productivité](usability-productivity.md) | Disponibilité générale|Octobre 2018|
 > |[Améliorations de la personnalisation](personalization-improvements.md) | Disponibilité générale|Octobre 2018|
 > |[Données de démonstration supplémentaires](additional-demo-data.md) | Disponibilité générale|Octobre 2018|
 > |[Abonnements résidant dans les données](data-resident-subscription.md) | Disponibilité générale|Octobre 2018|
