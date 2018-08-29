@@ -11,30 +11,23 @@ ms.technology:
 ms.author: pborring
 audience: developer, customizer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 161da5108c31c88f8e0f254abcf0f4b0fa6e950c
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 5b1d5c818fb0fafa973ed0e337cd9bb67ad9b137
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="improved-visual-studio-code-al-experience"></a>Amélioration de l'expérience avec le langage AL dans Visual Studio Code
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 La création d'extensions permet de personnaliser Business Central. La version d'octobre 2018 apporte des améliorations en termes de productivité à l'expérience de développement, ainsi que la prise en charge de scénarios d'extension supplémentaires.
 
 Avec les améliorations apportées aux outils et aux fonctionnalités d'extension, les développeurs peuvent être plus productifs lors du développement et de la résolution de solutions, et bénéficient d'options supplémentaires pour répondre aux besoins des clients en matière de personnalisation à l'aide d'extensions.
 
-## <a name="sandbox-with-production-data"></a>Bac à sable (sandbox) avec données de production
-Un scénario courant lorsque vous utilisez des bacs à sable (sandbox), notamment lors de tests ou de résolution problèmes, consiste à souhaiter disposer de données de production. Avec cette version, nous ajoutons la possibilité de créer un bac à sable (sandbox) basé sur une copie de la dernière sauvegarde sur le cloud des données de production. Pour réduire l'interférence avec des intégrations installées dans les données de production, ces intégrations seront désactivées lors de la création du bac à sable (sandbox). En faisant preuve de prudence, les utilisateurs administrateurs peuvent activer ou reconfigurer ces intégrations au besoin pour prendre en charge l'utilisation du bac à sable (sandbox) prévue.
-
-## <a name="new-object-extensions"></a>Nouvelles extensions d'objet
-Vous pouvez désormais effectuer des extensions comme suit :
-
-- Effectuer des énumérations (options) depuis l'application de base ainsi que créer des énumérations extensibles dans vos extensions.
-- Jeux de données d'états dans les extensions. Les dispositions des données d'états sont toujours une histoire de remplacement.
-- Groupes de champs.
+## <a name="cloud-sandbox-with-production-data"></a>Bac à sable (sandbox) dans le cloud avec des données de production
+Lors de l'utilisation des bacs à sable (sandbox) dans le cloud, en particulier lors de tests ou de résolution de problèmes, les utilisateurs souhaitent généralement disposer de données de production. Avec cette version, il est désormais possible de créer un bac à sable (sandbox) dans le cloud basé sur une copie de la dernière sauvegarde dans le cloud des données de production. Pour réduire l'interférence avec des intégrations installées dans les données de production, ces intégrations seront désactivées lors de la création du bac à sable (sandbox). En faisant preuve de prudence, les utilisateurs administrateurs peuvent activer ou reconfigurer ces intégrations au besoin pour prendre en charge l'utilisation du bac à sable (sandbox) dans le cloud prévue.
 
 ## <a name="event-discoverability"></a>Détectabilité des événements
 Un des aspects fondamentaux dans la création d'extensions consiste à s'abonner aux événements. Toutefois, il est compliqué de savoir quels événements sont disponibles dans un flux d'utilisateur donné. Le débogage peut être utile, mais il affiche uniquement les événements auxquels les utilisateurs sont déjà abonnés. Pour simplifier la détectabilité des événements et des points d'extension, un nouveau traceur d'événements est disponible dans le client. Celui-ci permet d'enregistrer un flux d'utilisateur pour répertorier les événements déclenchés, et le développeur peut obtenir le code d'abonné de l'événement généré afin de le copier facilement dans le code AL.
@@ -111,5 +104,5 @@ Globally
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse [https://aka.ms/businesscentralfeedback](https://aka.ms/businesscentralfeedback).
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).
 

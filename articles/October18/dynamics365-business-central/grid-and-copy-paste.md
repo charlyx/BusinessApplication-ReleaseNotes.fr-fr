@@ -12,16 +12,17 @@ ms.technology:
 ms.author: mikebc
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 31954e79880f4b4f2d2737a74321b6334af88889
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0eab65dd0deeb5648202e8f6c15b2c87ed34f3d6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="improved-grid-with-copy-and-paste"></a>Grille améliorée avec la fonction Copier/Coller
 
-[!include[banner](../../includes/banner.md)]
-[!include[banner](Includes/disclaimer.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Utilisez efficacement des listes dans Dynamics 365 Business Central avec une évolutivité de grille avancée et la capacité de copier-coller des lignes.
 
@@ -52,5 +53,5 @@ No regional restrictions. Available to all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 

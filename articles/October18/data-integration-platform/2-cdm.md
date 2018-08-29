@@ -3,7 +3,7 @@ title: "Partage, unification et enrichissement plus faciles des données avec le
 description: "Partage, unification et enrichissement plus faciles des données avec les entités Common Data Model"
 author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 60626a9d-c022-4a1f-8d3a-0533deba9b45
 ms.topic: article
 ms.prod: 
@@ -12,24 +12,22 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b1ea2a961aae470cf8bcfb239232a11f5d341350
+ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
+ms.openlocfilehash: 907b74b32252754cbfcdfb365f11358d40d80373
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Partage, unification et enrichissement plus faciles des données avec les entités Common Data Model
 
-[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 La définition **Common Data Model** en open-source des entités standard a été améliorée pour l'**intégration des processus d'entreprise, des applications, et l'enrichissement de profils** dans les fonctions métier de ventes, services, marketing, opérations, finances, recherche et gestion des talents, et de commerce, ainsi que des profils d'entités de base pour les clients afin de prendre en charge l'enrichissement des données et l'analyse d'observation.
 
 Common Data Model (CDM) permet l'unification de données dans un formulaire connu avec une cohérence structurelle et sémantique entre les applications et les déploiements. Le stockage des données dans le formulaire Common Data Model permet aux utilisateurs de disposer d'une **variété croissante de solutions qui fonctionnent ensemble de manière efficace** . Ce partage de données et d'informations permet une mise en œuvre rapide de nouveaux processus d'entreprise et solutions d'analyse, et de bénéficier d'une vue globale sur les opérations quotidiennes en toute simplicité.
 
-Depuis la version initiale de mars 2018, le référentiel GitHub Common Data Model public s'est [développé considérablement](#a-more-expressive-richer-common-data-model) en quelques centaines d'entités métier bien définies, modulaires et extensibles, comprenant des extensions majeures permettant de prendre en charge des secteurs d'activité spécialisés supplémentaires en étroite collaboration avec des partenaires stratégiques. Un [contenu de documentation et de présentation](#common-data-model-and-data-integration-community-content) amélioré permet aux clients et aux partenaires de mieux comprendre et utiliser Common Data Model. Les expériences d'intégration, de transformation et d'enrichissement de données « low-code no-code » avec Power Query continuent de [prendre en charge et de mettre en œuvre](#built-in-support-for-the-common-data-model) CDM.
+Depuis la version initiale de mars 2018, le [référentiel GitHub](https://github.com/Microsoft/CDM) Common Data Model public [s'est développé considérablement](#a-more-expressive-richer-common-data-model) en quelques centaines d'entités métier bien définies, modulaires et extensibles, comprenant des extensions majeures permettant de prendre en charge des secteurs d'activité spécialisés supplémentaires en étroite collaboration avec des partenaires stratégiques. Un [contenu de documentation et de présentation](#common-data-model-and-data-integration-community-content) amélioré permet aux clients et aux partenaires de mieux comprendre et utiliser Common Data Model. Les expériences d'intégration, de transformation et d'enrichissement de données « low-code no-code » avec Power Query continuent de [prendre en charge et de mettre en œuvre](#built-in-support-for-the-common-data-model) CDM.
 
 ##  <a name="a-more-expressive-richer-common-data-model"></a>Un Common Data Model plus expressif et enrichi
 

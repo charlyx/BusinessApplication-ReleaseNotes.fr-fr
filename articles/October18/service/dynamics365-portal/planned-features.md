@@ -1,25 +1,27 @@
 ---
-title: "Résumé des nouveautés dans le portail Dynamics 365"
-description: "Résumé rapide d'octobre 2018 pour le portail Dynamics 365"
+title: "Résumé des nouveautés dans Dynamics 365 Portal"
+description: "Résumé rapide d'octobre 2018 pour Dynamics 365 Portal"
 author: krbjoran
 manager: shellyhaverkamp
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/15/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 23d0b63cd65289e5ecd8fb33da9fd6d13f956266
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: 2593692bdc3f5231710d429e475e0d6aaa41d534
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-#  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Résumé des nouveautés dans le portail Dynamics 365
+#  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Résumé des nouveautés dans Dynamics 365 Portal
 
+Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
 
+Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck). 
 
 
 | Fonctionnalité                                                                           | Type de version   | Mois de la version cible |

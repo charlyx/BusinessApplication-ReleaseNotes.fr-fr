@@ -18,16 +18,16 @@ audience:
 - business analyst
 - IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5734780e8716ed091b9354a083c55e96cc4f0edd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: a40c29f90259e9a0883da066cbabe545b8cbfcd5
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="overview-of-microsoft-remote-assist-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft Remote Assist
 
-[!include[banner](../../includes/banner.md)]
+
 
 Microsoft Remote Assist vous permet de vous connecter et de collaborer lors d'appels vidéo, de partages d'images et d'annotations de réalité mixte la tête haute et les mains libres. Les employés en première ligne utilisent HoloLens pour partager ce qu'ils voient avec n'importe quel spécialiste sur Microsoft Teams, tout en restant disponible pour résoudre les problèmes et exécuter des tâches ensemble, plus rapidement. Grâce à une sécurité de niveau professionnel, Microsoft Remote Assist permet de communiquer l'esprit tranquille.
 
@@ -59,8 +59,6 @@ Dans Microsoft Teams sur un ordinateur de bureau :
 -   Partagez votre écran et présentez des informations à l'utilisateur de HoloLens.
 
 ## <a name="important-links"></a>Liens importants
-
-[Obtenir et déployer Microsoft Remote Assist](../hololens/hololens-microsoft-remote-assist-app)
 
 [FAQ Microsoft Remote Assist](https://support.microsoft.com/help/4294428/windows-10-microsoft-remote-assist-faq)
 

@@ -12,16 +12,17 @@ ms.technology:
 ms.author: blazkote
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4f87f64d2e3170f64036af2f350020e0acaa7caa
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8e936dbc95457580f1007f0ed18d81816172118a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="business-central-everywhere"></a>Business Central partout
 
-[!include[banner](../../includes/banner.md)]
-[!include[banner](Includes/disclaimer.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Dans la version d'octobre 2018, Dynamics NAV passe à Dynamics 365 Business Central local.  
 
@@ -72,5 +73,5 @@ No regional restrictions. Available in all supported markets for Dynamics 365 Bu
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 

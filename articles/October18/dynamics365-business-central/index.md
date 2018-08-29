@@ -3,27 +3,29 @@ title: "Version d'octobre 2018 de Business Central"
 description: "Nouveautés de la version d'octobre 2018 de Business Central"
 author: edupont04
 manager: AnnBe
-ms.date: 07/04/2018
+ms.date: 08/16/2018
 ms.assetid: 6f11822b-e716-4f70-9496-541547568920
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: edupont
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 20c918d07662598f11fc58fac701314240ec1da1
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 23cc2dcc4e22b0c07ba29e678dce5530489fbffa
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-dynamics-365-business-central-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 Business Central
 
-Dans la version d'octobre 2018, Dynamics 365 Business Central est disponible dans le cloud, en local et dans les déploiements hybrides. Choisissez la solution Business Central qui vous convient ou utilisez la solution locale existante de Dynamics GP, Dynamics NAV ou Dynamics SL, puis connectez-vous au cloud via Business Central.  
+
+
+Dans la version d'octobre 2018, Dynamics 365 Business Central est disponible dans le cloud, en local et dans les déploiements hybrides. Choisissez la solution Business Central qui vous convient ou utilisez la solution locale existante de Dynamics GP, Dynamics NAV ou Dynamics SL, puis connectez-vous au cloud via Business Central. (Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332).)  
 
 Les partenaires de Business Central ont accès à un portail pour faciliter leurs interactions avec les clients et pour gérer le cycle de vie de leurs applications et de leurs personnalisations. Les utilisateurs professionnels peuvent profiter d'une expérience utilisateur actualisée et encore plus simple grâce à de nombreuses améliorations en matière de productivité, ce qui facilite les échanges avec les clients qui font d'importantes transactions. Le service est également considérablement renforcé avec une meilleure résilience, robustesse, et de meilleures performances dans toute l'application.
 
@@ -38,11 +40,14 @@ Les utilisateurs professionnels bénéficient d'une toute nouvelle expérience m
 ## <a name="tenant-administration"></a>Administration des clients
 Les partenaires de Business Central peuvent gérer le cycle de vie des clients depuis le centre d'administration Dynamics 365 Business Central. Le centre d'administration est le portail qui permet aux revendeurs informatiques d'entrer en contact avec leurs clients et de gérer leur statut, leurs problèmes, leurs notifications, et leurs bacs à sable (sandbox).  
 
-## <a name="improved-visual-studio-code-al-experience"></a>Expérience du code AL Visual Studio améliorée
+## <a name="improved-visual-studio-code-al-experience"></a>Amélioration de l'expérience avec le langage AL dans Visual Studio Code
 Soyez plus productif lors du développement et de la résolution des extensions avec les nouveaux outils de développement améliorés. Notamment : les environnements Sandbox avec des données de production, le support technique amélioré du point d'arrêt, une meilleure aide en ligne, le suivi des événements déclenchés dans un scénario utilisateur donné, le support standard de .NET Interop pour les déploiements sur site, la prise en charge de l’extension pour les énumérations, l'ensemble des données du rapport; les groupes de champs, etc.
 
 ## <a name="making-business-central-available-in-new-markets"></a>Rendre Business Central disponible dans de nouveaux marchés
-Business Central dispose d'une stratégie de localisation associant à la fois des modèles gérés par les partenaires et par Microsoft. Nous continuons à répondre aux scénarios gérés par les partenaires et nous espérons que des pays supplémentaires pourront bientôt profiter des extensions d'applications de localisation dans Microsoft AppSource. Microsoft fournira également une version localisée de Business Central en Islande, en Norvège, au Mexique dans cette version.
+Business Central dispose d'une stratégie de localisation associant à la fois des modèles gérés par les partenaires et par Microsoft. Nous continuons à répondre aux scénarios gérés par les partenaires et nous espérons que des pays supplémentaires pourront bientôt profiter des extensions d'applications de localisation dans Microsoft AppSource. Microsoft fournira également une version localisée de Business Central en Islande, en Norvège et au Mexique dans cette version.  
+
+## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.  
 
 ## <a name="see-also"></a>Voir aussi
 [Résumé des nouveautés de Business Central](planned-features.md)  

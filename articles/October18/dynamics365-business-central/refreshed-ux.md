@@ -11,18 +11,17 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0ab4fdabd59b610bd0fdd02939ee7784cf9b903c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 9979f961a07e1238fad7f6f8e8295413ad456b59
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="refreshed-desktop-experience"></a>Expérience de bureau actualisée
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](Includes/disclaimer.md)]
 
 
 Une expérience actualisée et moderne facilite l'adaptation de Dynamics 365 Business Central à votre organisation et simplifie le parcours d'apprentissage pour les utilisateurs. Les clients bénéficient d'une expérience utilisateur nouvelle et actualisée leur permettant d'être plus productifs, tandis que les partenaires Microsoft valorisent la facilité avec laquelle ils peuvent désormais commercialiser le produit et intégrer de nouveaux clients. L'actualisation ne s'arrête pas uniquement à l'aspect visuel. Les expériences avec l'application sont encore ajustées, simplifiées et améliorées.
@@ -56,5 +55,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 

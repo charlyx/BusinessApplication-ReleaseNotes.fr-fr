@@ -1,9 +1,10 @@
 ---
-title: PowerApps
+title: Microsoft PowerApps
 description: "PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage."
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: fd8f05b1-8b41-e811-a954-000d3a15a7d1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 335fc3cd615e57056b7b57d589913c366571186b
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 86083e53d804f350b1acdb9ca38363ad57beef4f
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft PowerApps
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 
 PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage. Reportez-vous à la [documentation](https://docs.microsoft.com/powerapps/) de PowerApps pour obtenir des informations et des réponses éclairées à vos questions, quelle que soit la façon dont vous utilisez PowerApps.
@@ -42,7 +41,7 @@ Dans la foulée de la version d'avril 2018, des mises à jour importantes ont �
 
 PowerApps est une plateforme d'entreprise qui offre aux utilisateurs finaux une expérience rapide, fiable et cohérente au sein d'appareils mobiles et du Web.  
 
-Les clients de Dynamics 365 for Sales, Customer Service, Field Service et Project Service, ainsi que les applications IT et ISV, peuvent désormais utiliser Unified Interface afin de profiter d'expériences réactives, adaptables et performantes qui fournissent toutes les fonctionnalités dont ils ont besoin. Un lecteur mobile unifié fournit également un emplacement unique pour trouver et lancer des applications de canevas et des applications pilotées par modèle conçues par Microsoft, les ISV et les services informatiques.  
+Les clients de Dynamics 365 for Sales, Customer Service, Field Service et Project Service, ainsi que les applications IT et ISV, peuvent désormais utiliser Unified Interface afin de profiter d'expériences réactives, adaptables et performantes qui fournissent toutes les fonctionnalités dont ils ont besoin. Un lecteur mobile unifié offre également un emplacement unique pour chercher et lancer des applications de canevas et des applications basées sur des modèles conçues par Microsoft, des éditeurs de logiciels indépendants et les services informatiques.  
 
 ## <a name="enterprise-grade-platform-for-administrators"></a>Plateforme de qualité professionnelle pour les administrateurs 
 

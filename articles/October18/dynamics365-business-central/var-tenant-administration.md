@@ -12,15 +12,17 @@ ms.technology:
 ms.author: danderso
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bedb0e082bb83e585ba8dd3dea4da5e42f70c1f9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2d0118fd46a8b735e88c008b2c9a0677e8db750b
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="tenant-administration-for-vars"></a>Administration des clients pour les revendeurs informatiques
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Les revendeurs informatiques de Dynamics 365 Business Central peuvent gérer le cycle de vie des solutions de leurs clients à l'aide des pages d'administration.  
 
@@ -37,5 +39,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 

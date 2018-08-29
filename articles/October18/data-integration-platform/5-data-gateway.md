@@ -1,29 +1,27 @@
 ---
 title: "Connectivité hybride de niveau professionnel via la passerelle de données sur site"
-description: "Connectivité hybride de qualité professionnelle via la passerelle de données sur site"
-author: MargoC
+description: "Connectivité hybride de niveau professionnel via la passerelle de données sur site"
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 5b0c45ea-97e4-4e6f-8555-f2bc05ccb336
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a7d7af2618f94a26de1f78a89b253af4d0c4225a
+ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
+ms.openlocfilehash: 29480860b839d38f18ef16541c9f2c3a45c0dff3
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>Connectivité hybride de niveau professionnel via la passerelle de données sur site
 
-[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Cette version comprend plusieurs mises à jour visant à amélioration la passerelle de données sur site.
 
@@ -36,12 +34,7 @@ La prise en charge des connecteurs personnalisés dans la passerelle permet aux 
 ![Prise en charge des connecteurs personnalisés dans la passerelle de données sur site](media/custom-connectors-support-premises-data-gateway-1.jpg "Prise en charge des connecteurs personnalisés dans la passerelle de données sur site")
 
 ## <a name="gateway-multi-geo-support-for-power-bi-premium"></a>Prise en charge de la passerelle dans plusieurs régions pour Power BI Premium
-
-Dans le cadre des travaux de prise en charge du service Power BI dans plusieurs régions, la passerelle de données sur site va permettre aux utilisateurs, pendant la configuration, de choisir une autre région que celle d'origine de leur client. Cela garantira que les informations relatives à la source de données et ses informations d'identification soient conservées dans la région choisie conformément aux besoins réglementaires uniques de l'organisation.
-
-Les expériences doivent être mises à jour afin que les utilisateurs puissent tirer parti de la passerelle de données sur site dans ces régions. Une partie de cet effort implique de s'assurer que les informations sur la source de données (par exemple, les informations d'identification) ne quittent pas la région om se trouve l'espace de travail (conformément à la souveraineté des données).
-
-![Prise en charge dans plusieurs régions de la passerelle de données sur site](media/gateway-multi-geo-support-pbi-premium-1.png "Prise en charge dans plusieurs régions de la passerelle de données sur site")
+En raison d'un changement des priorités, le délai prévu pour cette fonctionnalité n'a pas été déterminé. L'examen de cette prise en charge se poursuivant, donnez votre avis sur cette suggestion sur https://ideas.powerbi.com afin d'aider à établir un ordre de priorité.
 
 ## <a name="guarantee-high-availability-of-gateways-via-clustering"></a>Garantie de haute disponibilité des passerelles à l'aide du clustering
 Les fonctionnalités de haute disponibilité dans la passerelle de données sur site que nous avons lancées en novembre 2017 passent de la version préliminaire publique à la disponibilité générale. Dans le cadre de cet effort, plusieurs améliorations de l'expérience ont été apportées, en particulier une meilleure génération de rapports d'erreurs et une expérience utilisateur améliorée.

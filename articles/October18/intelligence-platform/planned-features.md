@@ -3,26 +3,28 @@ title: "Synthèse des fonctionnalités prévues pour Power BI en octobre 2018"
 description: "Synthèse des fonctionnalités prévues pour Power BI en octobre 2018"
 author: KumarVivek
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 08/16/2018
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
-ms.topic: article
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: kvivek
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0291edeb85cbe46956dba170e1c35e009b0bdcf6
+ms.sourcegitcommit: 5d2d0b20482e7a8466673d76148974360b2ad719
+ms.openlocfilehash: 83b681b31d6e7fee227d456d3a8bbe6b4a9c16d0
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/20/2018
 
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>Résumé des nouveautés dans le décisionnel
 
 Cette rubrique répertorie les fonctionnalités Power BI qui seront lancées entre octobre 2018 et mars 2019. 
 
-[!include[banner](../../includes/banner.md)]
+Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+    
+Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck).
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
 
@@ -121,12 +123,9 @@ Cette rubrique répertorie les fonctionnalités Power BI qui seront lancées ent
 |Fonctionnalité   |Type de version   |Mois de la version cible    |
 |----------|---------------|------------------------|
 |[Appliquer et modifier des thèmes](power-bi-embedded/apply-change-themes.md)   |Disponibilité générale   |Octobre 2018    |
-|[Déploiement de bout en bout automatique des solutions Power BI Embedded](power-bi-embedded/automatic-end-end-deployment-pbi-embedded-solutions.md)   |Disponibilité générale   |Octobre 2018    |
-|[Déployer un tableau de bord ou une vignette mis à jour dans l'environnement de production](power-bi-embedded/deploy-updated-dashboard-or-tile-production.md)   |Disponibilité générale   |Octobre 2018    |
 |[Autoriser les développeurs à résoudre les problèmes](power-bi-embedded/enable-developers-troubleshoot.md)   |Disponibilité générale   |Octobre 2018    |
-|[Amélioration des API d'actualisation](power-bi-embedded/improved-refresh-apis.md)   |Disponibilité générale   |Octobre 2018    |
-|[Intégration avec Azure Diagnostics](power-bi-embedded/integration-azure-diagnostics.md)   |Disponibilité générale   |Octobre 2018    |
-|[Intégration avec Azure Service Health](power-bi-embedded/integration-azure-service-health.md)   |Disponibilité générale   |Octobre 2018    |
+|[Intégration à Azure Diagnostics](power-bi-embedded/integration-azure-diagnostics.md)   |Disponibilité générale   |Octobre 2018    |
+|[Intégration à Azure Service Health](power-bi-embedded/integration-azure-service-health.md)   |Disponibilité générale   |Octobre 2018    |
 |[Nouveau portail pour les développeurs](power-bi-embedded/new-developer-portal.md)   |Disponibilité générale   |Octobre 2018    |
 |[Nouvelles mesures pour l'analyse de chargement Azure](power-bi-embedded/new-metrics-azure-load-monitoring.md)   |Disponibilité générale   |Octobre 2018    |
 |[Authentification unique pour Azure SQL Database](power-bi-embedded/single-sign-azure-sql.md)   |Disponibilité générale   |Octobre 2018    |
@@ -142,9 +141,9 @@ Cette rubrique répertorie les fonctionnalités Power BI qui seront lancées ent
 
 |Fonctionnalité   |Type de version   |Mois de la version cible    |
 |----------|---------------|------------------------|
-|[Prise en charge de nouvelles fonctionnalités d'états Power BI](power-bi-report-server/index.md)   |Disponibilité générale   |Novembre 2018    |
-|[Sécurité au niveau des lignes](power-bi-report-server/index.md)   |Disponibilité générale   |Novembre 2018    |
-|[Exporter vers Excel](power-bi-report-server/index.md)   |Disponibilité générale   |Novembre 2018    |
+|[Prise en charge de nouvelles fonctionnalités d'états Power BI](power-bi-report-server/index.md)   |Disponibilité générale        |Novembre 2018    |
+|[Sécurité au niveau des lignes](power-bi-report-server/index.md)   |Disponibilité générale         |Novembre 2018    |
+|[Exporter vers Excel](power-bi-report-server/index.md)   |Disponibilité générale         |Novembre 2018    |
 
 ## <a name="azure-analysis-services"></a>Azure Analysis Services
 

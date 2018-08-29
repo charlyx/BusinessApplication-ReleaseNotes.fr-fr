@@ -11,16 +11,18 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d076a2face7adf8d869e4d3734bf4fec61fffff2
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0e3b1f56fa7a29f3717c4bc622f175f275f1fe21
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="permission-sets-are-editable"></a>Ensembles d'autorisation modifiables
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Les clients ont souvent leurs propres définitions de ce qu'il est possible de faire dans Business Central, et elles ne s'alignent pas toujours à nos ensembles d'autorisation prédéfinis. Pour résoudre ce problème, nous avons rendu les ensembles d'autorisation modifiables afin de pouvoir en ajouter, en supprimer, et en modifier.
 
@@ -44,5 +46,5 @@ No regional restrictions. All Dynamics 365 Business Central supported markets.
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 

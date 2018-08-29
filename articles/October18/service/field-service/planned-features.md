@@ -3,23 +3,25 @@ title: "Résumé rapide d'octobre 2018 pour Dynamics 365 for Field Service"
 description: "Résumé rapide d'octobre 2018 pour Dynamics 365 for Field Service"
 author: krbjoran
 manager: shellyhaverkamp
-ms.date: 7/22/2018
-ms.topic: article
+ms.date: 8/16/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shellyha
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 057868f9243ae2e2935077a38f0b332da57e2b98
+ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
+ms.openlocfilehash: d8a6d893eb7f97459aa99bae0b87a7c2a8a30f78
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-for-field-service-october-18"></a>Résumé des nouveautés pour Dynamics 365 for Field Service en octobre 2018 
 
-
+Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+    
+Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck).
 
 ## <a name="overall-field-service"></a>Field Service global
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: edupont
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ab0610c7d9dacc44e4bfbefbab543e1b1bb5092e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a4fc519fe5d22b76e5000b7c6d5d9cdd92dae898
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="intelligent-edge-for-dynamics-gp-dynamics-sl-and-dynamics-nav"></a>Périphérie intelligente pour Dynamics GP, Dynamics SL et Dynamics NAV
 
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft continue d'investir massivement dans le cloud intelligent et rassemble le décisionnel, l'intelligence artificielle, le machine learning et d'autres outils de productivité et d'analyse cloud dans le Marketplace. Les clients qui utilisaient des solutions locales ne pouvaient pas facilement tirer parti de ces services.  
 
@@ -43,5 +45,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 
