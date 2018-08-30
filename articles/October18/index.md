@@ -23,9 +23,9 @@ ms.lasthandoff: 08/17/2018
 
 
 
-[![Toile de fond de l'image 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/p/?linkid=2005971)
+[![Toile de fond de l'image 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/?linkid=2005971&clcid=0x40c)
 
-[Télécharger les notes de publication d'octobre 2018 au format PDF](https://go.microsoft.com/fwlink/p/?linkid=2005971) (dernière mise à jour le 30 juillet 2018)
+[Télécharger les notes de publication d'octobre 2018 au format PDF](https://go.microsoft.com/fwlink/?linkid=2005971&clcid=0x40c) (dernière mise à jour le 30 juillet 2018)
 
 La version d'octobre 2018 des applications de gestion offre des fonctionnalités significatives pour vous permettre de transformer votre entreprise. Ces nouveaux services et nouvelles fonctionnalités seront disponibles à partir d'octobre 2018. (Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).)
 
