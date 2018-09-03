@@ -12,19 +12,19 @@ ms.technology:
 ms.author: mikebc
 audience: end user, developer, customizer, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 85a3d084efe34419cdac7224df384f5e09d7de84
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d2e0f1bde539db34076464b379511892b3005d4a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 
 #  <a name="improvements-to-search"></a>Améliorations dans les recherches
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](Includes/disclaimer.md)]
+
 
 Trouver votre chemin dans Dynamics 365 Business Central est devenu plus simple. La productivité augmente lorsque les utilisateurs trouvent ce qu'ils cherchent, et c'est souvent ainsi que les utilisateurs procèdent. Par conséquent, nous avons élargi l'étendue de la recherche, amélioré la logique utilisée par la recherche, et simplifié l'identification des résultats pertinents.
 
@@ -44,5 +44,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 

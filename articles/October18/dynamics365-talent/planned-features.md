@@ -3,27 +3,27 @@ title: "Synthèse des fonctionnalités prévues pour la version d'octobre 2018 
 description: "Synthèse des fonctionnalités prévues pour la version d'octobre 2018 de Microsoft Dynamics 365 for Talent"
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 560aef22ae7d563508bc590895382dc5e122376d
-ms.openlocfilehash: 303dc076773abd5e76e77299ad0709c56e4e7c9e
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: f2561b963a9acc8110ea4d6b8542086d6d731385
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Résumé des nouveautés dans Dynamics 365 for Talent
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
-
 Cette rubrique répertorie les fonctionnalités qui seront lancées dans Microsoft Dynamics 365 for Talent entre octobre 2018 et mars 2019. 
 
-
+Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+    
+Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck). 
 
 
 ## <a name="attract"></a>Attract

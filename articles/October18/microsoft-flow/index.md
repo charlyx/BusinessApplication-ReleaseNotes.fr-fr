@@ -1,27 +1,25 @@
 ---
 title: Microsoft Flow
-description: "Présentation de Microsoft Flow dans ces notes de publication."
+description: "Automatisez les tâches en intégrant vos applications préférées à Microsoft Flow. Simplifiez les tâches répétitives grâce à l'automatisation du workflow."
 author: stepsic-microsoft-com
-manager: AnnBe
-ms.date: 7/22/2018
+manager: KVivek
+ms.date: 8/10/2018
+ms.assetid: 009005b1-8b41-e811-a954-000d3a15a7d1
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: stepsic
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8701eec81a54744f3ee9c43f86f05cc5a73e7927
+ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
+ms.openlocfilehash: b9b39df75fd9871992c109b59fdd27e4eac38068
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/20/2018
 
 ---
+
 # <a name="overview-of-microsoft-flow-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft Flow
-
-
-[!include[banner](../../includes/banner.md)]
-
 
 Microsoft modernise les processus d'entreprise dans l'ensemble de l'organisation : applications CRM et ERP. Il est désormais plus simple pour chaque entreprise (et chaque fonction) de transformer la manière de travailler. Microsoft Flow, les workflows de Microsoft et la plateforme de gestion des processus d'entreprise, sont essentiels pour la réussite de cette mission.
 

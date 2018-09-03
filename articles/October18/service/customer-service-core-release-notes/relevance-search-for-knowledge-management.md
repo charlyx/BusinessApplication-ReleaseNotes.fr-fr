@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8bd0b2bfcb632e855c73c73050a72ab08f153d0d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e523a6bbfc92d129f1c58869769e8054099b0fe4
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="relevance-search-for-knowledge-management"></a>Recherche par pertinence pour la gestion des connaissances 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Le contrôle de recherche de la Base de connaissances Dynamics 365 fournit des connaissances aux agents en fonction du contexte de la gestion de dossiers. Elle est désormais optimisée par la recherche par pertinence pour fournir des résultats avec des performances et une précision améliorés. 
 
@@ -29,6 +31,6 @@ Cette fonctionnalité permet aux agents de choisir les articles les plus pertine
 
 Les agents peuvent utiliser cette recherche avancée du contrôle de recherche dans la Base de connaissances par défaut, une fois que la recherche par pertinence est activée pour l'organisation. Cela ne nécessite pas de configuration supplémentaire.
 
-Cette fonctionnalité est désormais disponible sur l'application Concentrateur du service client du client unifié en plus du client Web, où elle est déjà disponible.
+Cette fonctionnalité est désormais disponible dans l'application Concentrateur du service client d'Unified Interface en plus du client Web, où elle est déjà disponible.
  
 

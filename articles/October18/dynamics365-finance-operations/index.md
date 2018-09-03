@@ -3,31 +3,28 @@ title: "Présentation de la version d'octobre 2018 de Microsoft Dynamics 365 fo
 description: "Présentation de la version d'octobre 2018 de Microsoft Dynamics 365 for Finance and Operations"
 author: MargoC
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: margoc
 audience: Admin, end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7841e50443ffac2e0a4a86a002ca1f2c922c9c63
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 362355fb385f518f4824ee7789ccf5d995bf05ca
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Finance and Operations
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-
-
-Cette rubrique décrit les principaux thèmes de la version d'octobre 2018 de Finance and Operations. 
+Cette rubrique décrit les principaux thèmes de la version d'octobre 2018 de Finance and Operations. (Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332).)
 
 ## <a name="focus-on-fundamentals"></a>Focus sur les fondamentaux
 
-La version d'octobre 2018 continue à développer les efforts de supportabilité pour la communauté.
+La version d'octobre 2018 continue à développer les efforts en matière de prise en charge pour la communauté.
 La communauté peut ainsi créer des solutions extensibles intégrées à l'application Finance and Operations. Microsoft gère les mises à jour continues de la plateforme et des états financiers sans que des mises à niveau coûteuses soient requises. Les clients peuvent opter pour un abonnement complet à Finance and Operations en ligne. Le code et les données client seront conservés dans la région de données de leur choix. La résidence des données sera mise à disposition en Europe puis développée dans d'autres régions.
 
 -   **Amélioration de l'expérience de l'utilisateur professionnel.** Les utilisateurs professionnels constatent chaque jour des gains de productivité importants car ils peuvent enregistrer et partager des vues de données optimisées, regrouper des données basées sur une liste de valeurs, filtrer par date et autoriser des filtrages Excel par en-tête de colonne. Les utilisateurs professionnels souhaitent contrôler leur expérience. Les fonctionnalités de personnalisation leur permettent d'ajouter/de supprimer des colonnes d'une grille et de masquer n'importe quel champ pour simplifier et améliorer la rapidité de saisie des données.

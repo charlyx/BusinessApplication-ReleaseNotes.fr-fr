@@ -11,18 +11,18 @@ ms.technology:
 ms.author: robadawy
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f6c93fabbf746e3521e5a79695191e06391726f3
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 95b8f4ed8f61973de532c513eb8c7f410bc805a5
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="managing-batch-jobs"></a>Gestion des traitements par lots
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-Dans la version d'octobre 2018, les administrateurs de Finance and Operations se verront offrir un ensemble de nouvelles fonctionnalités pour la gestion des traitements par lots.
+À partir de la version d'octobre 2018, les administrateurs de Finance and Operations se verront offrir un ensemble de nouvelles fonctionnalités pour la gestion des traitements par lots. Ces fonctionnalités seront offertes de façon progressive dans le cadre de mises à jour mensuelles de la plateforme.
 
 Les outils productifs permettant de gérer la création, l'exécution et les investigations des traitements par lots sont indispensables pour aider les administrateurs à gérer les performances et l'efficacité du système.
 

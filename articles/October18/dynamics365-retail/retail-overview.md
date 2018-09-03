@@ -1,29 +1,25 @@
 ---
 title: "Présentation de la version d'octobre 2018 de Dynamics 365 for Retail"
-description: "Dynamics 365 for Retail Présentation de la version d'octobre 2018"
+description: "Présentation de la version d'octobre 2018 de Dynamics 365 for Retail"
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f1fc9283f5dada51a46c3dccb2f16df75738fed5
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 06098d28c29b43580510cc52245f9ed26e8a9eed
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Retail
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
-
-
-
-
+Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
 
 La version d'octobre 2018 de Dynamics 365 for Retail comprend ce qui suit : 
 

@@ -2,25 +2,27 @@
 title: "Résumé des nouveautés dans Dynamics 365 for Marketing"
 description: "Résumé rapide d'octobre 2018 pour Dynamics 365 for Marketing"
 keywords: 
-ms.date: 7/22/2018
+ms.date: 8/15/2018
 ms.service:
 - business-applications
-ms.topic: article
+ms.topic: summary
 ms.assetid: f8275738-a6c7-61e1-5113-fbbd1dc562a5
 author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 98ba261f028a612364403ddf46919d317de887d3
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: f9eb4102dd34e6e1db0b3d31e2e7b674c103fa85
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-dynamics-365-for-marketing"></a>Résumé des nouveautés dans Dynamics 365 for Marketing
 
-[!INCLUDE[banner](../../../includes/banner.md)]
+Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
+
+Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck). 
 
 | Fonctionnalité                                                               | Type de version                     | Mois de la version cible  |
 |-----------------------------------------------------------------------|----------------------------------|-----------------------|
@@ -32,5 +34,7 @@ ms.lasthandoff: 07/18/2018
 | [Expérience de segmentation enrichie](richer-segmentation-experience.md)   | Disponibilité générale             | Octobre 2018          |
 | [Analyses personnalisées](custom-analytics.md)                               | Disponibilité générale             | Octobre 2018          |
 | [Langues et zones géographiques supplémentaires](regions.md)                    | Disponibilité générale             | Octobre 2018          |
-| [Contenu vidéo à l'aide de Microsoft Stream](video-content-using-stream.md) | Version préliminaire publique                   | Octobre 2018          |
+| [Vidéos dans du contenu marketing](video-content.md) | Version préliminaire publique                   | Octobre 2018          |
+
+
 

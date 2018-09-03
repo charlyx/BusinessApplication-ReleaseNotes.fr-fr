@@ -11,16 +11,18 @@ ms.technology:
 ms.author: ivkoleti
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 92800544a2b166ba93ca355893553d2172b975b8
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f1ce9cd6acb99d621466fb5e79b144f638630abb
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="making-business-central-available-in-new-markets"></a>Rendre Business Central disponible dans de nouveaux marchés
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 Business Central dispose d'une stratégie de localisation associant à la fois des modèles gérés par les partenaires et par Microsoft. Nous continuons à répondre aux scénarios gérés par les partenaires et nous espérons que des pays supplémentaires pourront bientôt profiter des extensions d'applications de localisation dans Microsoft AppSource. Dans cette version, Microsoft fournit également une version localisée de Business Central sur les marchés suivants :
 
@@ -46,5 +48,5 @@ No regional restrictions.
 -->
 
 ## <a name="tell-us-what-you-think"></a>Donnez-nous votre avis
-Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralfeedback.
+Aidez-nous à améliorer Dynamics 365 Business Central en proposant des idées, en fournissant des suggestions et en offrant des commentaires. Utilisez le forum de Business Central à l'adresse https://aka.ms/businesscentralideas.
 
