@@ -1,2 +1,2 @@
-> [!IMPORTANT]
-> <span data-ttu-id="aef4b-101">Cet article décrit les fonctionnalités qui sont actuellement _en développement_ pour **Microsoft Dynamics 365 Business Central**.</span><span class="sxs-lookup"><span data-stu-id="aef4b-101">This article covers features that are currently _in development_ for **Microsoft Dynamics 365 Business Central**.</span></span>
+<span data-ttu-id="8db4c-101">Ne pas utiliser INCLUDE <!--></span><span class="sxs-lookup"><span data-stu-id="8db4c-101">Do not use this INCLUDE <!--></span></span> [!IMPORTANT]
+> <span data-ttu-id="8db4c-102">Cet article décrit les fonctionnalités qui sont actuellement _en développement_ pour **Microsoft Dynamics 365 Business Central**.--></span><span class="sxs-lookup"><span data-stu-id="8db4c-102">This article covers features that are currently _in development_ for **Microsoft Dynamics 365 Business Central**.--></span></span>

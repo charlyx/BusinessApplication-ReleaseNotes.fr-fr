@@ -2,25 +2,27 @@
 title: "Concepteur « allégé » pour tous les modèles"
 description: "La création des flux sera beaucoup plus facile avec une expérience de première configuration pour les modèles : les utilisateurs auront simplement à fournir les paramètres requis."
 author: sunayv
-manager: AnnBe
-ms.date: 7/22/2018
+manager: KVivek
+ms.date: 8/10/2018
+ms.assetid: 4b7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: sunayv
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6dc3e120b1591ed0d80221db5cb03cf1387c6349
+ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
+ms.openlocfilehash: 13d524f74e9c7d68c23243c5310f95f91ca8cef6
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/20/2018
 
 ---
-# <a name="diet-designer-for-all-templates"></a><span data-ttu-id="78ee4-103">Concepteur « allégé » pour tous les modèles</span><span class="sxs-lookup"><span data-stu-id="78ee4-103">Diet designer for all templates</span></span>
+# <a name="diet-designer-for-all-templates"></a><span data-ttu-id="840c9-103">Concepteur « allégé » pour tous les modèles</span><span class="sxs-lookup"><span data-stu-id="840c9-103">Diet designer for all templates</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="78ee4-104">Présentation d'une nouvelle expérience améliorée pour créer des flux à partir des modèles.</span><span class="sxs-lookup"><span data-stu-id="78ee4-104">Introducing a new and improved experience for creating flows from templates.</span></span> <span data-ttu-id="78ee4-105">Avec cette nouvelle mise à jour, vous n'avez pas à vous préoccuper de la logique interne pour activer un scénario métier ou d'avoir à créer un workflow pour celui-ci.</span><span class="sxs-lookup"><span data-stu-id="78ee4-105">With this new update, you don't need to worry about the internal logic for enabling a business scenario or how to create a workflow for it.</span></span> <span data-ttu-id="78ee4-106">Il suffit de choisir le modèle qui répond à vos besoins, de fournir des entrées de configuration et des connexions, et vous obtiendrez des scénarios d'entreprise automatisés en une minute au maximum !</span><span class="sxs-lookup"><span data-stu-id="78ee4-106">Just choose the template that fits your needs, provide configuration inputs and connections, and you will be automating business scenarios in a minute or less!</span></span>
+<span data-ttu-id="840c9-104">Présentation d'une nouvelle expérience améliorée pour créer des flux à partir des modèles.</span><span class="sxs-lookup"><span data-stu-id="840c9-104">Introducing a new and improved experience for creating flows from templates.</span></span> <span data-ttu-id="840c9-105">Avec cette nouvelle mise à jour, vous n'avez pas à vous préoccuper de la logique interne pour activer un scénario métier ou d'avoir à créer un workflow pour celui-ci.</span><span class="sxs-lookup"><span data-stu-id="840c9-105">With this new update, you don't need to worry about the internal logic for enabling a business scenario or how to create a workflow for it.</span></span> <span data-ttu-id="840c9-106">Il suffit de choisir le modèle qui répond à vos besoins, de fournir des entrées de configuration et des connexions, et vous obtiendrez des scénarios d'entreprise automatisés en une minute au maximum.</span><span class="sxs-lookup"><span data-stu-id="840c9-106">Just choose the template that fits your needs, provide configuration inputs and connections, and you will be automating business scenarios in a minute or less.</span></span>
+
 

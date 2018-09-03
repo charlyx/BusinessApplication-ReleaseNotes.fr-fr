@@ -2,29 +2,31 @@
 title: "Résumé des nouveautés dans Microsoft Social Engagement"
 description: "Résumé rapide d'octobre 2018 pour Microsoft Social Engagement"
 keywords: 
-ms.date: 07/22/2018
+ms.date: 08/16/2018
 ms.service: business-applications
-ms.topic: article
+ms.topic: summary
 ms.assetid: ad9424f4-23b1-40c8-b514-62318b6c463a
 author: m-hartmann
 ms.author: mhart
 manager: AnnBe
 topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: d64c190810a92b09266cb356f25264cca740b746
+ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
+ms.openlocfilehash: 1f86ae8c3e9fe3c59d5eefb8e044d7082e7eac80
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 
-#  <a name="summary-of-whats-new-in-microsoft-social-engagement"></a><span data-ttu-id="672a2-103">Résumé des nouveautés dans Microsoft Social Engagement</span><span class="sxs-lookup"><span data-stu-id="672a2-103">Summary of what's new in Microsoft Social Engagement</span></span>
+#  <a name="summary-of-whats-new-in-microsoft-social-engagement"></a><span data-ttu-id="a421a-103">Résumé des nouveautés dans Microsoft Social Engagement</span><span class="sxs-lookup"><span data-stu-id="a421a-103">Summary of what's new in Microsoft Social Engagement</span></span>
 
+<span data-ttu-id="a421a-104">Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées.</span><span class="sxs-lookup"><span data-stu-id="a421a-104">These release notes describe functionality that may not have been released yet.</span></span> <span data-ttu-id="a421a-105">Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).</span><span class="sxs-lookup"><span data-stu-id="a421a-105">Delivery timelines and projected functionality may change or may not ship (see [Microsoft policy](https://go.microsoft.com/fwlink/p/?linkid=2007332)).</span></span>
+    
+<span data-ttu-id="a421a-106">Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck).</span><span class="sxs-lookup"><span data-stu-id="a421a-106">For a list of the regions where Dynamics 365 business applications are available, see the [International availability guide](https://aka.ms/dynamics_365_international_availability_deck).</span></span>
 
-
-| <span data-ttu-id="672a2-104">Fonctionnalité</span><span class="sxs-lookup"><span data-stu-id="672a2-104">Feature</span></span>                                                                                     | <span data-ttu-id="672a2-105">Type de version</span><span class="sxs-lookup"><span data-stu-id="672a2-105">Release type</span></span> | <span data-ttu-id="672a2-106">Mois de la version cible</span><span class="sxs-lookup"><span data-stu-id="672a2-106">Target release month</span></span> |
+| <span data-ttu-id="a421a-107">Fonctionnalité</span><span class="sxs-lookup"><span data-stu-id="a421a-107">Feature</span></span>                                                                                     | <span data-ttu-id="a421a-108">Type de version</span><span class="sxs-lookup"><span data-stu-id="a421a-108">Release type</span></span> | <span data-ttu-id="a421a-109">Mois de la version cible</span><span class="sxs-lookup"><span data-stu-id="a421a-109">Target release month</span></span> |
 |---------------------------------------------------------------------------------------------|--------------|----------------------|
-| [<span data-ttu-id="672a2-107">Configuration rapide et aperçus instantanés</span><span class="sxs-lookup"><span data-stu-id="672a2-107">Quick setup and instant insights</span></span>](quick-setup.md)                                        | <span data-ttu-id="672a2-108">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="672a2-108">General Availability</span></span>           | <span data-ttu-id="672a2-109">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="672a2-109">October 2018</span></span>          |
-| [<span data-ttu-id="672a2-110">Panorama social dans Dynamics 365 for Marketing</span><span class="sxs-lookup"><span data-stu-id="672a2-110">Social Insights in Dynamics 365 for Marketing</span></span>](social-insights-dynamics365-marketing.md) | <span data-ttu-id="672a2-111">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="672a2-111">General Availability</span></span>           | <span data-ttu-id="672a2-112">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="672a2-112">October 2018</span></span>          |
-| [<span data-ttu-id="672a2-113">Langues supplémentaires</span><span class="sxs-lookup"><span data-stu-id="672a2-113">Additional languages</span></span>](additional-languages.md)                                           | <span data-ttu-id="672a2-114">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="672a2-114">General Availability</span></span>           | <span data-ttu-id="672a2-115">Décembre 2018</span><span class="sxs-lookup"><span data-stu-id="672a2-115">December 2018</span></span>         |
+| [<span data-ttu-id="a421a-110">Configuration rapide et aperçus instantanés</span><span class="sxs-lookup"><span data-stu-id="a421a-110">Quick setup and instant insights</span></span>](quick-setup.md)                                        | <span data-ttu-id="a421a-111">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="a421a-111">General Availability</span></span>           | <span data-ttu-id="a421a-112">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="a421a-112">October 2018</span></span>          |
+| [<span data-ttu-id="a421a-113">Panorama social dans Dynamics 365 for Marketing</span><span class="sxs-lookup"><span data-stu-id="a421a-113">Social Insights in Dynamics 365 for Marketing</span></span>](social-insights-dynamics365-marketing.md) | <span data-ttu-id="a421a-114">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="a421a-114">General Availability</span></span>           | <span data-ttu-id="a421a-115">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="a421a-115">October 2018</span></span>          |
+| [<span data-ttu-id="a421a-116">Langues supplémentaires</span><span class="sxs-lookup"><span data-stu-id="a421a-116">Additional languages</span></span>](additional-languages.md)                                           | <span data-ttu-id="a421a-117">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="a421a-117">General Availability</span></span>           | <span data-ttu-id="a421a-118">Décembre 2018</span><span class="sxs-lookup"><span data-stu-id="a421a-118">December 2018</span></span>         |
 

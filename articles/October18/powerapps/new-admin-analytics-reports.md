@@ -1,9 +1,10 @@
 ---
 title: Nouveaux rapports d'analyse administrateur
 description: De nouveaux rapports d'utilisation PowerApps, Microsoft Flow et Common Data Service pour les applications sont disponibles pour tous les administrateurs
-author: sashri
+author: saumil-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: a81c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +12,16 @@ ms.technology:
 ms.author: sashri
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d8d557bc571858c775e08dca4bc4cd3ee6904c80
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: bde3a552e8b23780a39ce08faa8a8406f814e792
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="new-admin-analytics-reports"></a><span data-ttu-id="04f8b-103">Nouveaux rapports d'analyse administrateur</span><span class="sxs-lookup"><span data-stu-id="04f8b-103">New admin analytics reports</span></span>
+# <a name="new-admin-analytics-reports"></a><span data-ttu-id="87466-103">Nouveaux rapports d'analyse administrateur</span><span class="sxs-lookup"><span data-stu-id="87466-103">New admin analytics reports</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="04f8b-104">Pour les administrateurs de Common Data Service pour les applications, il n'est plus nécessaire d'installer la solution d'aperçu de l'organisation dans leur environnement. Tous les rapports d'aperçu de l'organisation sont disponibles (par défaut) dans le centre d'administration.</span><span class="sxs-lookup"><span data-stu-id="04f8b-104">For Common Data Service for Apps admins, there is no longer a need to install the Org Insights solution in their environment; all of the org insights reports are available (by default) from the admin center.</span></span>
+<span data-ttu-id="87466-104">Pour les administrateurs de Common Data Service pour les applications, il n'est plus nécessaire d'installer la solution d'aperçu de l'organisation dans leur environnement. Tous les rapports d'aperçu de l'organisation sont disponibles (par défaut) dans le [centre d'administration Power Platform](https://go.microsoft.com/fwlink/?linkid=875536).</span><span class="sxs-lookup"><span data-stu-id="87466-104">For Common Data Service for Apps admins, there is no longer a need to install the Org Insights solution in their environment; all of the org insights reports are available (by default) from the [Power platform admin center](https://go.microsoft.com/fwlink/?linkid=875536).</span></span>
 
