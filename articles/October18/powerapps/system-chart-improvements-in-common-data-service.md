@@ -2,20 +2,20 @@
 title: "Améliorations générales de la facilité d'utilisation, de l'accessibilité et de la mise en forme dans les graphiques système"
 description: "Améliorations générales de la facilité d'utilisation, de l'accessibilité et de la mise en forme dans les graphiques système"
 author: prsi
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 761c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: prsi
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 54c48ddb56474cb11622cb5ccaf56e685b89b156
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: e3a8342388492364810831fef3b8f6dfb61918af
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="general-usability-accessibility-and-styling-improvements-in-system-charts"></a><span data-ttu-id="45bff-103">Améliorations générales de la facilité d'utilisation, de l'accessibilité et de la mise en forme dans les graphiques système</span><span class="sxs-lookup"><span data-stu-id="45bff-103">General usability, accessibility, and styling improvements in system charts</span></span>

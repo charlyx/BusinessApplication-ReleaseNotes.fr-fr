@@ -2,26 +2,26 @@
 title: "Synthèse des fonctionnalités prévues pour Microsoft PowerApps en octobre 2018"
 description: "Liste complète des nouvelles fonctionnalités majeures qui seront disponibles dans la version d'octobre 2018 de Microsoft PowerApps."
 author: evchaki
-manager: AnnBe
-ms.date: 8/16/2018
+manager: KVivek
+ms.date: 9/9/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
-ms.openlocfilehash: 7a4db23493ee877d9eaabc90b974375d51e5908b
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 95591436947ef21768bd770f1b837d7f293250b2
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a><span data-ttu-id="bee74-103">Résumé des nouveautés dans Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="bee74-103">Summary of what's new in Microsoft PowerApps</span></span>
 
 <span data-ttu-id="bee74-104">Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées.</span><span class="sxs-lookup"><span data-stu-id="bee74-104">These release notes describe functionality that may not have been released yet.</span></span> <span data-ttu-id="bee74-105">Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).</span><span class="sxs-lookup"><span data-stu-id="bee74-105">Delivery timelines and projected functionality may change or may not ship (see [Microsoft policy](https://go.microsoft.com/fwlink/p/?linkid=2007332)).</span></span>
-    
+
 <span data-ttu-id="bee74-106">Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck).</span><span class="sxs-lookup"><span data-stu-id="bee74-106">For a list of the regions where Dynamics 365 business applications are available, see the [International availability guide](https://aka.ms/dynamics_365_international_availability_deck).</span></span>
 
 ## <a name="capabilities-for-app-creators"></a><span data-ttu-id="bee74-107">Fonctionnalités pour les créateurs d'applications</span><span class="sxs-lookup"><span data-stu-id="bee74-107">Capabilities for app creators</span></span>

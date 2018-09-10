@@ -2,20 +2,20 @@
 title: "Détecter, gérer et signaler les erreurs, et entrer des valeurs Null dans les bases de données avec des applications de canevas"
 description: "Les créateurs d'application peuvent prendre le contrôle des erreurs lorsqu'elles se produisent et entrer des valeurs Null, ce qui est un autre avantage."
 author: gregli-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 461c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: gregli
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: c198c53f04636c4cbef3f6723cfa5246afc06cfa
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 3c5fbf4a44a8de37d7b750f4c30a28967c62c10b
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps-public-preview"></a><span data-ttu-id="9dc92-103">Détecter, gérer et signaler les erreurs, et entrer des valeurs Null dans les bases de données avec des applications de canevas (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="9dc92-103">Catch, handle, and report errors, and write Null values to databases with canvas apps (Public Preview)</span></span>

@@ -2,20 +2,20 @@
 title: "Nouveau concepteur de formulaires basé sur des modèles"
 description: "Vivez l'expérience d'une création de formulaire moderne et plus productive avec notre nouveau concepteur de formulaires basé sur des modèles"
 author: aneesmsft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 911c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: aneesa
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: f0e9fd22a72476b73aabad66d8febeaf3e326222
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 78ed448f108bc0ff77f13c28a8fbcd632b66ea34
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="new-model-driven-form-designer-public-preview"></a><span data-ttu-id="8b594-103">Nouveau concepteur de formulaires basés sur des modèles (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="8b594-103">New model-driven form designer (Public Preview)</span></span>

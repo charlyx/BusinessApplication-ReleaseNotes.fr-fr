@@ -2,20 +2,20 @@
 title: "Événements d'audit PowerApps"
 description: "Les événements d'audit PowerApps sont désormais disponibles dans le Centre de sécurité et de conformité Office 365"
 author: jamesol-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 9f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: jamesol
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: ecd99c751731807dbaad009a1ec277f6cf2180d3
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 0461bd62a4fa4d76a0149247f0ae70bc1e6d5d48
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="powerapps-audit-events"></a><span data-ttu-id="c9f6f-103">Événements d'audit PowerApps</span><span class="sxs-lookup"><span data-stu-id="c9f6f-103">PowerApps audit events</span></span>

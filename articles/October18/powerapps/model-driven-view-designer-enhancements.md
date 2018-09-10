@@ -2,20 +2,20 @@
 title: "Améliorations du concepteur de vues basé sur des modèles"
 description: "Affichez un aperçu en direct de vos vues basées sur des modèles lorsque vous les modifiez"
 author: matthewbolanos
-manager: AnnBe
-ms.date: 8/14/2018
+manager: KVivek
+ms.date: 9/4/2018
 ms.assetid: 941c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: mabolan
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 8414638a5fa2ae15c54519d8a09c4f4fd10e6365
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: f521e23c522d96ab50866e43a694f91a01e4ef7e
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="model-driven-view-designer-enhancements-public-preview"></a><span data-ttu-id="ef8ca-103">Améliorations du concepteur de vues basé sur des modèles (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="ef8ca-103">Model-driven view designer enhancements (Public Preview)</span></span>

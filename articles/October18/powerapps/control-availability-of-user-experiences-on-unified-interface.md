@@ -2,20 +2,20 @@
 title: "Disponibilité du contrôle de l'expérience utilisateur sur Unified Interface"
 description: "Les clients peuvent désactiver de nouvelles expériences utilisateur sur Unified Interface"
 author: shilpas
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shilpas
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 17797d18635af9118ff8d714be5182fc19ebb3d5
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: e2ea2adcc655513359a18c40c89855875136b240
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="f196e-103">Disponibilité du contrôle de l'expérience utilisateur sur Unified Interface</span><span class="sxs-lookup"><span data-stu-id="f196e-103">Control availability of user experiences on Unified Interface</span></span>

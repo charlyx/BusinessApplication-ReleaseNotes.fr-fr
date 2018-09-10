@@ -2,20 +2,20 @@
 title: "Administration d'environnement unifiée"
 description: "Les administrateurs disposent désormais d'un seul emplacement pour mettre en service, surveiller et gérer tous les environnements Common Data Service pour les applications"
 author: ImadYanni
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: a51c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: iyanni
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: ad27fa369cb2959f0136f13bb0923b080fdf3a9f
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 95ed336e1f068b26dc29e979e104b0f7f8ab9e10
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="unified-environment-administration"></a><span data-ttu-id="a271b-103">Administration d'environnement unifiée</span><span class="sxs-lookup"><span data-stu-id="a271b-103">Unified environment administration</span></span>

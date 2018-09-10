@@ -2,20 +2,20 @@
 title: "Contrôles de vue de l'éditeur de texte enrichi et de code HTML pour les applications de canevas"
 description: "Les créateurs d'application peuvent désormais créer du texte enrichi et modifier les champs de texte enrichi SharePoint dans des applications de canevas"
 author: fikaradz
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 2b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: fikaradz
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 34b1e8fad128e6b84f856fc0c339726e72e83b37
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: f3a97731649c318b48190b5b3ebf99b6c02e6f88
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a><span data-ttu-id="76fa8-103">Contrôles de vue de l'éditeur de texte enrichi et de code HTML pour les applications de canevas</span><span class="sxs-lookup"><span data-stu-id="76fa8-103">Rich Text Editor and HTML view controls for canvas apps</span></span>

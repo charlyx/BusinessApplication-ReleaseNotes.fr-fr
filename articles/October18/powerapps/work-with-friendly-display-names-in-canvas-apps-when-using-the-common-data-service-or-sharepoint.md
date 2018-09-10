@@ -2,20 +2,20 @@
 title: Utiliser des noms complets conviviaux dans des applications de canevas avec Common Data Service pour les applications ou SharePoint
 description: "L'époque des noms de développeurs incompréhensibles est révolue. Les créateurs d'application peuvent désormais utiliser les noms qu'ils voient dans le portail de créateur et dans l'interface utilisateur de leur application."
 author: gregli-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 491c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: gregli
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 6b558cfedafa239a3a641fcf40961e834ccc50c7
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: ee67ebe12f0ddf618115e1227162732c94ce3039
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="work-with-friendly-display-names-in-canvas-apps-when-using-common-data-service-for-apps-or-sharepoint"></a><span data-ttu-id="2f83b-104">Utiliser des noms complets conviviaux dans des applications de canevas avec Common Data Service pour les applications ou SharePoint</span><span class="sxs-lookup"><span data-stu-id="2f83b-104">Work with friendly display names in canvas apps when using Common Data Service for Apps or SharePoint</span></span>

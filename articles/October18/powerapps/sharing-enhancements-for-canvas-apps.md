@@ -2,20 +2,20 @@
 title: "Améliorations du partage pour les applications de canevas"
 description: "Le partage d'applications de canevas avec leurs données devient plus facile grâce à l'expérience en ligne."
 author: litran
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 3c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: litran
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 5b29e310356369ab654465dcd56d9b655bfb0cc8
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 4c0731b110cd65541bf46cfb0db6cf46d4496ad4
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a><span data-ttu-id="4c13f-103">Améliorations du partage pour les applications de canevas</span><span class="sxs-lookup"><span data-stu-id="4c13f-103">Sharing enhancements for canvas apps</span></span>

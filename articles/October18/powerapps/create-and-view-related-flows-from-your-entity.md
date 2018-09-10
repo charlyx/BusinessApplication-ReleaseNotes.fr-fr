@@ -2,20 +2,20 @@
 title: "Créer et afficher les flux associés depuis une entité"
 description: "Afficher les flux associés et créer des flux directement depuis une entité"
 author: clwesene
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 621c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: clwesene
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: a55195d34d5c7b99346ce48cdbfb25a26551f44a
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: f6dc30783e896730930b4b85f79d6792d55e68d9
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="create-and-view-related-flows-from-an-entity-public-preview"></a><span data-ttu-id="47e60-103">Créer et afficher les flux associés depuis une entité (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="47e60-103">Create and view related flows from an entity (Public Preview)</span></span>

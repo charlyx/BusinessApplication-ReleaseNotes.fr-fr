@@ -2,27 +2,24 @@
 title: Microsoft PowerApps
 description: "PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage."
 author: evchaki
-manager: AnnBe
+manager: KVivek
 ms.date: 8/10/2018
 ms.assetid: fd8f05b1-8b41-e811-a954-000d3a15a7d1
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 86083e53d804f350b1acdb9ca38363ad57beef4f
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: d73eec1d339fd6ab501626150f5184b8d9ef740f
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
+
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a><span data-ttu-id="26ec2-103">Présentation de la version d'octobre 2018 de Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="26ec2-103">Overview of Microsoft PowerApps October '18 release</span></span>
-
-
-[!include[banner](../../includes/banner.md)]
-
 
 <span data-ttu-id="26ec2-104">PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage.</span><span class="sxs-lookup"><span data-stu-id="26ec2-104">PowerApps is a service that lets you build business apps that run in a browser or on a phone or tablet, and no coding experience is required.</span></span> <span data-ttu-id="26ec2-105">Reportez-vous à la [documentation](https://docs.microsoft.com/powerapps/) de PowerApps pour obtenir des informations et des réponses éclairées à vos questions, quelle que soit la façon dont vous utilisez PowerApps.</span><span class="sxs-lookup"><span data-stu-id="26ec2-105">Use PowerApps [documentation](https://docs.microsoft.com/powerapps/) to get expert information and answers to address your needs, regardless of how you use PowerApps.</span></span>
 
