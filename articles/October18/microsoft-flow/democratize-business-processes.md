@@ -2,28 +2,26 @@
 title: "Démocratiser les processus d'entreprise"
 description: "Démocratisez les processus d'entreprise afin que tous les utilisateurs puissent créer et exécuter les processus importants pour leur activité."
 author: KaranSr
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: f19c6917-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: karansr
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 1fee8f2adbaa8ee006539a263c7972dbbdd0082d
+ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
+ms.openlocfilehash: ad828f8d3144bf28c8962ea1b38d1fd5b5752803
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="democratize-business-processes"></a><span data-ttu-id="1e807-103">Démocratiser les processus d'entreprise</span><span class="sxs-lookup"><span data-stu-id="1e807-103">Democratize business processes</span></span>
 
+
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
-
-
-
 
 <span data-ttu-id="1e807-104">La modernisation des processus d'entreprise est l'une des principales missions de la plateforme d'applications de gestion de Microsoft, et Microsoft Flow représente l'offre qui met les processus d'entreprise à la portée de tous au sein d'une organisation.</span><span class="sxs-lookup"><span data-stu-id="1e807-104">Modernizing business processes is one of the core missions of the Business Applications Platform at Microsoft, and Microsoft Flow is the offering that will be able to bring business processes to everyone in an organization.</span></span>
 

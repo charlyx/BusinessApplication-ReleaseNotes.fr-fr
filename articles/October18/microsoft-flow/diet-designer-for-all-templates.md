@@ -3,7 +3,7 @@ title: "Concepteur « allégé » pour tous les modèles"
 description: "La création des flux sera beaucoup plus facile avec une expérience de première configuration pour les modèles : les utilisateurs auront simplement à fournir les paramètres requis."
 author: sunayv
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 4b7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: 13d524f74e9c7d68c23243c5310f95f91ca8cef6
+ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
+ms.openlocfilehash: e9b7542e478b0fc70a624d6fbebd070e0b5ee7d7
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="diet-designer-for-all-templates"></a><span data-ttu-id="840c9-103">Concepteur « allégé » pour tous les modèles</span><span class="sxs-lookup"><span data-stu-id="840c9-103">Diet designer for all templates</span></span>
@@ -24,5 +24,4 @@ ms.lasthandoff: 08/20/2018
 [!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="840c9-104">Présentation d'une nouvelle expérience améliorée pour créer des flux à partir des modèles.</span><span class="sxs-lookup"><span data-stu-id="840c9-104">Introducing a new and improved experience for creating flows from templates.</span></span> <span data-ttu-id="840c9-105">Avec cette nouvelle mise à jour, vous n'avez pas à vous préoccuper de la logique interne pour activer un scénario métier ou d'avoir à créer un workflow pour celui-ci.</span><span class="sxs-lookup"><span data-stu-id="840c9-105">With this new update, you don't need to worry about the internal logic for enabling a business scenario or how to create a workflow for it.</span></span> <span data-ttu-id="840c9-106">Il suffit de choisir le modèle qui répond à vos besoins, de fournir des entrées de configuration et des connexions, et vous obtiendrez des scénarios d'entreprise automatisés en une minute au maximum.</span><span class="sxs-lookup"><span data-stu-id="840c9-106">Just choose the template that fits your needs, provide configuration inputs and connections, and you will be automating business scenarios in a minute or less.</span></span>
-
 

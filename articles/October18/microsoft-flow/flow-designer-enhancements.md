@@ -3,7 +3,7 @@ title: "Améliorations du concepteur de flux"
 description: "Parmi les fonctionnalités de modification améliorées on trouve la possibilité de copier et de coller des actions et un nouvel éditeur HTML pour les courriers électroniques au texte enrichi."
 author: sunayv
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: b535fcf53055bb0eebaa74328193479dc12fc562
+ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
+ms.openlocfilehash: c477cec110cd225f8e178609d34c384765a19323
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="flow-designer-enhancements"></a><span data-ttu-id="834d4-103">Améliorations du concepteur de flux</span><span class="sxs-lookup"><span data-stu-id="834d4-103">Flow designer enhancements</span></span>

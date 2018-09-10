@@ -3,7 +3,7 @@ title: "Contrôles personnalisés dans les flux de processus d'entreprise"
 description: "Les flux des processus d'entreprise prennent en charge l'ensemble des fonctionnalités de formulaire, y compris les contrôles personnalisés et les règles métier."
 author: KaranSr
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/4/2018
 ms.assetid: 357e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: karansr
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: 79228ed622d245d15b9b2b715c8d6509062b8ca9
+ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
+ms.openlocfilehash: 376ed0ccb2f9c10e5b622851e3db827ba174df53
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="custom-controls-in-business-process-flows"></a><span data-ttu-id="e69a6-103">Contrôles personnalisés dans les flux de processus d'entreprise</span><span class="sxs-lookup"><span data-stu-id="e69a6-103">Custom controls in business process flows</span></span>
@@ -29,4 +29,5 @@ ms.lasthandoff: 08/20/2018
 > <span data-ttu-id="e69a6-109">![Exemple de contrôles personnalisés](media/custom-controls_01.png "Exemple de contrôles personnalisés")</span><span class="sxs-lookup"><span data-stu-id="e69a6-109">![Example of custom controls](media/custom-controls_01.png "Example of custom controls")</span></span>
 
 <span data-ttu-id="e69a6-110">Cette fonctionnalité augmente le potentiel pour les expériences d'exécution de processus immersifs et intuitifs.</span><span class="sxs-lookup"><span data-stu-id="e69a6-110">This feature increases the potential for intuitive and immersive process runtime experiences.</span></span>
+
 
