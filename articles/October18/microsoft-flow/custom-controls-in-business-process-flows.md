@@ -3,7 +3,7 @@ title: "Contrôles personnalisés dans les flux de processus d'entreprise"
 description: "Les flux des processus d'entreprise prennent en charge l'ensemble des fonctionnalités de formulaire, y compris les contrôles personnalisés et les règles métier."
 author: KaranSr
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/4/2018
 ms.assetid: 357e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -29,4 +29,5 @@ Les flux des processus d'entreprise permettent d'effectuer un travail sous la fo
 > ![Exemple de contrôles personnalisés](media/custom-controls_01.png "Exemple de contrôles personnalisés")
 
 Cette fonctionnalité augmente le potentiel pour les expériences d'exécution de processus immersifs et intuitifs.
+
 

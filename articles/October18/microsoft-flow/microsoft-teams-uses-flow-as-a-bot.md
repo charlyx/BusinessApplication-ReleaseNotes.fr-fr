@@ -3,7 +3,7 @@ title: Microsoft Teams utilise Flow en tant que bot
 description: "Les utilisateurs d'un canal d'équipe peuvent interagir textuellement avec un flux, en tapant simplement des commandes dans un canal pour interagir avec celui-ci."
 author: Mhade
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 450627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

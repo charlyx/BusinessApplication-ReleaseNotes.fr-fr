@@ -3,7 +3,7 @@ title: Analyses d'administration
 description: "Analyses à l'échelle de l'environnement et du client ajoutées au centre d'administration de la plateforme d'applications métier."
 author: KentWeareMSFT
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 557e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

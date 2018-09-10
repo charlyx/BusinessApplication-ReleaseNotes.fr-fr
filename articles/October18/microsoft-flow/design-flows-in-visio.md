@@ -3,7 +3,7 @@ title: Concevoir des flux dans Visio
 description: Vous pouvez concevoir des flux dans Visio en utilisant des concepts standard d'organigramme et en exportant vos flux dans Visio pour une meilleure visualisation.
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/4/2018
 ms.assetid: 640627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

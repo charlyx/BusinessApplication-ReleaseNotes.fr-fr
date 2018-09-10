@@ -2,15 +2,15 @@
 title: "Démocratiser les processus d'entreprise"
 description: "Démocratisez les processus d'entreprise afin que tous les utilisateurs puissent créer et exécuter les processus importants pour leur activité."
 author: KaranSr
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: f19c6917-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: karansr
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
 ms.openlocfilehash: 91cc22318cd3d7fa3342987730650f4ca7c10ca9
@@ -20,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="democratize-business-processes"></a>Démocratiser les processus d'entreprise
 
+
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
-
-
-
 
 La modernisation des processus d'entreprise est l'une des principales missions de la plateforme d'applications de gestion de Microsoft, et Microsoft Flow représente l'offre qui met les processus d'entreprise à la portée de tous au sein d'une organisation.
 

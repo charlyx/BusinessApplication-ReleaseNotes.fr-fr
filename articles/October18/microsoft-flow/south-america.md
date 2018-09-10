@@ -3,7 +3,7 @@ title: "Amérique du Sud"
 description: "Avec le déploiement au Brésil, Microsoft Flow disposera d'une parité totale avec toutes les régions Dynamics 365."
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 437e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -24,5 +24,4 @@ ms.lasthandoff: 07/18/2018
 [!include[banner](../../includes/banner.md)]
 
 La région de l'Amérique du sud est désormais disponible pour Microsoft Flow. Cela signifie que vous pouvez créer des environnements en Amérique du sud, et que toutes les données client de flux seront conservées uniquement aux Amériques. Pour en savoir plus sur nos engagements relatifs au stockage de données, visitez la [page du Centre de gestion de la confidentialité Microsoft pour Microsoft Flow](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location).
-
 
