@@ -2,14 +2,14 @@
 title: "Synthèse des fonctionnalités prévues pour Microsoft PowerApps en octobre 2018"
 description: "Liste complète des nouvelles fonctionnalités majeures qui seront disponibles dans la version d'octobre 2018 de Microsoft PowerApps."
 author: evchaki
-manager: AnnBe
-ms.date: 8/16/2018
+manager: KVivek
+ms.date: 9/9/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
 ms.openlocfilehash: 7a4db23493ee877d9eaabc90b974375d51e5908b
@@ -21,7 +21,7 @@ ms.lasthandoff: 08/17/2018
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a>Résumé des nouveautés dans Microsoft PowerApps
 
 Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées. Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2007332)).
-    
+
 Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck).
 
 ## <a name="capabilities-for-app-creators"></a>Fonctionnalités pour les créateurs d'applications

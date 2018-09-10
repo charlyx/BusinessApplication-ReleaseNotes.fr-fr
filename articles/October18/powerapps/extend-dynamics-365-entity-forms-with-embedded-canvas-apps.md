@@ -2,15 +2,15 @@
 title: "Étendre les formulaires d'entité Dynamics 365 avec des applications de canevas incorporées"
 description: "Il est possible d'intégrer des applications de canevas dans Sales, Service, Marketing ou dans un formulaire d'entité personnalisée, et de tirer profit de la personnalisation riche, low-code et de plus de 200 sources de données"
 author: aneesmsft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 131c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: aneesa
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: dc4d4ed55a648e6a5500a13790780ea9af832ea5

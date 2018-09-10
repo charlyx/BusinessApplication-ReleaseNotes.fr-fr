@@ -2,15 +2,15 @@
 title: "Améliorations du partage pour les applications de canevas"
 description: "Le partage d'applications de canevas avec leurs données devient plus facile grâce à l'expérience en ligne."
 author: litran
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 3c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: litran
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: 2b9a737371dd23a900632edf15d82124e25286c6
 ms.openlocfilehash: 8456f034bbfddd5c6d33bd113d246a75726c0854

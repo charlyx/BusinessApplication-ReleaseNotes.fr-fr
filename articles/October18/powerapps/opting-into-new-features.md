@@ -2,15 +2,15 @@
 title: "Accepter de nouvelles fonctionnalités"
 description: "Les créateurs d'application peuvent accepter de nouvelles fonctionnalités lorsqu'ils sont prêts à les utiliser"
 author: evchaki
-manager: AnnBe
-ms.date: 8/14/2018
+manager: KVivek
+ms.date: 9/4/2018
 ms.assetid: 0b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: d3a5f2802d9e1fba3fb4b5a2c11f5497cd68b8e7

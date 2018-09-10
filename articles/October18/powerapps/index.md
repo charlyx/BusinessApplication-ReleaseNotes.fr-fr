@@ -2,15 +2,15 @@
 title: Microsoft PowerApps
 description: "PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage."
 author: evchaki
-manager: AnnBe
+manager: KVivek
 ms.date: 8/10/2018
 ms.assetid: fd8f05b1-8b41-e811-a954-000d3a15a7d1
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: 86083e53d804f350b1acdb9ca38363ad57beef4f
@@ -18,11 +18,8 @@ ms.contentlocale: fr-fr
 ms.lasthandoff: 08/16/2018
 
 ---
+
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a>Présentation de la version d'octobre 2018 de Microsoft PowerApps
-
-
-[!include[banner](../../includes/banner.md)]
-
 
 PowerApps est un service qui permet de créer des applications professionnelles qui s'exécutent dans un navigateur ou sur un téléphone ou une tablette et qui ne nécessite aucune expérience de codage. Reportez-vous à la [documentation](https://docs.microsoft.com/powerapps/) de PowerApps pour obtenir des informations et des réponses éclairées à vos questions, quelle que soit la façon dont vous utilisez PowerApps.
 

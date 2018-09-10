@@ -2,15 +2,15 @@
 title: "Configurer des groupes d'options dépendants"
 description: "Vous pouvez configurer des groupes d'options dépendants pour fournir des listes déroulantes en cascade dans vos applications et permettre une validation simple des données entre les listes déroulantes."
 author: clwesene
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 641c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: clwesene
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: 675d9136f9d13c43bd36aa00a5c2da1f89242edf
