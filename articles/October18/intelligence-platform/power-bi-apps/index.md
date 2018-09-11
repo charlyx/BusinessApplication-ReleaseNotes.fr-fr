@@ -1,14 +1,14 @@
 ---
 title: Applications Power BI
 description: "Proposition d'expériences « low-code no-code » par les applications Power BI pour que les partenaires Power BI puissent générer des applications Power BI et les publier dans AppSource pour tous les clients Power BI"
-author: KumarVivek
+author: ezaviv
 manager: AnnBe
 ms.date: 7/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: kvivek
+ms.author: avive
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
