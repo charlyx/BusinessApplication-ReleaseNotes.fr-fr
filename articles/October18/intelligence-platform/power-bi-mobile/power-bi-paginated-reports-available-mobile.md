@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Rapports paginés"
 description: "Les rapports paginés vont devenir des artefacts de première classe dans les applications et les espaces de travail de Power BI."
 author: MargoC

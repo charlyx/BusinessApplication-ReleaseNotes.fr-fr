@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Expérience de page d'accueil personnalisée"
 description: "Page d'arrivée d'accueil"
 author: MargoC
