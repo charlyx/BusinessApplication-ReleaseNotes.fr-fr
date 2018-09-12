@@ -1,4 +1,16 @@
-title: Apportez votre propre base de données à l'aide des pools de données Azure Data Lake et Power BI description: Apportez votre propre base de données à l'aide des pools de données Azure Data Lake et Power BI manager: AnnBe ms.date: 07/22/2018 ms.topic: article ms.prod: ms.service: business-applications ms.technology: author: margoc ms.author: margoc audience: Admin
+---
+
+title: Apportez votre propre base de données à l'aide des pools de données Azure Data Lake et Power BI 
+description: Apportez votre propre base de données à l'aide des pools de données Azure Data Lake et Power BI 
+manager: AnnBe 
+ms.date: 07/22/2018 
+ms.topic: article 
+ms.prod: 
+ms.service: business-applications 
+ms.technology: 
+author: margoc 
+ms.author: margoc 
+audience: Admin
 
 ---
 #  <a name="bring-your-own-database-using-azure-data-lake-and-power-bi-data-pools"></a>Apportez votre propre base de données à l'aide des pools de données Azure Data Lake et Power BI
