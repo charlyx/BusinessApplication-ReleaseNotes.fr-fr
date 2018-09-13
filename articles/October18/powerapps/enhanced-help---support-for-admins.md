@@ -1,15 +1,15 @@
 ---
 title: "Aide et support des administrateurs renforcés"
 description: "Les administrateurs disposent de plus d'outils pour diagnostiquer et résoudre les problèmes dans l'organisation"
-author: saumil-msft
+author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 9/11/2018
 ms.assetid: a21c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: sashri
+ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
