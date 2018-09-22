@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "Transformer les ventes en interne à l'aide de l'IA dans le centre d'appels"
 description: "Transformer les ventes en interne à l'aide de l'IA dans le centre d'appels"
 keywords: 

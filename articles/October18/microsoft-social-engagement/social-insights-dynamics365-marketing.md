@@ -2,8 +2,8 @@
 title: Panorama social dans Dynamics 365 for Marketing
 description: "Le marketing moderne repose sur des signaux des réseaux sociaux pour un engagement des clients plus rapproché."
 author: m-hartmann
-manager: AnnBe
-ms.date: 07/22/2018
+manager: shellyha
+ms.date: 09/24/2018
 ms.assetid: 77f58950-eb60-4556-b62d-7cde63f11b7d
 ms.topic: article
 ms.prod: 

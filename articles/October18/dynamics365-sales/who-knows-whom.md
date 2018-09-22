@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "Être présentés à des prospects et convertir un appel impersonnel en un engagement chaleureux avec le graphique de relations Qui connaît qui"
 description: "Être présentés à des prospects et convertir un appel impersonnel en un engagement chaleureux avec le graphique de relations Qui connaît qui"
 keywords: 

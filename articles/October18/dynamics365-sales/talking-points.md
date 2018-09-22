@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "N'oubliez jamais ces informations détaillées concernant votre partie prenante avec les points de discussion"
 description: "N'oubliez jamais ces informations détaillées concernant votre partie prenante avec les points de discussion"
 keywords: 
