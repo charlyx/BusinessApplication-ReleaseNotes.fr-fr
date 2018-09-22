@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "N'oubliez jamais ces informations détaillées concernant votre partie prenante avec les points de discussion"
 description: "N'oubliez jamais ces informations détaillées concernant votre partie prenante avec les points de discussion"
 keywords: 
@@ -11,10 +13,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 03846903b814db1cac497cbaf1eb56e884392eea
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: 741a23327ddc3dd774ecf20e0f57fe97049371ba
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 

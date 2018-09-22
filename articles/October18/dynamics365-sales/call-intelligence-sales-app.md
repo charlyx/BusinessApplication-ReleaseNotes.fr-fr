@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "Transformer les ventes en interne à l'aide de l'IA dans le centre d'appels"
 description: "Transformer les ventes en interne à l'aide de l'IA dans le centre d'appels"
 keywords: 
@@ -11,10 +13,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 66dbe72e21762bb880fa2ec16781951fd213e146
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: a03e77866b8c23196dba0b05b587069197a04ae1
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 
