@@ -1,7 +1,7 @@
 ---
 title: Fonctionnement de la recommandation d'article de base de connaissances dans Dynamics 365 for Customer Service
 description: "Présentation de la fonctionnalité de recommandation d'article de base de connaissances pour une meilleure expérience client et une productivité des agents supérieure"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: b76abbb6-73ca-4056-bad7-60e84fea60c3
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

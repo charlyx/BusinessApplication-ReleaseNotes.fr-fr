@@ -1,7 +1,7 @@
 ---
 title: Activer une application pour utiliser les slicers par programme
 description: "L'API des slicers permet à une application (tout au long d'une session) de contrôler les slicers avec lesquels l'utilisateur interagit."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 21ca0fd2-7676-4c50-af47-f6b7cbc7fe8a
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

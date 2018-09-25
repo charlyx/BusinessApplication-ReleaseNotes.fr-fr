@@ -1,7 +1,7 @@
 ---
 title: Obsolescence de la collection d'espaces de travail
 description: "En juin 2017, nous avons annoncé la possibilité d'intégrer Power BI à l'aide de nouvelles API et la convergence des API avec le service Power BI."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 0b083084-dd11-4f9d-b1ba-47e453692822
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

@@ -1,7 +1,7 @@
 ---
 title: Power BI Report Server
 description: "Avec Power BI Report Server, les clients peuvent répondre aux exigences uniques en matière de déploiement et de gouvernance tout en profitant de rapports Power BI modernes."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 6e9f7001-f308-46e6-9996-1162d7a723dd
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: efc7a0d3cbfe55765f82a97ba1519becbe6e4cb6

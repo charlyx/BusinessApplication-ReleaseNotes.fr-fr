@@ -1,7 +1,7 @@
 ---
 title: Planification multiressource
 description: "La planification multiressource permet à plusieurs ressources d'être planifiées dans un ordre de travail unique."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 3cf4815b-ae74-4c42-89a4-cc2ab31ebfad
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

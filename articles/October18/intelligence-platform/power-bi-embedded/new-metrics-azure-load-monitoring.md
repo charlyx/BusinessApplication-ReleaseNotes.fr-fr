@@ -1,7 +1,7 @@
 ---
 title: Nouvelles mesures pour la surveillance de la charge de travail Azure
 description: "Quatre nouvelles mesures ont été ajoutées pour surveiller la consommation des ressources Power BI Embedded et déclencher des actions lorsque des seuils configurables sont dépassés."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 082d21ac-805e-4007-8810-f1838369569c
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602

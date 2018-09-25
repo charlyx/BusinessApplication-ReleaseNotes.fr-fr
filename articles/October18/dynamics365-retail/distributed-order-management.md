@@ -1,7 +1,7 @@
 ---
 title: "Gestion répartie des commandes"
 description: "Gestion répartie des commandes"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 4da4d2a7-0f56-4565-bce3-3938d2af3d0c
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

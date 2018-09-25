@@ -1,7 +1,7 @@
 ---
 title: "Consommation de rapports avec des filtres partagés (signets)"
 description: "Le partage d'informations nécessite parfois que les utilisateurs affichent des données de rapport filtrées d'une manière révélant les informations."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 01eb4a2d-7583-4f5e-b16d-de864ab637f2
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
