@@ -1,7 +1,7 @@
 ---
 title: Prise en charge de l'authentification d'application Azure Active Directory
 description: Prise en charge de l'authentification d'application Azure Active Directory
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: cba1b690-0d07-4400-8bf6-80de880157ba
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 2b943287338a404af8d80e3a0babc5551b77becc
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 4346342cb55725fb42d473f1f89085c5d48658bc
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="azure-active-directory-application-authentication-public-preview"></a><span data-ttu-id="07ed2-103">Authentification d'application Azure Active Directory (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="07ed2-103">Azure Active Directory application authentication (Public Preview)</span></span>

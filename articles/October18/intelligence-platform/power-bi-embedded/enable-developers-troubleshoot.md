@@ -1,7 +1,7 @@
 ---
 title: "Autoriser les développeurs à résoudre les problèmes"
 description: "Dans la version d'octobre 2018, les développeurs de Power BI Embedded peuvent désormais résoudre les problèmes en enregistrant les erreurs détaillées dans la console à la demande, ou dans les données de télémétrie."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: dea5b2d8-7f28-41d8-be11-8fde6bc00d19
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 7fa4d393ff7dab7ed30bca5f08ccd0d640e09791
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: d5402e6c92e3c1dc2945017fc4da3d578ece5835
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="error-event-logging"></a><span data-ttu-id="d2fb2-103">Enregistrement des erreurs</span><span class="sxs-lookup"><span data-stu-id="d2fb2-103">Error event logging</span></span>

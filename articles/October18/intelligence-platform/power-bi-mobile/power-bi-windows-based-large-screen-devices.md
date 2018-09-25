@@ -1,7 +1,7 @@
 ---
 title: "Power BI sur les appareils à grand écran sous Windows"
 description: "L'application mobile Power BI sur grands écrans permet aux utilisateurs d'utiliser un grand écran tactile de manière intuitive, avec une expérience qui optimise la présentation et l'exploration des données sur de grands écrans."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: eb496b30-1a7d-4e0b-8cfb-4347e8f23ee3
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 1bbb4f0b29b9315fb50025f7441d8b60bf89cc3f
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: aa185bef137dc4f9fbfe2383f5dabb5d1e5332f7
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="power-bi-on-windows-based-large-screen-devices-public-preview"></a><span data-ttu-id="928ad-103">Power BI sur les appareils à grand écran sous Windows (version préliminaire publique)</span><span class="sxs-lookup"><span data-stu-id="928ad-103">Power BI on Windows-based large screen devices (Public Preview)</span></span>

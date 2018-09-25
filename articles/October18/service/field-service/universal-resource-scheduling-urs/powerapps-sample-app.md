@@ -1,7 +1,7 @@
 ---
 title: Exemple d'application PowerApps
 description: "Nous fournissons un exemple d'application PowerApps prête à l'emploi pour URS pouvant interagir avec l'API de recherche de ressource disponible et transmettre des informations permettant de créer une réservation."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 106b2310b50ce2f0d889e91d45ba3dc51fc2212e
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 8231aa2c799b41eb22659ff64fd33b06637f1f30
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

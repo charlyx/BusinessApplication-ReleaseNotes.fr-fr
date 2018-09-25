@@ -1,20 +1,20 @@
 ---
 title: "Modifier les escomptes de règlement"
 description: "Modifier les escomptes de règlement"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f70846f74ac4d38d00bf41595783cadc23007fd1
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 3a6399b5119ead911f2d26188ff9c67e35f16d68
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="change-cash-discounts"></a><span data-ttu-id="e3ec3-103">Modifier les escomptes de règlement</span><span class="sxs-lookup"><span data-stu-id="e3ec3-103">Change cash discounts</span></span>

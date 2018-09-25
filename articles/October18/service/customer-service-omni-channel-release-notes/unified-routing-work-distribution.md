@@ -1,7 +1,7 @@
 ---
 title: "Répartition du travail et routage unifié"
 description: "Les organisations peuvent tirer parti des fonctionnalités de répartition du travail et de routage unifié pour acheminer les éléments de travail provenant des canaux de conversation instantanée, de messagerie et de portail web vers différentes équipes de support du service clientèle au sein de l'organisation."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: ee759f9f-6625-4dd2-8c55-1c6d0d134038
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: c12c595760f4634e5ade6fff13c91554e57e4a3b
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 9c9b459a85dd76c916382866e7b7d08986ebe91d
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

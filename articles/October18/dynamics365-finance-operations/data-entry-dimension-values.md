@@ -1,20 +1,20 @@
 ---
 title: "Faciliter la saisie des données pour les valeurs de dimension"
 description: "Faciliter la saisie des données pour les valeurs de dimension"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 55c704a758e2c8edb85ba0e665077865be8375d4
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 3172b4d3222a271c33f2702b5d30874b947aeba9
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="ease-of-data-entry-for-dimension-values"></a><span data-ttu-id="99373-103">Faciliter la saisie des données pour les valeurs de dimension</span><span class="sxs-lookup"><span data-stu-id="99373-103">Ease of data entry for dimension values</span></span>

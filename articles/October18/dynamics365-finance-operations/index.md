@@ -1,20 +1,20 @@
 ---
 title: "Présentation de la version d'octobre 2018 de Microsoft Dynamics 365 for Finance and Operations"
 description: "Présentation de la version d'octobre 2018 de Microsoft Dynamics 365 for Finance and Operations"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 08/16/2018
 ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin, end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
-ms.openlocfilehash: 362355fb385f518f4824ee7789ccf5d995bf05ca
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 852b66d48233119f853b66bf4eb210c11fcbe6e3
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a><span data-ttu-id="9bd93-103">Présentation de la version d'octobre 2018 de Dynamics 365 for Finance and Operations</span><span class="sxs-lookup"><span data-stu-id="9bd93-103">Overview of Dynamics 365 for Finance and Operations October '18 release</span></span>

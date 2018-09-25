@@ -1,7 +1,7 @@
 ---
 title: "Prise en charge des déploiements sur site (données d'entreprise locales)"
 description: "Prise en charge des déploiements sur site de données d'entreprise locales"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 2123e589-fead-464d-be9e-bf3d5ad26000
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f90a388534f49ea03d7b2456699bfc6c0d773355
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: e3646d9456e134ff2c2f79dbfd12979d8f5ddac8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="support-for-on-premises-local-business-data-deployments"></a><span data-ttu-id="a5e6a-103">Prise en charge des déploiements sur site (données d'entreprise locales)</span><span class="sxs-lookup"><span data-stu-id="a5e6a-103">Support for on-premises (local business data) deployments</span></span>

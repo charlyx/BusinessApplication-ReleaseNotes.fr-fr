@@ -1,20 +1,20 @@
 ---
 title: "Résoudre les problèmes de l'agent d'acheminement de document"
 description: "Résoudre les problèmes de l'agent d'acheminement de document"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 197bee2da7487e6be2e531eb65df55d7849570d9
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 3a6e7b0dcd96d5b00e831529e5cb858a13ce9788
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="troubleshoot-document-routing-agent"></a><span data-ttu-id="4d25f-103">Résoudre les problèmes de l'agent d'acheminement de document</span><span class="sxs-lookup"><span data-stu-id="4d25f-103">Troubleshoot document routing agent</span></span>

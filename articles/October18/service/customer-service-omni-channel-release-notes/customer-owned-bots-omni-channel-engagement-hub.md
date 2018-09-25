@@ -1,7 +1,7 @@
 ---
 title: "Bots appartenant à des clients pour Omni-channel Engagement Hub"
 description: "Avec Omni-channel Engagement Hub, les clients peuvent désormais apporter leurs propres bots (fondés sur Microsoft Bot Framework) et les connecter à l'écosystème Omni-channel Engagement Hub."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 87a3a126-6e1d-4e5a-b061-907bb91ab8dd
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: db4684ba4b28ae3b5084c7909ac4f0d5e502c2c8
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 481a6c6ed40efa81a9ebe9035a761fa1f6872750
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

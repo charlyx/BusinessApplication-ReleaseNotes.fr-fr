@@ -1,7 +1,7 @@
 ---
 title: "Appliquer et modifier des thèmes"
 description: "Avec les thèmes de rapport, vous pouvez appliquer un thème de couleur à votre rapport complet, par exemple la charte graphique de l'entreprise ou des couleurs saisonnières."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: c44d4deb-6158-4658-9171-7fa813e438cf
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: bbcd52e8beedcc5309ddcb2ee2093eb59e44f81a
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: cb0e85612f1da966bb75db8e19075c712a9f2fd7
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="api-to-apply-and-change-report-themes-in-power-bi-embedded"></a><span data-ttu-id="6679e-103">API pour appliquer et modifier des thèmes de rapport dans Power BI Embedded</span><span class="sxs-lookup"><span data-stu-id="6679e-103">API to apply and change report themes in Power BI Embedded</span></span>

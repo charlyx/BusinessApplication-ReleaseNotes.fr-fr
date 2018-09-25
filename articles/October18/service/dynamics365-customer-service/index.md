@@ -1,7 +1,7 @@
 ---
 title: "Présentation des dernières fonctionnalités dans Service"
 description: "Obtenez un bref aperçu des nouvelles fonctionnalités et des nouveaux engagements dans Service"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 8/15/2018
 ms.assetid: 557af355-3198-4b9d-b0e2-49b9533df482
@@ -9,13 +9,13 @@ ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
-ms.openlocfilehash: 597744da4a07d43ac6f00b197d4404463b188194
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: b9d79d67dc2a5b678468dab0875c2b3804919e3e
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="overview-of-the-service-october-18-release"></a><span data-ttu-id="9a8f4-103">Présentation de la version d'octobre 2018 de Service</span><span class="sxs-lookup"><span data-stu-id="9a8f4-103">Overview of the Service October '18 release</span></span> 

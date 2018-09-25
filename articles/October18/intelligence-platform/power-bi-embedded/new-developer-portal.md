@@ -1,7 +1,7 @@
 ---
 title: "Nouveau portail pour les développeurs"
 description: "Un nouveau portail pour les développeurs Power BI contiendra toutes les ressources dont les développeurs ont besoin pour utiliser Power BI Embedded, automatiser des processus pour leurs solutions Power BI et créer des visuels personnalisés."
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.assetid: dac523e2-7ed0-45bc-b093-c3c73ce4cce6
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: e0454619f38241cdf5158214dfa30324012081e5
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: db63d461c49feb9e98ee0bf03aab250c271d6f63
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="new-developer-portal"></a><span data-ttu-id="45097-103">Nouveau portail pour les développeurs</span><span class="sxs-lookup"><span data-stu-id="45097-103">New developer portal</span></span>
