@@ -25,9 +25,13 @@ ms.lasthandoff: 08/16/2018
 Certaines recherches dans Finance and Operations sont *non remplaçantes* : cela signifie que lorsqu'une valeur est sélectionnée dans la recherche, cette valeur ne remplace pas la ou les valeurs déjà présentes dans le champ mais elle est ajoutée dans le champ. Par exemple, les recherches de la boîte de dialogue **Tri/filtre avancé** sont non remplaçantes par défaut.  
 
 Le comportement des recherches non remplaçantes a été amélioré des manières suivantes : 
+
 - Le comportement de la saisie semi-automatique a été désactivée pour les recherches non remplaçantes. 
+
 - Seuls les caractères saisis une fois la recherche ouverte sont utilisés dans la grille de recherche.
+
 - La valeur sélectionnée dans la recherche est ajoutée à ce qui se trouvait dans le champ avant l'ouverture de la recherche (autrement dit, tous les caractères saisis lorsque la recherche était ouverte sont remplacés lors de l'ajout de la valeur sélectionnée dans la recherche).  
+
 - Une nouvelle icône s'affiche désormais sur les recherches non remplaçantes afin qu'elles se différencient visuellement des recherches classiques.
 
 Ces ajustements permettent aux utilisateurs de filtrer plus facilement les données à l'aide de la boîte de dialogue **Tri/filtre avancé**.

@@ -23,9 +23,13 @@ ms.lasthandoff: 08/16/2018
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Les utilisateurs disposent désormais de fonctionnalités de filtrage supplémentaires, notamment : 
+
 - La possibilité d'utiliser le sélecteur de date lors du filtrage de champs de date
+
 - La possibilité d'afficher les valeurs disponibles lors du filtrage des champs d'énumération
+
 - La possibilité de filtrer l'entité juridique dans les formulaires intersociétés à l'aide du volet de filtre ou de l'en-tête de colonne de grille
+
 - La possibilité de filtrer d'une façon plus similaire à celle utilisée dans Excel à l'aide des en-têtes de colonnes de grille
 
 Les utilisateurs seront également en mesure de trouver plus facilement les champs à filtrer.
