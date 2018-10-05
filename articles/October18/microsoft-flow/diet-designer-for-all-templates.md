@@ -3,7 +3,7 @@ title: "Concepteur « allégé » pour tous les modèles"
 description: "La création des flux sera beaucoup plus facile avec une expérience de première configuration pour les modèles : les utilisateurs auront simplement à fournir les paramètres requis."
 author: sunayv
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 10/2/2018
 ms.assetid: 4b7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

@@ -3,7 +3,7 @@ title: Exploiter les signaux des appareils mobiles
 description: "Les utilisateurs peuvent créer des flux capables d'exploiter des fonctionnalités mobiles tels que le geofencing."
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 10/2/2018
 ms.assetid: 517e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
