@@ -1,9 +1,9 @@
 ---
-title: "Améliorations générales apportées à la fonctionnalité des opérations"
-description: "Améliorations générales apportées à l'entrepôt et à l'inventaire"
+title: "Améliorations de l'entrepôt"
+description: "Améliorations générales apportées à l'entrepôt et au stock"
 author: ShylaThompson
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 09/06/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,14 +11,14 @@ ms.technology:
 ms.author: shylaw
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 117b772d02dc46897d61755c78f0d0e5fd4beea1
+ms.sourcegitcommit: f37556a7ddee0885758aa6cf4e9e442955bb0ccb
+ms.openlocfilehash: 42e8dab326d340f6dc3a8b3036c348d541094aa2
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 
-# <a name="general-enhancements-in-operations-functionality"></a>Améliorations générales apportées à la fonctionnalité des opérations
+# <a name="warehouse-enhancements"></a>Améliorations de l'entrepôt
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 

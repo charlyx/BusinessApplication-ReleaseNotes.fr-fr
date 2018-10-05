@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 94765585de94995c31436ad1b6b801aefa0389ce
+ms.sourcegitcommit: 5eda86ab05b375f2f919fc04c5089565ba4d7c86
+ms.openlocfilehash: 0f4fb80846d9a9ab2c5b4c5b34e97357faa6fcfb
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/13/2018
 
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a>Transformation et intégration plus simples et plus efficaces des données d'entreprise avec Power Query et la plateforme d'intégration de données
@@ -50,7 +50,7 @@ Forte de ses nombreuses années d'investissement dans plusieurs projets Microsof
 
 ### <a name="intelligent-transforms-and-ai-support-in-power-query"></a>Transformations intelligentes et support d'IA dans Power Query 
 
-Les analystes d'entreprise peuvent facilement intégrer les informations obtenues par l'IA en accédant en un seul clic aux transformations basées sur l'IA. Les fonctionnalités initiales dans cette domaine incluent l'analyse de sentiment et l'extraction de mots clés dans un texte dans un langage normal. Les fonctionnalités supplémentaires telles que l'OCR et l'analyse d'image peuvent être ajoutées au fil du temps.
+Les analystes d'entreprise peuvent facilement intégrer les informations obtenues par l'IA en accédant en un seul clic aux transformations basées sur l'IA. Les fonctionnalités initiales dans ce domaine incluent l'analyse de sentiment et l'extraction de mots clés dans un texte dans un langage normal. Les fonctionnalités supplémentaires telles que l'OCR et l'analyse d'image peuvent être ajoutées au fil du temps.
 
 Les analystes et les professionnels BI auront accès aux nouvelles fonctions et API prêtes à l'emploi pour les transformations basées sur l'IA. Cela facilite les transformations de colonnes pour l'analyse de sentiment et l'extraction de mots clés en un seul clic, ou avec une seule ligne de script, par exemple « ApplySentimentIndex([textResponse]) ».
 
@@ -78,9 +78,13 @@ En plus de nouvelles fonctionnalités de base dans Power Query, Microsoft étend
 
 Microsoft Flow s'intègre désormais à Power Query Online, ce qui permet aux utilisateurs d'« Obtenir des lignes à l'aide de Power Query » afin d'autoriser le filtrage et le mashup de données dans le cadre de l'action « Get Rows » sur des connecteurs spécifiques, tels que SQL Server.
 
+### <a name="power-query-documentation"></a>Documentation sur Power Query
+
+Microsoft Docs a ajouté une section pour Power Query. Ces documents incluent des exemples, des didacticiels, des procédures et une référence de développeur pour la création de connecteurs personnalisés pour Power Query. Tout développeur ou utilisateur final souhaitant travailler dans M (le langage utilisé dans Power Query), pourra obtenir des réponses à plusieurs de ses questions ici.
+
 ### <a name="power-query-community-website"></a>Site web de la communauté Power Query
 
-Un nouveau site web de la communauté Power Query a été lancé. Il comprend un aperçu des technologies Power Query et des articles approfondis, ainsi que des forums, UserVoice et du contenu de la communauté (billets de blog, webinaires). Cette nouvelle communauté est axée sur les aspects technologiques de base de Power Query qui permettent aux partenaires de créer des connecteurs et des transformations de données basés sur la plateforme, et de compléter les ressources basées sur les produits existants précédemment (Excel, Power BI, PowerApps, etc.) qui couvrent des intégrations Power Query spécifiques du point de vue d'un utilisateur final.
+Un nouveau site web de la communauté Power Query a été lancé. Il comprend un aperçu des technologies Power Query et des articles approfondis, ainsi que des forums, UserVoice et du contenu de la communauté (billets de blog, webinaires). Cette nouvelle communauté est axée sur les aspects technologiques de base de Power Query qui permettent aux partenaires de créer des connecteurs et des transformations de données basés sur la plateforme, et de compléter les ressources basées sur les produits existants précédemment (Excel, Power BI, PowerApps, etc.) qui couvrent des intégrations Power Query spécifiques du point de vue des utilisateurs finaux.
 
 ##  <a name="enterprise-grade-connectors"></a>Connecteurs de qualité professionnelle
 
@@ -92,7 +96,7 @@ SAP a **certifié les connecteurs de Microsoft pour SAP HANA et SAP BW.** En out
 
 D'autres améliorations apportées aux connecteurs incluront la prise en charge de l'authentification unique via Kerberos for Spark locale et le lancement des connecteurs existants généralement disponibles, notamment **HDInsight Spark, Google BigQuery, Spark (non HDInsight)**, etc.
 
-Des améliorations ont également été apportées aux connecteurs PowerApps, Microsoft Flow et Logic Apps, comme le lancement de fonctionnalités d'écriture Azure SQL Data Warehouse. De nombreuses mises à jour ont été effectuées dans Visual Studio Team Services, telles que de meilleurs déclencheurs et une meilleure prise en charge des champs personnalisés. Et enfin, des fonctionnalités supplémentaires ont été ajoutées au connecteur Oracle et bien plus encore.
+Des améliorations ont également été apportées aux connecteurs PowerApps, Microsoft Flow et Logic Apps, comme le lancement de fonctionnalités pour Azure SQL Data Warehouse. De nombreuses mises à jour ont été effectuées dans Visual Studio Team Services. Par exemple, de meilleurs déclencheurs et une meilleure prise en charge des champs personnalisés. Et enfin, des fonctionnalités supplémentaires ont été ajoutées au connecteur Oracle et bien plus encore.
 
 La plateforme continue d'évoluer et a ajouté de nouveaux connecteurs qui fonctionnent de manière à cohérente entre Common Data Service pour les applications, Power BI, PowerApps, Microsoft Flow et Logic Apps, dans le cadre d'un effort d'un meilleur alignement des expériences de nos clients dans la suite complète de produits.
 
@@ -115,7 +119,9 @@ De même, Microsoft va activer la recherche dans Power Query de fichiers dans le
 
 En avril 2018, Microsoft a lancé les premiers connecteurs personnalisés dans Power BI, en utilisant des fonctionnalités puissantes de langage M pour permettre aux partenaires d'écrire leurs propres connecteurs et de les distribuer à chaque utilisateur Power BI. Désormais, tous les utilisateurs peuvent facilement accéder aux connecteurs à partir de leurs sources de données, et les fournisseurs peuvent facilement écrire de nouveaux connecteurs lorsque leurs propres clients en demandent, ce qui améliorant le rôle de Power BI comme meilleure plateforme BI pour les fournisseurs et les utilisateurs finaux.
 
-En mai 2018, cela a été aligné sur l'expérience d'obtention de données existante afin de rendre l'expérience plus transparente avec des connecteurs existants prêts à l'emploi, et permettre d'activer le nombre de connecteurs disponibles en un seul clic pour l'augmenter considérablement.
+En mai 2018, cette capacité a été alignée sur l'expérience d'obtention de données existante afin de rendre l'expérience plus transparente avec des connecteurs existants prêts à l'emploi, et permettre d'activer le nombre de connecteurs disponibles en un seul clic pour l'augmenter considérablement.
+
+En octobre 2018, cette capacité sera disponible partout et Power BI fournira régulièrement de nouveaux connecteurs personnalisés certifiés aux utilisateurs finaux. Pour en savoir plus sur le programme de certification des connecteurs, consultez la documentation sur Power Query [ici ](https://docs.microsoft.com/en-us/power-query/connectorcertification).
 
 
 

@@ -11,10 +11,10 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1dd938dc3081174f1946df2c9f7541a59e7fcabd
+ms.sourcegitcommit: 8deac1eaae09f3cf7c1a8f677190f9007eb11d7a
+ms.openlocfilehash: 88afd4e5f8d16da7f77425fa9c367115836e0347
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 
@@ -22,15 +22,10 @@ ms.lasthandoff: 07/18/2018
 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-Les recruteurs peuvent être se retrouver dépassés lorsqu'ils essaient de déterminer quels candidats privilégier.
-Attract met automatiquement en surbrillance les profils de candidats qui répondent aux exigences de la tâche, ce qui fait gagner du temps au recruteur et lui permet de pourvoir ses postes plus rapidement tout en privilégiant les candidats les plus pertinents.
+Les recruteurs et les responsables du recrutement peuvent utiliser les recommandations intelligentes d'Attract pour rationaliser le processus de sourcing et trier efficacement les prospects et les candidats. Ces recommandations font apparaître les candidats et prospects dont les profils (CV, profils LinkedIn) correspondent le mieux à un poste particulier. Le moteur de recommandations est actualisé sur la base de commentaires explicites (fournis par l'utilisateur) et implicites (les types de candidats qui ont obtenu des postes par le passé), et se perfectionne constamment.
+ 
+Les candidats voient également s'afficher des recommandations pour des emplois qui pourraient les intéresser en fonction de l'historique de leurs candidatures et de leur profil.
 
-Les profils de candidats sont comparés de manière intelligente aux exigences professionnelles. Le résultat de cette analyse active plusieurs scénarios de recommandation intelligente :
-
--   Les candidats pertinents sont identifiés lorsque vous affichez vos tâches.
--   Les tâches sont recommandées lorsque vous affichez des groupes de candidats dans vos viviers de talents.
--   Les tâches pour auxquelles un candidat pourrait correspondre s'affichent lorsque vous consultez le profil d'un candidat.
-    
 <!--
 ## Who uses this feature
 Recruiters

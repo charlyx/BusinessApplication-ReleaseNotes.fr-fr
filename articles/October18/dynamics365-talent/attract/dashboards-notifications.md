@@ -11,10 +11,10 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f91fb79ee70b320fe1c9513ebe80252913c532b4
+ms.sourcegitcommit: 8dfda43808c3f5b21dabfcecabb05faea984099b
+ms.openlocfilehash: ff5e3182130a6fe0094be2c2e314fa370b50e635
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 
@@ -22,13 +22,12 @@ ms.lasthandoff: 07/18/2018
 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-Le tableau de bord guide les recruteurs et les responsables du recrutement dans leurs différentes tâches. Une expérience de recherche approfondie permet aux utilisateurs de parcourir rapidement le système.
-Les notifications fournissent à l'utilisateur des informations supplémentaires pour rationaliser le processus de recrutement.
+Le tableau de bord guide les recruteurs et les responsables du recrutement dans leurs différentes tâches. Les notifications fournissent à l'utilisateur des informations supplémentaires pour rationaliser le processus de recrutement.
 
 Le tableau de bord offre des informations précises sur le processus de recrutement aux recruteurs et aux responsables du recrutement. Le tableau de bord fournit des éléments facilement identifiables et exploitables, qui peuvent être traités rapidement pour faire avancer le processus de recrutement. Les nouvelles fonctionnalités de recherche permettent de trouver rapidement des informations grâce à la compréhension intelligente des mots clés et des expressions.
 Les notifications invitent à l'action et apportent des informations importantes.
 
-Le nouveau tableau de bord d'Attract met en avant des données pertinentes pour les différents rôles d'Attract. Il fournit des instructions à l'utilisateur sur les éléments qui ont besoin d'être traités, sur les tendances et les informations importantes. La recherche intelligente vient compléter le tableau de bord et permet de trouver rapidement les enregistrements appropriés en recherchant dans les données structurées et non structurées dans Attract. Les notifications invitent à l'action dans l'application, en plus des notifications existantes qui sont actuellement envoyées par courrier électronique.
+Le nouveau tableau de bord d'Attract met en avant des données pertinentes pour les différents rôles d'Attract. Il fournit des instructions à l'utilisateur sur les éléments qui ont besoin d'être traités, sur les tendances et les informations importantes. Les notifications invitent à l'action dans l'application, en plus des notifications existantes qui sont actuellement envoyées par courrier électronique.
 
 <!--
 ## Who uses this feature

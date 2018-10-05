@@ -12,10 +12,10 @@ ms.technology:
 ms.author: edupont
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
-ms.openlocfilehash: 23cc2dcc4e22b0c07ba29e678dce5530489fbffa
+ms.sourcegitcommit: 8b8612bb36ad0e7abd0c55439652b9015c944035
+ms.openlocfilehash: a460a18ca76e5354dee32351c2259e1e9ba50d22
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/24/2018
 
 ---
 
@@ -33,7 +33,7 @@ Les partenaires de Business Central ont accès à un portail pour faciliter leur
 Business Central dispose d'une option de déploiement sur site qui fait office de successeur à Dynamics NAV. En d'autres termes, au lieu de recevoir un nouveau numéro de version pour Dynamics NAV, les clients peuvent accéder à Business Central en local. L'expérience pour les partenaires et les clients locaux n'est pas différente des mises à niveau Dynamics NAV classiques, hormis le changement de nom. Il s'agit d'un point de convergence pour les produits Dynamics SMB : à l'avenir, ils seront tous considérés comme des clients de Business Central, dans le cloud ou en local, même s'ils exécutent des produits de marque différente comme Dynamics SL, Dynamics GP et les versions plus anciennes de Dynamics NAV.
 
 ## <a name="high-productivity-user-experience"></a>Amélioration de l'expérience utilisateur
-Optimisez votre travail avec les fonctionnalités de productivité telles que le filtrage des listes et des totaux, et les fonctions de copier/coller. Business Central dispose désormais de plusieurs raccourcis clavier pour accélérer les tâches professionnelles, et d'une navigation avancée à l'aide du clavier, et peut ainsi prendre en charge les exigences diverses de votre personnel. Accédez plus rapidement à vos données avec la recherche améliorée des pages, des rapports, et la documentation de l'Aide.
+Optimisez votre travail avec les fonctionnalités de productivité telles que le filtrage des listes et des totaux, et les fonctions de copier/coller des lignes. Business Central dispose désormais de plusieurs raccourcis clavier pour accélérer les tâches professionnelles, et d'une navigation avancée à l'aide du clavier, et peut ainsi prendre en charge les exigences diverses de votre personnel. Faites les choses rapidement ou découvrez comment les faire avec la nouvelle fenêtre Tell Me.
 
 Les utilisateurs professionnels bénéficient d'une toute nouvelle expérience moderne dans tous les écrans de Business Central. Que vous accédiez à vos données à partir de votre navigateur ou de l'application de bureau Windows 10, vous pourrez profiter d'une interface moderne, intuitive et cohérente pour accéder aux aperçus interactifs, aux listes, aux feuilles de calcul, aux documents de transaction ou aux pages de détails (telles que le fichier client).
 

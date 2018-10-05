@@ -11,10 +11,10 @@ ms.technology:
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
-ms.openlocfilehash: f2561b963a9acc8110ea4d6b8542086d6d731385
+ms.sourcegitcommit: 8dfda43808c3f5b21dabfcecabb05faea984099b
+ms.openlocfilehash: e39017bc4c4cc50d5d7c3459c8e34d06c23ccd3a
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Résumé des nouveautés dans Dynamics 365 for Talent
@@ -29,59 +29,50 @@ Pour obtenir la liste des régions dans lesquelles les applications de gestion D
 ## <a name="attract"></a>Attract
 
 > [!div class="mx-tableFixed"]
-> | Fonctionnalité   | Type de version    | Mois de la version cible |
+> | Fonctionnalité   | Type de version    | Date |
 > |-----------|----------------|----------------------|
-> | [Connexion au profil du candidat](attract/candidate-profile.md)       |    Disponibilité générale | Octobre 2018                   |
+> | [Profil du candidat](attract/candidate-profile.md)       |    Disponibilité générale | Octobre 2018                   |
 > | [Tableaux de bord et notifications](attract/dashboards-notifications.md)       |  Disponibilité générale | Octobre 2018                  |
 > | [Extensibilité](attract/extensibility.md)       |     Disponibilité générale            | Octobre 2018                   |
 > | [Gestion de tâches et de processus](attract/job-management.md)       |  Disponibilité générale  | Octobre 2018                   |
 > | [Gestion des offres](attract/offer-management.md)       | Disponibilité générale  | Octobre 2018                   |
-> | [Tâches et candidats pertinents](attract/relevant-jobs-candidates.md)       |     Disponibilité générale  | Octobre 2018       |
-> | [Skype Entretiens](attract/skype-interviews.md)          |  Disponibilité générale   | Octobre 2018                   |
-> | [Sources d'approvisionnement](attract/sourcing.md)       |  Disponibilité générale  | Octobre 2018                  |
+> | [Sourcing avec LinkedIn Recruiter](attract/sourcing.md)       |  Disponibilité générale  | Octobre 2018                  |
 > | [Viviers de talents](attract/talent-pools.md)       |   Disponibilité générale | Octobre 2018                   |
-
+> | Bibliothèque d'exemples de courrier électronique et stratégie de marque | Disponibilité générale  | Octobre 2018    |
+> | [Tâches et candidats pertinents](attract/relevant-jobs-candidates.md)       |     Version préliminaire publique  | Octobre 2018       |
+> | [Rapports et analyses](attract/attract.md)   | Version préliminaire publique    |   Octobre 2018     |
 
 ## <a name="onboard"></a>Onboard
 
 > [!div class="mx-tableFixed"]
-> | Fonctionnalité   | Type de version | Mois de la version cible |
+> | Fonctionnalité   | Type de version | Date |
 > |-----------|----------------|----------------------|
-> | [Importer des activités d'autres guides ou modèles](onboard/import.md)  | Version préliminaire publique         |    Juillet 2018         |
-> | [Activités gérées](onboard/managed-activities.md) | Version préliminaire publique   |   Juillet 2018          |
-> | [Mises à jour de guide en bloc](onboard/bulk-guide-updates.md) | Version préliminaire publique    |      Juillet 2018       |
-> | [Espaces réservés aux destinataires](onboard/assignee-placeholders.md) | Version préliminaire publique |     2018 août        |
-> | [Équipes d'intégration](onboard/onboard-teams.md) |  Version préliminaire publique    |       2018 août      |
-> | [Intégration de liste de contrôle Core HR](onboard/corehr-checklist-integration.md) |  Version préliminaire publique   |  Octobre 2018           |
-> | [Contacts générés automatiquement](onboard/auto-generated-contacts.md) |    Disponibilité générale        | Octobre 2018            |
-> | [Enregistrement automatique](onboard/auto-save.md) | Disponibilité générale    |  Octobre 2018        |
-> | [Courriers électroniques de bienvenue personnalisables](onboard/customizable-welcome-emails.md) | Disponibilité générale   |  Octobre 2018  |
-> | [Espace réservé à la date d'échéance](onboard/due-date-placeholders.md) | Disponibilité générale     |  Octobre 2018  |
-> | [Courrier électronique envoyé par le créateur](onboard/email-sent-from-creator.md) | Disponibilité générale   |  Octobre 2018  |
-> | [Exporter vers Excel](onboard/export-excel.md) | Disponibilité générale    |  Octobre 2018 |
-> | [Antidatage de guide](onboard/guide-backdating.md) | Disponibilité générale    |  Octobre 2018  |
-> | [Complément iFrame](onboard/iframe-add-in.md) | Disponibilité générale    |  Octobre 2018  |
-> | [Envoi d'un guide planifié](onboard/scheduled-guide-send.md) |Disponibilité générale   |  Octobre 2018  |
-> | [Courrier électronique de notification de mise à jour de modèle](onboard/template-update-notification-email.md) | Disponibilité générale   |  Octobre 2018  |
-> | [Annuler/Rétablir](onboard/undo-redo.md) | Disponibilité générale    |  Octobre 2018  |
+> | [Activités gérées](onboard/managed-activities.md) | Version préliminaire publique   |   2018 septembre          |
+> | [Mises à jour de guide en bloc](onboard/bulk-guide-updates.md) | Version préliminaire publique    |      2018 septembre       |
+> | [Espaces réservés aux destinataires](onboard/assignee-placeholders.md) | Version préliminaire publique |     2018 septembre        |
+> | [Importer des activités d'autres guides ou modèles](onboard/import.md)  | Version préliminaire publique         |    2018 septembre         |
+> | [Équipes d'intégration](onboard/onboard-teams.md) |  Disponibilité générale    |       Octobre 2018      |
+> | [Enregistrement automatique](onboard/auto-save.md) | Disponibilité générale    |  Décembre 2018        |
+> | [Intégration de liste de contrôle Core HR](onboard/corehr-checklist-integration.md) |  Disponibilité générale   |  Janvier 2019           |
 
 
 
 ## <a name="core-hr"></a>Core HR
 
 > [!div class="mx-tableFixed"]
-> | Fonctionnalité   | Type de version   | Mois de la version cible |
+> | Fonctionnalité   | Type de version   | Date |
 > |-----------|----------------|----------------------|
 > | [Étendue de l'entité Core HR élargie sur Common Data Service pour les applications](core-hr-entity-cds-apps.md) |    Disponibilité générale  | Octobre 2018  |
-> | [Tâches et postes basés sur la société](company-jobs-positions.md) | Disponibilité générale   | Octobre 2018  |
-> | [Gestion des congés et des absences](core-hr-leave-absence.md)      | Disponibilité générale    | Octobre 2018  |
-> | [Améliorations des avantages sociaux](benefits-enhancements.md) |   Disponibilité générale  | Octobre 2018  |
+> | [Gestion des congés et des absences](core-hr-leave-absence.md)      | Disponibilité générale    | Décembre 2018  |
+> | [Améliorations des avantages sociaux](benefits-enhancements.md) |   Disponibilité générale  | Décembre 2018  |
+> | [Accès à la rémunération avancée](Advanced-compensation.md) |  Disponibilité générale | Novembre 2018 |
+
 
 
 ## <a name="cds-for-apps"></a>CDS pour les applications
 
 > [!div class="mx-tableFixed"]
-> | Fonctionnalité   | Type de version    | Mois de la version cible |
+> | Fonctionnalité   | Type de version    | Date |
 > |-----------|----------------|----------------------|
 > | Onboard sur CDS pour les applications |  Disponibilité générale  | Octobre 2018  |
 > | Attract sur CDS pour les applications |  Disponibilité générale  | Octobre 2018  |

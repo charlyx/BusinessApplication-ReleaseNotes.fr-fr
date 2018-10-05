@@ -1,6 +1,6 @@
 ---
 title: Migration de la configuration
-description: Il est possible de migrer la configuration du portail Dynamics 365 entre les environnements
+description: Il est possible de migrer la configuration du Dynamics 365 Portal entre les environnements
 author: sandhangitmsft
 manager: ramalingamkrishnan
 ms.date: 7/22/2018
@@ -12,18 +12,15 @@ ms.technology:
 ms.author: sandhan
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2f1b97389e79909e67c1f60ab00862dbb805ccf3
+ms.sourcegitcommit: 7e0954b5f4a23af4780aa48b1b609c68fc7ae6e3
+ms.openlocfilehash: 589c266f81868780f660f9c174dc5538728174ef
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 # <a name="configuration-migration"></a>Migration de la configuration
 
 [!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
-
-
-
 
 Plusieurs configurations et personnalisations sont nécessaires pour développer un portail, et ce pour que les utilisateurs finaux puissent bénéficier de l'expérience souhaitée. Pour réduire le temps et les efforts nécessaires pour gérer la configuration du portail dans les environnements, nous avons publié un schéma de migration. Il fonctionne avec l'[Outil SDK de migration de la configuration](https://technet.microsoft.com/library/dn647421.aspx).
 
@@ -34,6 +31,8 @@ Il est possible d'utiliser toutes les fonctionnalités de l'outil SDK de migrati
  - **Créer un schéma** : Le schéma peut être adapté pour l'implémentation à l'aide des méthodes standard fournies par l'outil. Les fichiers du schéma peuvent être chargés dans l'outil et être modifiés pour ajouter, supprimer, et modifier des entités, des attributs, etc. pour répondre aux besoins de migration de la configuration.
  - **Exporter des données** : Utilisez le fichier du schéma pour exporter les données d'un environnement dans un fichier .zip, puis utilisez-le pour la sauvegarde, le contrôle de code source, ou l'importation dans un environnement cible.
  - **Importer des données** : Utiliser les données exportées pour importer dans un environnement cible.
+
+Pour plus d'informations sur la migration d'une configuration de portail, consultez la documentation détaillée : [Migrer la Dynamics 365 Portal configuration](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/migrate-portal-configuration)
 
 <!--
 ### Who uses this feature

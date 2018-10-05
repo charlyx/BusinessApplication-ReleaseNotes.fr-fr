@@ -3,7 +3,7 @@ title: "Globalisation – Configurabilité améliorée"
 description: "Cette rubrique décrit la configuration avancée dans la gestion des états électroniques, le moteur de taxes de globalisation."
 author: yijialuan
 manager: sshvedov
-ms.date: 07/22/2018
+ms.date: 09/07/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: riluan
 audience: Admin, developer, end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 120d810cfc70af7011425956e65ebe20e91b04b6
+ms.sourcegitcommit: 82ebd0def3ad9a394a1764eb77a8e2ece04f5048
+ms.openlocfilehash: 34b2a3e3f30b9d6be72b7bfefb30f887661d1c04
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/07/2018
 
 ---
 
@@ -29,7 +29,10 @@ La configurabilité des fonctionnalités permet aux partenaires et aux clients d
 - Chemins d'accès relatifs dans les formules de gestion d'états électroniques. Cette fonctionnalité permet un remappage rapide du format si vous devez basculer vers une autre entité de données ou un autre nœud XML avec une structure similaire.
 - Modèles de factures financières configurables et prêtes à l'emploi que les clients et les partenaires du monde entier peuvent facilement modifier pour satisfaire aux obligations légales locales.
 - Mappage de modèles séparé des documents fiscaux, afin qu'un ensemble de documents fiscaux puisse être partagé par des différentes versions de Finance and Operations.
-- Activation de la configuration de la devise des taxes sur le composant fiscal d'un document fiscal pour aider les clients de différentes agences réparties dans plusieurs pays.
-- Calculateur d'équations linéaires pour le calcul des taxes, afin que les utilisateurs doivent créer des formules de calcul des taxes avec des équations linéaires. Le résultat apportera des améliorations aux performances de calcul des taxes.
-- Activation de la configuration de la visibilité des mesures fiscales dans les documents fiscaux.
+- Il est possible d'activer la configuration de la devise de taxe par des recherches sur la composante de taxe dans les documents fiscaux. Ceci est utile pour les entreprises ayant plusieurs immatriculations fiscales dans différents pays. Cela permet d'utiliser différentes devises pour les taxes utilisées dans différents pays.
+- Calculateur d'équations linéaires pour le calcul des taxes. Cela nécessite que les utilisateurs créent des formules de calcul des taxes avec des équations linéaires. Le résultat apportera des améliorations aux performances de calcul des taxes.
+- Activation de la configuration de la visibilité des mesures fiscales dans les documents fiscaux. Les formules de taxe peuvent utiliser des mesures fiscales intermédiaires qui ne doivent pas nécessairement être affichées sur la page des documents fiscaux de Dynamics 365 Finance and Operations. Il est donc possible de masquer ces mesures fiscales.
+
+> [!div class="mx-imgBorder"]
+> ![Configuration de la visibilité des mesures fiscales dans les documents fiscaux](../../media/Configure-tax-measure-visibility.png)
 

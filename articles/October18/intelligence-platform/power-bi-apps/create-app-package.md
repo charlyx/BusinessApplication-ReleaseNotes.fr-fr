@@ -1,6 +1,6 @@
 ---
-title: "Créer un package d'application Power BI"
-description: "Créer un package d'application Power BI"
+title: "Créer un package d'applications de service Power BI"
+description: "Créer un package d'applications de service Power BI"
 author: ezaviv
 manager: HaydnR
 ms.date: 07/22/2018
@@ -11,13 +11,13 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c6b52f3db61aa217e8673644519d2070069e1794
+ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.openlocfilehash: 49c41917c7724e5a2da819bdc03f38177f0d55a8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/11/2018
 
 ---
-# <a name="create-a-power-bi-app-package"></a>Créer un package d'application Power BI
+# <a name="create-a-power-bi-service-app-package-public-preview"></a>Créer un package d'applications de service Power BI (version préliminaire publique)
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 

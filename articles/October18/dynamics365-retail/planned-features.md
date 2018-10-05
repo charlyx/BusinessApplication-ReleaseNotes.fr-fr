@@ -12,10 +12,10 @@ ms.technology:
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 5d2d0b20482e7a8466673d76148974360b2ad719
-ms.openlocfilehash: 6b16100feb49111980cd971538203260490d1e1c
+ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
+ms.openlocfilehash: 3ce85af67b9a401112c72221a6de0b889b23d347
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-retail"></a>Résumé des nouveautés dans Dynamics 365 for Retail
@@ -34,7 +34,7 @@ Pour obtenir la liste des régions dans lesquelles les applications de gestion D
 ## <a name="planned-features"></a>Fonctionnalités prévues
 
 > [!div class="mx-tableFixed"]
-> | Fonctionnalité                     | Type de version   | En ligne ou locale                      |Mois de la version cible |
+> | Fonctionnalité                     | Type de version   | En ligne ou locale                      |Date |
 > |-----------------------------|----------------|----------------------------------------------|-----------------------|
 > |[Améliorations de la fiabilité et de la facilité d'utilisation des paiements](payment-processing.md)  |Disponibilité générale   |  En ligne   |Octobre 2018       |
 > |[Connecteur de paiement](payment-connector.md)                            |Disponibilité générale      | En ligne    |Octobre 2018        |
@@ -45,7 +45,7 @@ Pour obtenir la liste des régions dans lesquelles les applications de gestion D
 > |[Prise en charge de la mise à niveau et N-1](support-upgrade-n-1-ax2012.md)     |Disponibilité générale   |  En ligne  |Octobre 2018   |
 > |[Mise à niveau et prise en charge de la version N-1 pour l'Inde](retail-upgrade-n-1-india.md)     |Disponibilité générale   |   En ligne  |Octobre 2018 |
 > |[Localisations de Retail pour Europe de l'Est](retail-localization-eastern-europe.md) |Disponibilité générale  |  En ligne  |Octobre 2018  |
-> |[Exemple d'intégration d'imprimante fiscale pour l'Italie](fiscal-printer-integration-sample-italy.md)  |Disponibilité générale  |   En ligne|Octobre 2018 |
+> |[Exemple d'intégration d'imprimante fiscale pour l'Italie](fiscal-printer-integration-sample-italy.md)  |Disponibilité générale  |   En ligne|Novembre 2018 |
 > |[Améliorations relatives aux programmes de fidélité](loyalty.md)  |Disponibilité générale      |  Les deux  |Octobre 2018      |
 > |[Horaires de magasin](store-hours.md)        |Disponibilité générale    | En ligne    |Octobre 2018     |
 > |[Traitement des commandes omnicanal amélioré](improved-omni-channel-order-processing.md)  |Disponibilité générale  |  En ligne  |Février 2019   |

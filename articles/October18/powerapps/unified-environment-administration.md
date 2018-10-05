@@ -1,24 +1,24 @@
 ---
-title: "Administration d'environnement unifiée"
+title: "Administration d'environnement unifiée dans le centre d'administration Power Platform"
 description: "Les administrateurs disposent désormais d'un seul emplacement pour mettre en service, surveiller et gérer tous les environnements Common Data Service pour les applications"
-author: ImadYanni
+author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 9/11/2018
 ms.assetid: a51c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: iyanni
+ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: ad27fa369cb2959f0136f13bb0923b080fdf3a9f
+ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.openlocfilehash: a2713b66d46d4413b434ff21e9fd645b50b83cfd
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/13/2018
 
 ---
-# <a name="unified-environment-administration"></a>Administration d'environnement unifiée
+# <a name="unified-environment-administration-from-power-platform-admin-center"></a>Administration d'environnement unifiée dans le centre d'administration Power Platform
 
 
 [!include[banner](../../includes/banner.md)]

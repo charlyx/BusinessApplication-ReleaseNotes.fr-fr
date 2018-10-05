@@ -11,10 +11,10 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
-ms.openlocfilehash: b346f75f14e0004f353e121d5a5b84ce384d2c14
+ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
+ms.openlocfilehash: 8769ee895a7e64685acc4f5e151c0dfa798def15
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-project-service"></a>Résumé des nouveautés dans Dynamics 365 for Project Service
@@ -24,7 +24,7 @@ Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pa
 Pour obtenir la liste des régions dans lesquelles les applications de gestion Dynamics 365 sont disponibles, consultez le [Guide de disponibilité internationale](https://aka.ms/dynamics_365_international_availability_deck). 
 
 
-| Fonctionnalité                                                                                                                                                                                                 | Type de version | Mois de la version cible |
+| Fonctionnalité                                                                                                                                                                                                 | Type de version | Date |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------|
 | [Modifications des lignes de journal, des dépenses et des périodes approuvées](../project-service/customer-driven-enhancements/adjustments-approved-time-expense-journal-lines.md)                                       | Disponibilité générale           | Novembre 2018          |
 | [Catégorie de tarification des dépenses basées sur les unités pour l'installation, l'estimation et les chiffres réels](../project-service/customer-driven-enhancements/unit-aware-expense-category-pricing-setup-estimation-actuals.md)           | Disponibilité générale           | Novembre 2018          |

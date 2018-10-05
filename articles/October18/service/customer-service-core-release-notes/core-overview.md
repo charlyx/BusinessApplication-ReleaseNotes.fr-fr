@@ -1,23 +1,23 @@
 ---
 title: "Présentation des fonctionnalités de Customer Service dans Microsoft Dynamics 365"
-description: "Découvrez les dernières fonctionnalités et les derniers engagements dans les zones principales de Customer Service dans Dynamics 365"
-author: MargoC
-manager: AnnBe
+description: "Découvrez les dernières fonctionnalités et les derniers engagements dans les zones principales de Customer Service dans Dynamics 365"
+keywords: 
 ms.date: 7/22/2018
-ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
+ms.service:
+- business-applications
 ms.topic: article
-ms.prod: 
-ms.service: business-applications
-ms.technology: 
-ms.author: margoc
-audience: Admin
+ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
+author: Annbe
+ms.author: Annbe
+manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
-ms.openlocfilehash: fa492b0fec2071ecd3aeb36a5272b5b694c46754
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: 1fdc8108141c5566839d70fcf94659822e8d5fb8
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/22/2018
 
 ---
+
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Présentation de la version d'octobre 2018 de Dynamics 365 for Customer Service
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
@@ -37,4 +37,5 @@ Grâce à la recherche par pertinence dans le contrôle de recherche de la Base 
 
 L'intégrité du service client dans One Admin Center permet aux entreprises de services de mieux surveiller la fiabilité et les fonctionnalités de leurs services, ce qui les aide à résoudre automatiquement d'éventuels problèmes avant qu'ils n'impactent la productivité.
 
-
+> [!NOTE]
+> Pour voir la liste des nouvelles fonctionnalités disponibles sur site pour le service client, voir [Fonctionnalités nouvelles dans la prochaine version des applications Dynamics 365 for Customer Engagement (on-premises)](/dynamics365/get-started/whats-new/customer-engagement/dynamics365-on-premises-features/). 

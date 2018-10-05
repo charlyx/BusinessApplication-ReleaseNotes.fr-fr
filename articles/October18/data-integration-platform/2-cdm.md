@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
-ms.openlocfilehash: 907b74b32252754cbfcdfb365f11358d40d80373
+ms.sourcegitcommit: f346fb3e54dd90b7fce25329eac8409b353ae17b
+ms.openlocfilehash: d4d414025d8270df6128791c3ff9954dcda1bffc
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/11/2018
 
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Partage, unification et enrichissement plus faciles des données avec les entités Common Data Model
@@ -48,11 +48,6 @@ Parmi ces partenaires, la société d'assurance **CUNA Mutual Group**, dont la s
 <a name="dynamics"></a>
 ### <a name="key-scenarios-from-popular-dynamics-offerings"></a>Principaux scénarios des offres Dynamics populaires
 Des définitions d'entités CDM supplémentaires couvrant des scénarios essentiels d'offres Dynamics populaires sont ajoutées, notamment des scénarios de Finance, Operations, Marketing, et bien plus encore. Outre les applications Dynamics mises à jour, les clients pourront tirer parti de ces entités standard dans leurs propres scénarios. 
-
-### <a name="adobe-xdm"></a>Adobe XDM
-
-**Adobe** collabore avec Microsoft sur CDM dans plusieurs domaines. Cela inclut notamment la représentation unifiée des enrichissements de profils et d'un profil personnalisé unifié, afin de faciliter l'**interopérabilité** entre les services et les expériences utilisateur, en s'appuyant sur le CDM de Microsoft et le XDM d'Adobe sous-jacents.
-
 
 ##  <a name="common-data-model-community-content"></a>Contenu de la communauté Common Data Model
 

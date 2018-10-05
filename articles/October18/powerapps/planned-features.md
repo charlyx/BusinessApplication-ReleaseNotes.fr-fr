@@ -3,7 +3,7 @@ title: "Synthèse des fonctionnalités prévues pour Microsoft PowerApps en octo
 description: "Liste complète des nouvelles fonctionnalités majeures qui seront disponibles dans la version d'octobre 2018 de Microsoft PowerApps."
 author: evchaki
 manager: KVivek
-ms.date: 9/9/2018
+ms.date: 9/11/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
-ms.openlocfilehash: 7a4db23493ee877d9eaabc90b974375d51e5908b
+ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
+ms.openlocfilehash: f27029d74393456c93089d007c8cfa9cd95c35b2
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 
@@ -28,7 +28,7 @@ Pour obtenir la liste des régions dans lesquelles les applications de gestion D
 
 Les créateurs d'applications de canevas ou d'applications basées sur des modèles ont à leur disposition encore plus de fonctionnalités.
 
-| Fonctionnalité    | Type de version    | Mois de la version cible    |
+| Fonctionnalité    | Type de version    | Date    |
 | ---------- | ---------- | ---------- |
 | [Aide améliorée pour les utilisateurs d'Access](improved-help-for-access-users.md) | Disponibilité générale |  Octobre 2018  |
 | [Amélioration de la création avec PowerApps pour les créateurs, quelles que soient leurs aptitudes](improved-powerapps-authoring-for-makers-of-all-abilities.md) | Disponibilité générale |  Octobre 2018  |
@@ -60,7 +60,7 @@ Les créateurs d'applications de canevas ou d'applications basées sur des modè
 | [Créer des entités et des applications dans le même outil](create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | Disponibilité générale |  Décembre 2018  |
 | [Gestion simplifiée des propriétés d'entité avancées](simplified-management-of-advanced-entity-properties.md) | Disponibilité générale |  Décembre 2018  |
 | [Les créateurs PowerApps peuvent créer des applications composites avec des bibliothèques de documents SharePoint](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | Disponibilité générale |  Janvier 2019  |
-| [Étendre les formulaires d'entité Dynamics 365 avec des applications de canevas incorporées](extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | Version préliminaire publique |  Octobre 2018  |
+| [Étendre les formulaires d'entité Dynamics 365 avec des applications de canevas incorporées](extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | Version préliminaire publique |  Octobre 2018  |
 | [Améliorer ALM pour les applications de canevas avec les solutions](improve-alm-for-canvas-app-with-solutions.md) | Version préliminaire publique |  Octobre 2018  |
 | [Créer et afficher les flux associés depuis une entité](create-and-view-related-flows-from-your-entity.md) | Version préliminaire publique |  Octobre 2018  |
 | [Configurer des groupes d'options dépendants](configure-dependent-optionsets.md) | Version préliminaire publique |  Octobre 2018  |
@@ -73,7 +73,7 @@ Les créateurs d'applications de canevas ou d'applications basées sur des modè
 
 Nous avons multiplié les expériences de qualité supérieure pour les utilisateurs finaux.
 
-| Fonctionnalité    | Type de version    | Mois de la version cible    |
+| Fonctionnalité    | Type de version    | Date    |
 | ---------- | ---------- | ---------- |
 | [Amélioration de la détection d'application pour les consommateurs](improved-app-discovery-for-app-consumers.md) | Disponibilité générale |  Octobre 2018  |
 | [Vitesse d'application améliorée](improved-speed-of-apps.md) | Disponibilité générale |  Octobre 2018  |
@@ -81,7 +81,7 @@ Nous avons multiplié les expériences de qualité supérieure pour les utilisat
 | [Chargement plus rapide des applications basées sur des modèles](faster-loading-model-driven-apps.md) | Disponibilité générale |  Octobre 2018  |
 | [Les formulaires PowerApps dans SharePoint sont plus rapides](powerapps-forms-in-sharepoint-are-faster.md) | Disponibilité générale |  Octobre 2018  |
 | [Générer des applications basées sur des modèles de qualité supérieure avec le vérificateur de solution](build-model-driven-apps-of-higher-quality-with-solution-checker.md) | Disponibilité générale |  Octobre 2018  |
-| [Connexion par courrier électronique au support Dynamics 365 Mobile](dynamics-365-mobile-support-email-login.md) | Disponibilité générale |  Octobre 2018  |
+| [Connexion par courrier électronique au support Dynamics 365 Mobile](dynamics-365-mobile-support-email-login.md) | Disponibilité générale |  Octobre 2018  |
 | [Les rapports Reporting Services seront disponibles sur Unified Interface](reporting-services-reports-available-on-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
 | [Entités ajoutées à Unified Interface](additional-entities-added-to-the-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
 | [Optimisations du formulaire Unified Interface](unified-interface-form-optimizations.md) | Disponibilité générale |  Octobre 2018  |
@@ -92,10 +92,10 @@ Nous avons multiplié les expériences de qualité supérieure pour les utilisat
 | [Filtrage des données dans des grilles prévues pour Unified Interface](filtering-data-on-grids-coming-to-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
 | [Équipe d'accès sur Unified Interface](access-team-on-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
 | [Améliorations des vues cumulatives dans Unified Interface](enhancements-to-roll-up-views-in-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
-| [Client Outlook v8.2 plus fiable pour Dynamics 365](more-reliable-outlook-client-v8.2-for-dynamics-365.md) | Disponibilité générale |  Octobre 2018  |
-| [Client Outlook v9.0 plus fiable pour Dynamics 365](more-reliable-outlook-client-v9.0-for-dynamics-365.md) | Disponibilité générale |  Octobre 2018  |
-| [Améliorations de la recherche Définir Concernant dans Dynamics 365](set-regarding-lookup-enhancements-in-common-data-service.md) | Disponibilité générale |  Octobre 2018  |
-| [Prise en charge des utilisateurs délégués dans Dynamics 365](support-for-delegate-users-in-dynamics-365.md) | Disponibilité générale |  Octobre 2018  |
+| [Client Outlook v8.2 plus fiable pour Dynamics 365](more-reliable-outlook-client-v8.2-for-dynamics-365.md) | Disponibilité générale |  Octobre 2018  |
+| [Client Outlook v9.0 plus fiable pour Dynamics 365](more-reliable-outlook-client-v9.0-for-dynamics-365.md) | Disponibilité générale |  Octobre 2018  |
+| [Améliorations de la recherche Définir Concernant dans Dynamics 365](set-regarding-lookup-enhancements-in-common-data-service.md) | Disponibilité générale |  Octobre 2018  |
+| [Prise en charge des utilisateurs délégués dans Dynamics 365](support-for-delegate-users-in-dynamics-365.md) | Disponibilité générale |  Octobre 2018  |
 | [Synchroniser des rendez-vous spécifiques avec Exchange](sync-specific-appointments-to-exchange.md) | Disponibilité générale |  Octobre 2018  |
 | [Performances accrues pour les entreprises internationales utilisant Common Data Service pour les applications](increased-performance-for-globally-distributed-common-data-service-enterprises.md) | Disponibilité générale |  Octobre 2018  |
 | [Fiabilité améliorée de l'expérience en mode hors connexion pour les applications de canevas](improved-reliability-of-offline-experience-for-canvas-apps.md) | Version préliminaire publique |  Février 2019  |
@@ -104,14 +104,14 @@ Nous avons multiplié les expériences de qualité supérieure pour les utilisat
 
 Les expériences d'administration sont essentielles à l'adoption d'une plateforme fiable.
 
-| Fonctionnalité    | Type de version    | Mois de la version cible    |
+| Fonctionnalité    | Type de version    | Date    |
 | ---------- | ---------- | ---------- |
 | [Prise en charge d'Intune par PowerApps](powerapps-supports-intune.md) | Disponibilité générale |  Octobre 2018  |
 | [Disponibilité du contrôle de l'expérience utilisateur sur Unified Interface](control-availability-of-user-experiences-on-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
-| [Expériences administrateurs disponibles dans Unified Interface](admin-experiences-available-from-unified-interface.md) | Disponibilité générale |  Octobre 2018  |
-| [Amélioration de la page Service Health](enhanced-service-health-page.md) | Disponibilité générale |  Octobre 2018  |
-| [Événements d'audit PowerApps](powerapps-audit-events.md) | Disponibilité générale |  Octobre 2018  |
 | [Aide et support des administrateurs renforcés](enhanced-help---support-for-admins.md) | Disponibilité générale |  Octobre 2018  |
-| [Administration d'environnement unifiée](unified-environment-administration.md) | Disponibilité générale |  Octobre 2018  |
+| [Administration d'environnement unifiée dans le centre d'administration Power Platform](unified-environment-administration.md) | Disponibilité générale |  Octobre 2018  |
 | [Nouveaux rapports d'analyse administrateur](new-admin-analytics-reports.md) | Disponibilité générale |  Octobre 2018  |
+| [Gérer les paramètres d'administration à partir du centre d'administration de Power Platform](admin-experiences-available-from-unified-interface.md) | Version préliminaire publique |  Octobre 2018  |
+| [Événements d'audit PowerApps](powerapps-audit-events.md) | Version préliminaire publique |  Décembre 2018  |
+| [Amélioration de la page Service Health](enhanced-service-health-page.md) | Version préliminaire publique |  Février 2019  |
 

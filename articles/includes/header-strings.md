@@ -3,5 +3,5 @@
 
 Notes de publication des applications de gestion - Octobre 2018
 
-Version 18.2.0
+Version 18.2.4
 

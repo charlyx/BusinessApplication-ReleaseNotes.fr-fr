@@ -1,5 +1,7 @@
 ---
-title: "Améliorer les performances commerciales et la planification grâce à l'application Dynamics 365 AI for Sales."
+redirect_url: ../change-history
+robots: noindex,nofollow
+title: "Améliorer les performances commerciales et la planification grâce à l'application Dynamics 365 AI for Sales"
 description: "Améliorer les performances commerciales et la planification des ventes grâce à l'application Dynamics 365 AI for Sales"
 keywords: 
 ms.date: 7/22/2018
@@ -7,18 +9,18 @@ ms.service:
 - business-applications
 ms.topic: article
 ms.assetid: ed1543db-b687-449c-90b6-ca1715de1358
-author: MargoC
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 05561650099897aaff1627f8160884824acd4ed0
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: 9acff5ff136957117b2f8cb27f253fa4a27d3357
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 
-# <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a>Améliorer les performances commerciales et la planification grâce à l'application Dynamics 365 AI for Sales.
+# <a name="enhance-team-performance-with-ai-and-insights"></a>Améliorer les performances de l'équipe avec l'IA et les connaissances 
 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 

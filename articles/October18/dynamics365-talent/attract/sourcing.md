@@ -1,7 +1,7 @@
 ---
-title: Sources d'approvisionnement
-description: Sources d'approvisionnement
-author: ShielaSogge
+title: Sourcing avec LinkedIn Recruiter
+description: Sourcing
+author: Hasrivas
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
@@ -11,23 +11,22 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fc3a2ef0430d102c1fb314db28be67bceda53016
+ms.sourcegitcommit: 8deac1eaae09f3cf7c1a8f677190f9007eb11d7a
+ms.openlocfilehash: b71ca1f026b161ebd0a142312dd6fff03951243b
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 
-# <a name="sourcing"></a>Sources d'approvisionnement
+# <a name="sourcing-with-linkedin-recruiter"></a>Sourcing avec LinkedIn Recruiter
 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-Cette fonctionnalité permet aux recruteurs et aux responsables du recrutement de bénéficier d'une certaine visibilité sur le pipeline des sources d'approvisionnement en effectuant le suivi des prospects, extrayant des prospects de LinkedIn Recruiter à l'aide du système Recruiter System Connect et en créant un profil unifié pour un candidat incluant les informations dont dispose LinkedIn (avec l'adhésion du candidat).
+Cette fonctionnalité permet aux recruteurs et aux responsables du recrutement de bénéficier d'une certaine visibilité sur le pipeline de sourcing en offrant la possibilité d'effectuer le suivi des prospects, d'extraire des prospects de LinkedIn Recruiter et de créer un profil unifié pour un candidat incluant les informations dont dispose LinkedIn (avec l'adhésion du candidat).
 
-Les recruteurs peuvent désormais tenir à jour une liste consolidée de tous les candidats qu'ils démarchent issus de toutes les sources. De plus, les recruteurs qui utilisent Attract et LinkedIn Recruiter disposent d'une expérience rationnalisée et peuvent afficher les données Attract dans LinkedIn Recruiter, ce qui leur permet de rester focalisés sur l'approvisionnement sans devoir basculer entre les applications. Cela permet aux recruteurs d'identifier rapidement et efficacement les candidats potentiellement adaptés au rôle.
+Les recruteurs peuvent désormais tenir à jour une liste consolidée de tous les candidats qu'ils étudient en regroupant toutes les sources. De plus, les recruteurs qui utilisent Attract et LinkedIn Recruiter disposent d'une expérience rationalisée et peuvent afficher les données Attract dans LinkedIn Recruiter, ce qui leur permet de rester focalisés sur le sourcing sans devoir passer d'une application à l'autre. Cela permet aux recruteurs d'identifier rapidement et efficacement les candidats potentiellement adaptés au rôle.
 
-De nouvelles fonctionnalités comprennent une zone dans laquelle gérer les prospects pour une tâche séparément des candidats. Les recruteurs étant sont des utilisateurs sous licence de LinkedIn Recruiter peuvent également utiliser les différentes fonctionnalités du système Recruiter System Connect de LinkedIn.
-Cela leur permet d'identifier dans leurs résultats de recherche dans LinkedIn Recruiter les candidats pour lesquels ils disposent déjà d'un profil dans Attract. Pour ces derniers, les recruteurs ont également la possibilité d'afficher des informations sur l'historique des candidatures précédentes du candidat dans LinkedIn Recruiter sans devoir basculer entre les applications.
+Les nouvelles fonctionnalités comprennent une zone dans laquelle gérer les prospects pour un emploi séparément des candidats. Les recruteurs titulaires d'une licence de LinkedIn Recruiter peuvent identifier les candidats pour lesquels ils ont déjà un profil dans Attract dans leurs résultats de recherche à partir de LinkedIn Recruter. Pour ces candidats, les recruteurs peuvent également afficher des informations sur l'historique des candidatures précédentes dans LinkedIn Recruiter sans devoir passer d'une application à l'autre. Ils peuvent consulter l'historique InMail avec le candidat dans Attract et leurs commentaires et notes sur les entretiens sont également synchronisés avec LinkedIn Recruiter.
 
 <!--
 ## Who uses this feature

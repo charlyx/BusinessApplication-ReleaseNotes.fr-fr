@@ -11,10 +11,10 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 88a4e372f8da17cc2b89a0b54ca0765fc7946e11
+ms.sourcegitcommit: 8dfda43808c3f5b21dabfcecabb05faea984099b
+ms.openlocfilehash: b6fb22e35c0e34b27256ab55a33e085c10a9aa73
 ms.contentlocale: fr-fr
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 
@@ -31,9 +31,9 @@ Parmi les avantages de cette fonctionnalité :
 -   Les recruteurs peuvent créer des viviers de talents et les organiser en fonction de leur processus de recrutement.
 -   Les candidats peuvent être importés directement dans ces viviers de talents ou être déplacés des tâches auxquelles ils ont postulé.
 -   Les fonctions de recherche et de filtre permettent de trouver des candidats dans vos viviers de talents.
--   Lorsque vous affichez le profil d'un candidat, vous pouvez facilement consulter son historique de candidature.
--   L'intelligence Azure mettent automatiquement en correspondance les candidats avec les positions à pourvoir pertinents.
--   Les candidats correspondants peuvent être aisément ajoutés comme prospects pour vos postes à pourvoir.
+-   Lorsque vous affichez le profil d'un candidat, vous pouvez facilement consulter son historique de candidatures.
+-   Les candidats intéressants peuvent être aisément ajoutés comme prospects pour vos postes à pourvoir.
+-   Vous pouvez également gérer vos médaillés d'argent pour un emploi en les plaçant directement dans un vivier de talents à partir d'un emploi. 
 
 <!--
 ## Who uses this feature

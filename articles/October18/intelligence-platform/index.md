@@ -12,10 +12,10 @@ ms.technology:
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
-ms.openlocfilehash: 297eed37c9baed883c0586722dc9b78580bdbbe6
+ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.openlocfilehash: c243e9ff86fe2faf53a1d4bd7971954c550ca293
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/11/2018
 
 ---
 
@@ -34,7 +34,7 @@ Pour les auteurs de rapports Power BI, le Bureau ajoute des modèles composites 
 
 Power BI Desktop continue d'utiliser l'IA et le langage naturel pour faciliter la vie des auteurs. Les éditeurs de logiciels indépendants peuvent désormais exploiter la nouvelle télémétrie à partir de Power BI et ainsi découvrir comment les Q&R sont utilisées dans leurs applications et utiliser ces données pour améliorer les résultats. Quick Insights utilise en outre des mesures non-additives avec une logique métier complexe. Avec ces fonctionnalités, les auteurs de rapports peuvent offrir aux utilisateurs la garantie d'obtenir de meilleurs résultats en exploitant à la fois l'IA et les connaissances de l'auteur spécifiques au domaine.
 
-## <a name="power-bi-service"></a>Power BI Service
+## <a name="power-bi-service"></a>Service Power BI
 
 La version d'octobre 2018 offre de nouvelles fonctionnalités dans deux secteurs principaux : le big data et le décisionnel d'entreprise.
 
@@ -42,9 +42,9 @@ La version d'octobre 2018 offre de nouvelles fonctionnalités dans deux secteurs
 
 -   **Démarrage avec le Common Data Model** : Power BI prend en charge le Common Data Model publié par Microsoft. Il fournit un ensemble extensible standard de schémas de données (entités, attributs et relations) pour les applications de gestion. Les utilisateurs peuvent tirer parti d'un schéma standard (ou le personnaliser en fonction de leurs besoins uniques) afin de simplifier la manière dont ils enrichissent leurs données avec d'autres sources de données, à partir de Microsoft et de tierces parties pour accélérer l'analyse.
 
--   **Préparation de données en libre-service pour le big data** : Nous développons la préparation des données en libre-service dans Power BI avec de nouvelles fonctionnalités pour permettre aux analystes d'entreprise d'extraire des informations du big data. À l'aide du Power Query déjà familier à des millions d'utilisateurs de Power BI Desktop et d'Excel, les analystes d'entreprise peuvent ingérer, transformer, intégrer et enrichir le big data avec Power BI, notamment avec des données provenant d'un ensemble de plus en plus important de sources de données, à la fois sur le cloud et en local, comme Dynamics 365, Salesforce, Azure SQL Data Warehouse, Excel et SharePoint. Les utilisateurs peuvent directement mapper des données aux entités connues, modifier et étendre les entités existantes, ou créer des entités personnalisées, tout cela dans Power BI.
+-   **Préparation de données en libre-service pour le big data** : Nous développons la préparation des données en libre-service dans Power BI avec de nouvelles fonctionnalités pour permettre aux analystes d'entreprise d'extraire des informations du big data. À l'aide du Power Query déjà familier à des millions d'utilisateurs de Power BI Desktop et d'Excel, les analystes d'entreprise peuvent ingérer, transformer, intégrer et enrichir le big data avec Power BI, notamment avec des données provenant d'un ensemble de plus en plus important de sources de données, à la fois sur le cloud et en local, comme Dynamics 365, Salesforce, Azure SQL Data Warehouse, Excel et SharePoint. Les utilisateurs peuvent directement mapper des données aux entités connues, modifier et étendre les entités existantes, ou créer des entités personnalisées, tout cela dans Power BI.
  
--   **Analyses avancées et IA avec Azure** : La collaboration entre les rôles est favorisée grâce à l'unification de l'accès aux données entre Power BI et Azure Data Lake Storage. Les analystes d'entreprise peuvent traiter de manière homogène les données stockées dans Azure Data Lake Storage avec les fonctionnalités en libre-service dans Power BI, tandis que les ingénieurs et les chercheurs de données et les autres utilisateurs peuvent étendre l'accès aux informations avec des analyses avancées et l'IA à partir de services de données Azure supplémentaires comme Azure Data Factory, Azure Databricks et Azure Machine Learning. Les ingénieurs de données peuvent par exemple ajouter, enrichir et orchestrer des données. Les chercheurs de données peuvent créer des modèles de Machine Learning ; et les analystes d'entreprise peuvent tirer profit de travail des autres et des données disponibles dans Azure Data Lake Storage tout en continuant à utiliser les outils en libre-service de Power BI pour créer et partager des informations à grande échelle.
+-   **Analyses et AI avancées avec Azure** : La collaboration entre les rôles est favorisée grâce à l'unification de l'accès aux données entre Power BI et Azure Data Lake Storage. Les analystes d'entreprise peuvent traiter de manière homogène les données stockées dans Azure Data Lake Storage avec les fonctionnalités en libre-service dans Power BI, tandis que les ingénieurs et les chercheurs de données et les autres utilisateurs peuvent étendre l'accès à des aperçus avec des analyses avancées et l'IA à partir de services de données Azure supplémentaires comme Azure Data Factory, Azure Databricks et Azure Machine Learning. Les ingénieurs de données peuvent par exemple ajouter, enrichir et orchestrer des données. Les chercheurs de données peuvent créer des modèles de Machine Learning ; et les analystes d'entreprise peuvent tirer profit de travail des autres et des données disponibles dans Azure Data Lake Storage tout en continuant à utiliser les outils en libre-service de Power BI pour créer et partager des aperçus à grande échelle.
 
 
 ### <a name="enterprise-bi"></a>Décisionnel d'entreprise
@@ -55,19 +55,17 @@ La version d'octobre 2018 offre de nouvelles fonctionnalités dans deux secteurs
 
 -   **Modèles de BI à l'échelle de l'entreprise** : Toute la puissance de SQL Server Analysis Services est intégrée dans Power BI, ce qui étend le service avec une plateforme hautement évolutive pour les modèles sémantiques de BI. Les organisations peuvent fournir aux utilisateurs des rapports rapides, très disponibles et simples à gérer, tout en s'alignant à leurs besoins uniques en matière de conformité. Et grâce aux fonctionnalités d'agrégation et d'actualisation incrémentielles, Power BI peut interroger d'importantes quantités de données, tout en continuant à offrir des expériences utilisateur rapides et interactives.
 
--   **Application lifecycle management (ALM)**  : ajoute de nouvelles fonctionnalités pour la gestion du cycle de vie d'entreprise, ainsi qu'une prise en charge totale des API pour les ensembles de données via le protocole XMLA pour aider les clients à se connecter à différents outils BI tiers dans Power BI pour créer un référentiel de modèles sémantique d'entreprise unifié.
-
 ## <a name="power-bi-mobile"></a>Power BI Mobile
 
-Les applications mobiles Power BI permettent d’importer des données et des informations vers n'importe quel appareil. Les utilisateurs professionnels peuvent accéder à et afficher en toute sécurité des tableaux de bord et des rapports Power BI sur n'importe quel appareil, avec des expériences mobiles optimisées pour Windows, iOS, et Android. Parmi les principales fonctionnalités de la version d'octobre 2018, on trouve : les informations d'identification partagées avec des applications Office, une nouvelle expérience personnelle de navigation et de page d'accueil, des fonctions de collaboration sur les données.
+Les applications Power BI Mobile permettent d'importer des données et des aperçus vers n'importe quel appareil. Les utilisateurs professionnels peuvent accéder à et afficher en toute sécurité des tableaux de bord et des rapports Power BI sur n'importe quel appareil, avec des expériences mobiles optimisées pour Windows, iOS, et Android. Parmi les principales fonctionnalités de la version d'octobre 2018, on trouve : les informations d'identification partagées avec des applications Office, une nouvelle expérience personnelle de navigation et de page d'accueil, des fonctions de collaboration sur les données.
 
 ## <a name="power-bi-embedded"></a>Power BI Embedded
 
 La version d'octobre 2018 contient ce qui suit :
 
 -   Un centre de développement contenant les ressources dont ont besoin les développeurs pour développer leurs solutions Power BI.
--   Un déploiement de bout en bout automatique des solutions Power BI Embedded.
--   L'intégration avec les diagnostics Azure et Azure Health.
+-   Déploiement de bout en bout automatique des solutions Power BI Embedded.
+-   L'intégration avec Azure Diagnostics et Azure Health.
 
 ## <a name="power-bi-report-server"></a>Power BI Report Server
 
