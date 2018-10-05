@@ -11,26 +11,21 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
-ms.openlocfilehash: 327c4a545a5490e60d3a84df325969f397ef9587
+ms.sourcegitcommit: 8deac1eaae09f3cf7c1a8f677190f9007eb11d7a
+ms.openlocfilehash: 88afd4e5f8d16da7f77425fa9c367115836e0347
 ms.contentlocale: fr-fr
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 
-# <a name="relevant-jobs-and-candidates"></a><span data-ttu-id="c9a45-103">Tâches et candidats pertinents</span><span class="sxs-lookup"><span data-stu-id="c9a45-103">Relevant jobs and candidates</span></span>
+# <a name="relevant-jobs-and-candidates"></a><span data-ttu-id="38afc-103">Tâches et candidats pertinents</span><span class="sxs-lookup"><span data-stu-id="38afc-103">Relevant jobs and candidates</span></span>
 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-<span data-ttu-id="c9a45-104">Les recruteurs peuvent être se retrouver dépassés lorsqu'ils essaient de déterminer quels candidats privilégier.</span><span class="sxs-lookup"><span data-stu-id="c9a45-104">Recruiters can be overwhelmed by trying to determine which candidates to focus on.</span></span>
-<span data-ttu-id="c9a45-105">Attract met automatiquement en surbrillance les profils de candidats qui répondent aux exigences de la tâche, ce qui fait gagner du temps au recruteur et lui permet de pourvoir ses postes plus rapidement tout en privilégiant les candidats les plus pertinents.</span><span class="sxs-lookup"><span data-stu-id="c9a45-105">Attract automatically highlights candidate profiles that match the job requirements, saving time for the recruiter and helping them close their positions faster by being able to focus on the most relevant candidates.</span></span>
+<span data-ttu-id="38afc-104">Les recruteurs et les responsables du recrutement peuvent utiliser les recommandations intelligentes d'Attract pour rationaliser le processus de sourcing et trier efficacement les prospects et les candidats.</span><span class="sxs-lookup"><span data-stu-id="38afc-104">Recruiters and hiring managers can use intelligent recommendations from Attract to streamline the sourcing process and triage prospects and applicants efficiently.</span></span> <span data-ttu-id="38afc-105">Ces recommandations font apparaître les candidats et prospects dont les profils (CV, profils LinkedIn) correspondent le mieux à un poste particulier.</span><span class="sxs-lookup"><span data-stu-id="38afc-105">These recommendations surface the candidates and prospects whose profiles (resumes, LinkedIn profiles) are the best match for a particular job.</span></span> <span data-ttu-id="38afc-106">Le moteur de recommandations est actualisé sur la base de commentaires explicites (fournis par l'utilisateur) et implicites (les types de candidats qui ont obtenu des postes par le passé), et se perfectionne constamment.</span><span class="sxs-lookup"><span data-stu-id="38afc-106">The recommendation engine is retrained based on explicit (user provided) and implicit feedback (the types of candidates that have secured positions in the past), and is refining itself constantly.</span></span>
+ 
+<span data-ttu-id="38afc-107">Les candidats voient également s'afficher des recommandations pour des emplois qui pourraient les intéresser en fonction de l'historique de leurs candidatures et de leur profil.</span><span class="sxs-lookup"><span data-stu-id="38afc-107">Candidates are also shown recommendations for jobs they might be interested in based on their application history as well as their profile.</span></span>
 
-<span data-ttu-id="c9a45-106">Les profils de candidats sont comparés de manière intelligente aux exigences professionnelles.</span><span class="sxs-lookup"><span data-stu-id="c9a45-106">Candidate profiles are intelligently compared to job requirements.</span></span> <span data-ttu-id="c9a45-107">Le résultat de cette analyse active plusieurs scénarios de recommandation intelligente :</span><span class="sxs-lookup"><span data-stu-id="c9a45-107">The output of this analysis enables several intelligent recommendation scenarios:</span></span>
-
--   <span data-ttu-id="c9a45-108">Les candidats pertinents sont identifiés lorsque vous affichez vos tâches.</span><span class="sxs-lookup"><span data-stu-id="c9a45-108">Relevant candidates are identified when viewing your jobs.</span></span>
--   <span data-ttu-id="c9a45-109">Les tâches sont recommandées lorsque vous affichez des groupes de candidats dans vos viviers de talents.</span><span class="sxs-lookup"><span data-stu-id="c9a45-109">Jobs are recommended when viewing groups of candidates in your talent pools.</span></span>
--   <span data-ttu-id="c9a45-110">Les tâches pour auxquelles un candidat pourrait correspondre s'affichent lorsque vous consultez le profil d'un candidat.</span><span class="sxs-lookup"><span data-stu-id="c9a45-110">Jobs that a candidate might be a good fit for are displayed when viewing a candidate profile.</span></span>
-    
 <!--
 ## Who uses this feature
 Recruiters

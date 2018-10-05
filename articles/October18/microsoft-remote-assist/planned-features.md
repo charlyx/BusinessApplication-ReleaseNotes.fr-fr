@@ -1,0 +1,39 @@
+---
+title: "Résumé des nouveautés dans Dynamics 365 Remote Assist"
+description: "Liste des fonctionnalités prévues pour Remote Assist."
+author: ReneeW-CPub
+manager: AnnBe
+ms.date: 09/24/2018
+ms.topic: summary
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: mapau
+audience: 
+ms.translationtype: HT
+ms.sourcegitcommit: baff5b141733b4556ab3cd34f105d47d9f52655e
+ms.openlocfilehash: 6a17776842e2f6ae8c5a96c97f225016502786ae
+ms.contentlocale: fr-fr
+ms.lasthandoff: 09/25/2018
+
+---
+
+# <a name="summary-of-whats-new-in-dynamics-365-remote-assist"></a><span data-ttu-id="8c2b8-103">Résumé des nouveautés dans Dynamics 365 Remote Assist</span><span class="sxs-lookup"><span data-stu-id="8c2b8-103">Summary of what’s new in Dynamics 365 Remote Assist</span></span>
+
+<span data-ttu-id="8c2b8-104">Ces notes de publication décrivent des fonctionnalités qui n'ont peut-être pas encore été publiées.</span><span class="sxs-lookup"><span data-stu-id="8c2b8-104">These release notes describe functionality that may not have been released yet.</span></span>
+<span data-ttu-id="8c2b8-105">Les délais de livraison peuvent changer et la fonctionnalité prévue peut ne pas être lancée (voir [Stratégie de Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/onlinedisclaimer.aspx)).</span><span class="sxs-lookup"><span data-stu-id="8c2b8-105">Delivery timelines and projected functionality may change or may not ship (see [Microsoft policy](https://www.microsoft.com/en-us/legal/intellectualproperty/onlinedisclaimer.aspx)).</span></span>
+
+| <span data-ttu-id="8c2b8-106">**Fonctionnalité**</span><span class="sxs-lookup"><span data-stu-id="8c2b8-106">**Feature**</span></span>                                     | <span data-ttu-id="8c2b8-107">**Type de version**</span><span class="sxs-lookup"><span data-stu-id="8c2b8-107">**Release type**</span></span>     | <span data-ttu-id="8c2b8-108">**Date**</span><span class="sxs-lookup"><span data-stu-id="8c2b8-108">**Date**</span></span> |
+|-------------------------------------------------|----------------------|--------------------------|
+| [<span data-ttu-id="8c2b8-109">Intégration à Dynamics 365 for Field Service</span><span class="sxs-lookup"><span data-stu-id="8c2b8-109">Integration with Dynamics 365 for Field Service</span></span>](field-service-integration.md) | <span data-ttu-id="8c2b8-110">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-110">General Availability</span></span> | <span data-ttu-id="8c2b8-111">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-111">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-112">Insérer un fichier PDF</span><span class="sxs-lookup"><span data-stu-id="8c2b8-112">Insert a PDF file</span></span>](insert-PDF-file.md)                               | <span data-ttu-id="8c2b8-113">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-113">General Availability</span></span> | <span data-ttu-id="8c2b8-114">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-114">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-115">Prendre un instantané pour capturer des annotations</span><span class="sxs-lookup"><span data-stu-id="8c2b8-115">Take a snapshot to capture annotations</span></span>](snapshot.md)         | <span data-ttu-id="8c2b8-116">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-116">General Availability</span></span> | <span data-ttu-id="8c2b8-117">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-117">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-118">Chat</span><span class="sxs-lookup"><span data-stu-id="8c2b8-118">Text chat</span></span>](text-chat.md)                                       | <span data-ttu-id="8c2b8-119">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-119">General Availability</span></span> | <span data-ttu-id="8c2b8-120">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-120">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-121">Ajouter des flèches directionnelles</span><span class="sxs-lookup"><span data-stu-id="8c2b8-121">Add directional arrows</span></span>](add-directional-arrow.md)                              | <span data-ttu-id="8c2b8-122">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-122">General Availability</span></span> | <span data-ttu-id="8c2b8-123">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-123">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-124">L'audio s'ajuste automatiquement lors d'un appel Remote Assist</span><span class="sxs-lookup"><span data-stu-id="8c2b8-124">Audio adjusts automatically during a Remote Assist call</span></span>](dynamic-audio.md)   | <span data-ttu-id="8c2b8-125">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-125">General Availability</span></span> | <span data-ttu-id="8c2b8-126">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-126">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-127">Utiliser les commandes vocales</span><span class="sxs-lookup"><span data-stu-id="8c2b8-127">Use voice commands</span></span>](voice-commands.md)                                  | <span data-ttu-id="8c2b8-128">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-128">General Availability</span></span> | <span data-ttu-id="8c2b8-129">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-129">October 2018</span></span>             |
+| [<span data-ttu-id="8c2b8-130">Lancer Remote Assist à partir d'une autre application en utilisant l'activation de protocole</span><span class="sxs-lookup"><span data-stu-id="8c2b8-130">Launch Remote Assist from another app using protocol activation</span></span>](protocol-activation.md)  |  <span data-ttu-id="8c2b8-131">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-131">General Availability</span></span>  | <span data-ttu-id="8c2b8-132">Octobre 2018</span><span class="sxs-lookup"><span data-stu-id="8c2b8-132">October 2018</span></span>    |
+| [<span data-ttu-id="8c2b8-133">Annotations mobiles</span><span class="sxs-lookup"><span data-stu-id="8c2b8-133">Mobile annotations</span></span>](mobile-annotations.md)                              | <span data-ttu-id="8c2b8-134">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-134">General Availability</span></span> | <span data-ttu-id="8c2b8-135">Mars 2019</span><span class="sxs-lookup"><span data-stu-id="8c2b8-135">March 2019</span></span>               |
+| [<span data-ttu-id="8c2b8-136">Appel de groupe</span><span class="sxs-lookup"><span data-stu-id="8c2b8-136">Group calling</span></span>](group-calling.md)                                   | <span data-ttu-id="8c2b8-137">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-137">General Availability</span></span> | <span data-ttu-id="8c2b8-138">Mars 2019</span><span class="sxs-lookup"><span data-stu-id="8c2b8-138">March 2019</span></span>               |
+| [<span data-ttu-id="8c2b8-139">Localisation de Remote Assist</span><span class="sxs-lookup"><span data-stu-id="8c2b8-139">Localization of Remote Assist</span></span>](localization.md)                                    | <span data-ttu-id="8c2b8-140">Disponibilité générale</span><span class="sxs-lookup"><span data-stu-id="8c2b8-140">General Availability</span></span> | <span data-ttu-id="8c2b8-141">Mars 2019</span><span class="sxs-lookup"><span data-stu-id="8c2b8-141">March 2019</span></span>               |
+
